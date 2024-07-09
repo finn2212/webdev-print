@@ -1,0 +1,129 @@
+{% comment %}
+  Renders the printess edit button inside the cart.
+  Version 2.1
+  
+  Accepts:
+  - item: {Object} cart line item.
+  - classes: {String} classes to use for styling.
+  - label: {String} the label that should be used for the edit button.
+  - shopToken: {String} Your printess shop token.
+  - startupLogoUrl: {String} Url for the startup logo of the editor that should be displayed on load (requires premium account),
+  - showStartupAnimation: {Boolean} The stars startup animation should be displayed.
+  - hidePricesInEditor: {Boolean} The editor should display product prices.
+  - editorVersion: {String} The editor version that should be loaded "" for release; "/v/nightly" for dev.
+  - legalText: {String} The legal text that should be displayed inside the editor together with the price.
+  - theme: {String} The theme the editor should be loaded with.
+  - showProductName: {Boolean} If set to false, the editor will not display the product name.
+  - showAlertOnTabClose: {Boolean} If set to true, a warning is shown in case the editor is open and someone closes the current tab.
+  - startupBackgroundColor: {String} The background color for the startup screen
+  Usage:
+  {% render 'printess-cart-edit-button',
+    item: item,
+    classes: 'button_class_1 etc',
+    label: 'Edit',
+    shopToken: "",
+    startupLogoUrl: "",
+    showStartupAnimation: true,
+    hidePricesInEditor: false,
+    editorVersion: "/v/nightly",
+    legalText: "incl. tax, excl. shipping",
+    theme: "theme01",
+    showProductName: true,
+    showAlertOnTabClose: true,
+    startupBackgroundColor: "#000000"
+  %}
+{% endcomment %}
+
+{%  if item.properties._printessSaveToken != blank %}
+
+<script>
+
+  function getPrintessEditor() {
+
+    if(!getPrintessEditor.editor) {
+      getPrintessEditor.editor = typeof initPrintessShopifyEditor !== "undefined" ? initPrintessShopifyEditor({ displayProductName: !({{showProductName | json}} === false),
+                                                                                                                shopToken: "{{ shopToken }}",
+                                                                                                                "startupLogoUrl": "{{ startupLogoUrl }}",
+                                                                                                                "showStartupAnimation": {{ showStartupAnimation }},
+                                                                                                                "hidePricesInEditor": {{ hidePricesInEditor }},
+                                                                                                                shopMoneyFormat: "{{ shop.money_format }}",
+                                                                                                                "editorVersion": {{ editorVersion | json }},
+                                                                                                                "showAlertOnTabClose": {{showAlertOnTabClose | json}} === true,
+                                                                                                                "startupBackgroundColor": "{{startupBackgroundColor}}" || "#000000"
+                                                                                                              }) : null;
+    }
+
+    return getPrintessEditor.editor;
+  }
+
+  function openPrintessEditor{{ item.key | replace: "-", "_" | replace: ":", "_" }}() {
+    const basketItem = {{ item | json }};
+    const basketItemProperties = {{item.properties | json}};
+
+    if(basketItemProperties) {
+      basketItem.properties = {};
+      basketItemProperties.forEach((prop) => {
+        if(prop.length > 1) {
+          basketItem.properties[prop[0]] = prop[1];
+        } else {
+          basketItem.properties[prop[0]] = "";
+        }
+      });
+    }
+
+    const editor = getPrintessEditor();
+
+    if(!editor) {
+      return;
+    }
+
+    editor.getProductByHandle(basketItem.handle).then((product) => {
+      const selectedVariant = product.variants ? product.variants.filter((x) => x.id == basketItem.variant_id) : [];
+      const optionLookup = {};
+
+      if(product.options) {
+        product.options.forEach((option, index) => {
+          optionLookup[index] = option;
+        });
+      }
+
+      if(selectedVariant && selectedVariant.length > 0 && selectedVariant[0].options) {
+        selectedVariant[0].options.forEach((option, index) => {
+          if(optionLookup.hasOwnProperty(index)) {
+            basketItem.properties[optionLookup[index]] = option;
+          }
+        });
+      }
+
+      
+      const settings = {
+        templateNameOrSaveToken: basketItem.properties["_printessSaveToken"] || "",
+        product: product,
+        basketItemId: {{ item.key | json }},
+        productDefinitionId: basketItem.properties["_printessProductDefinitionId"] || "",
+        outputFormat: basketItem.properties["_printessOutputType"] || "",
+        outputDpi: basketItem.properties["_printessDpi"] || "",
+        basketItemOptions: basketItem.properties,
+        quantity: basketItem.quantity,
+        optionValueMappings: basketItem.properties["_printessOptionValueMappings"] || "",
+        legalText: {% if legalText != blank %}{{ legalText | json }}{% else %}""{% endif %},
+        theme: basketItem.properties["_printessTheme"] || {% if theme != blank %}"{{ theme }}"{% else %}""{%endif%}
+
+        // ,onAddToBasket: function(saveToken, thumbnailUrl) {
+
+        // },
+
+        // onSave: function(saveToken, thumbnailUrl) {
+          
+        // }
+      };
+      
+      editor.show(settings);
+    });
+  }
+</script>
+
+<span style="margin-top: 20px;" onclick='showPrintessEditorFallback("{{ item.key | replace: "-", "_" | replace: ":", "_" }}")' id="printessCustomizeButton{{ item.key | replace: "-", "_" | replace: ":", "_" }}" class="{{ classes }}">{{ label | escape }}</span>
+
+
+{%  endif %}
