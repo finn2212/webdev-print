@@ -1,1 +1,572 @@
-{"sections":{"rich_text_7wTc9F":{"type":"rich-text","blocks":{"title_dfQEzq":{"type":"title","settings":{"title":"Schenke das Besondere","title_size":"h1","seo_h_tag":"h1"}},"text_HtMjhp":{"type":"text","settings":{"text":"<p>Janosch-Motive mit<br\/>ganz persönlicher Note<\/p>","text_size":"regular"}}},"block_order":["title_dfQEzq","text_HtMjhp"],"settings":{"image_position":"top no-image","height":"regular","image_crop":true,"text_alignment":"horizontal-center","is_fullwidth":false,"section_background_color":"rgba(0,0,0,0)","section_background_gradient":"","remove_margin":false,"color_background_main":"rgba(0,0,0,0)","color_text_main":"rgba(0,0,0,0)","color_accent_main":"rgba(0,0,0,0)","color_borders_main":"rgba(0,0,0,0)","color_shadow_main":"rgba(0,0,0,0)","color_hide_borders":true,"color_hide_shadow":true}},"promotion_cards_fmqxNV":{"type":"promotion-cards","blocks":{"card_3QM4zY":{"type":"card","settings":{"image":"shopify:\/\/shop_images\/002.webp","caption":"Personalisierbarer Druck ab 30 x 40 cm","title":"Bestseller #1: Sonnenuntergang","subtitle":"Lieferung mit \/ ohne Bilderrahmen","link":"","open_in_new_window":false,"button_label":"Jetzt personalisieren","color_background_main":"rgba(0,0,0,0)","color_text_main":"rgba(0,0,0,0)","color_accent_main":"#1d1d1d","color_borders_main":"rgba(0,0,0,0)","color_shadow_main":"rgba(0,0,0,0)","color_hide_borders":true,"color_hide_shadow":true,"seo_h_tag":"h3"}},"card_zjNe6Y":{"type":"card","settings":{"image":"shopify:\/\/shop_images\/005.webp","caption":"Personalisierbarer Druck im Format DIN A4","title":"Wondrak: Im Leben ankommen","subtitle":"Lieferung mit \/ ohne Bilderrahmen","link":"","open_in_new_window":false,"button_label":"Jetzt personalisieren","color_background_main":"rgba(0,0,0,0)","color_text_main":"rgba(0,0,0,0)","color_accent_main":"#1d1d1d","color_borders_main":"rgba(0,0,0,0)","color_shadow_main":"rgba(0,0,0,0)","color_hide_borders":true,"color_hide_shadow":true,"seo_h_tag":"h3"}},"card_prURjA":{"type":"card","settings":{"image":"shopify:\/\/shop_images\/004.webp","caption":"Personalisierbarer Druck ab 30 x 40 cm","title":"Eine Blume für dich","subtitle":"Lieferung mit \/ ohne Bilderrahmen","link":"","open_in_new_window":false,"button_label":"Jetzt personalisieren","color_background_main":"rgba(0,0,0,0)","color_text_main":"rgba(0,0,0,0)","color_accent_main":"#1d1d1d","color_borders_main":"rgba(0,0,0,0)","color_shadow_main":"rgba(0,0,0,0)","color_hide_borders":true,"color_hide_shadow":true,"seo_h_tag":"h3"}},"card_CpWiyL":{"type":"card","settings":{"image":"shopify:\/\/shop_images\/007.webp","caption":"Personalisierbarer Druck ab 30 x 40 cm","title":"Liebe. Sonst nichts.","subtitle":"Lieferung mit \/ ohne Bilderrahmen","link":"","open_in_new_window":false,"button_label":"Jetzt personalisieren","color_background_main":"rgba(0,0,0,0)","color_text_main":"rgba(0,0,0,0)","color_accent_main":"#1d1d1d","color_borders_main":"rgba(0,0,0,0)","color_shadow_main":"rgba(0,0,0,0)","color_hide_borders":true,"color_hide_shadow":true,"seo_h_tag":"h3"}},"card_C3JA8C":{"type":"card","settings":{"image":"shopify:\/\/shop_images\/006.webp","caption":"Personalisierbarer Druck ab 30 x 40 cm","title":"Freunde","subtitle":"Lieferung mit \/ ohne Bilderrahmen","link":"","open_in_new_window":false,"button_label":"Jetzt personalisieren","color_background_main":"rgba(0,0,0,0)","color_text_main":"rgba(0,0,0,0)","color_accent_main":"#1d1d1d","color_borders_main":"rgba(0,0,0,0)","color_shadow_main":"rgba(0,0,0,0)","color_hide_borders":true,"color_hide_shadow":true,"seo_h_tag":"h3"}},"card_968qzJ":{"type":"card","settings":{"image":"shopify:\/\/shop_images\/008.webp","caption":"Personalisierbarer Druck ab 30 x 40 cm","title":"Wir sind füreinander da","subtitle":"Lieferung mit \/ ohne Bilderrahmen","link":"","open_in_new_window":false,"button_label":"Jetzt personalisieren","color_background_main":"rgba(0,0,0,0)","color_text_main":"rgba(0,0,0,0)","color_accent_main":"#1d1d1d","color_borders_main":"rgba(0,0,0,0)","color_shadow_main":"rgba(0,0,0,0)","color_hide_borders":true,"color_hide_shadow":true,"seo_h_tag":"h3"}}},"block_order":["card_3QM4zY","card_zjNe6Y","card_prURjA","card_CpWiyL","card_C3JA8C","card_968qzJ"],"settings":{"heading":"Unsere beliebtesten Motive","subheading":"","section_heading_layout":"section-heading--center","layout":"grid-3 grid-lap-1","image_aspect_ratio":"1","text_alignment":"text-align--center","caption_size":"regular","title_size":"h2","subtitle_size":"regular","button_size":"regular","button_style":"solid","section_background_color":"rgba(0,0,0,0)","section_background_gradient":"","section_heading_color":"rgba(0,0,0,0)","remove_margin":true,"seo_h_tag":"h2"}},"collection_list_qVCyDc":{"type":"collection-list","blocks":{"collection_LQW3ta":{"type":"collection","settings":{"collection":"freundschaft-liebe","image":"shopify:\/\/shop_images\/012.webp"}},"collection_fHEKjb":{"type":"collection","settings":{"collection":"geburtstag","image":"shopify:\/\/shop_images\/010.webp"}},"collection_xXtQa7":{"type":"collection","settings":{"collection":"geburt","image":"shopify:\/\/shop_images\/011.webp"}},"collection_icRYBx":{"type":"collection","settings":{"collection":"wondrak","image":"shopify:\/\/shop_images\/009.webp"}}},"block_order":["collection_LQW3ta","collection_fHEKjb","collection_xXtQa7","collection_icRYBx"],"settings":{"heading":"Beliebte Themen","subheading":"","show_view_all":true,"section_heading_layout":"section-heading--center","style":"grid","layout":"grid-4 grid-lap-3 grid-palm-2","image_aspect_ratio":"1","section_background_color":"rgba(0,0,0,0)","section_background_gradient":"","section_heading_color":"rgba(0,0,0,0)","remove_margin":false,"seo_h_tag":"h2"}},"testimonials_h3RaJR":{"type":"testimonials","blocks":{"testimonial_tnwbcc":{"type":"testimonial","settings":{"author_name":"Rosa","author_title":"Berlin","quote":"<p><em>Großartig. Ich bin begeistert!<\/em><\/p>"}},"testimonial_UU7VWY":{"type":"testimonial","settings":{"author_name":"Hans","author_title":"Fußballfan","quote":"<p><em>Auch wenn der Druck in Bayern hergestellt wird, kann man ihn ohne Einweghandschuhe anfassen.<\/em><\/p>"}}},"block_order":["testimonial_tnwbcc","testimonial_UU7VWY"],"settings":{"heading":"Das sagen unsere Kund:innen:","subheading":"","section_heading_layout":"section-heading--center","quote_font":"serif","quote_font_size":32,"quote_line_height":1.1,"content_alignment":"center","color_background_main":"#ddebc5","color_text_main":"rgba(0,0,0,0)","color_borders_main":"rgba(0,0,0,0)","color_shadow_main":"rgba(0,0,0,0)","color_hide_borders":true,"color_hide_shadow":true,"section_background_color":"#ddebc5","section_background_gradient":"","section_heading_color":"rgba(0,0,0,0)","remove_margin":false,"seo_h_tag":"h2"}},"rich_text_WmjRce":{"type":"rich-text","blocks":{"title_4PXnWN":{"type":"title","settings":{"title":"Wir sind nachhaltig engagiert und klimaneutral.","title_size":"h2","seo_h_tag":"h2"}},"text_TDBMkb":{"type":"text","settings":{"text":"<p>Es ist für uns eine Selbstverständlichkeit, dass wir unsere Lebensgrundlagen und somit den Planeten Erde erhalten und schützen müssen. Wir bemühen uns daher, möglichst wenig Ressourcen zu verbrauchen. Die Ressourcen, die wir nutzen, sollen diesem Anspruch möglichst gerecht werden.<\/p>","text_size":"regular"}},"button_VcUdna":{"type":"button","settings":{"button_label":"Mehr erfahren","link":"","open_in_new_window":false,"button_size":"regular","button_style":"solid"}}},"block_order":["title_4PXnWN","text_TDBMkb","button_VcUdna"],"settings":{"image":"shopify:\/\/shop_images\/TEW_Logo_RGB_800x800_9b7ec301-3d87-4c3a-a9eb-da2e946a88af.jpg","image_position":"top","height":"regular","image_crop":true,"text_alignment":"horizontal-center","is_fullwidth":false,"section_background_color":"rgba(0,0,0,0)","section_background_gradient":"","remove_margin":false,"color_background_main":"rgba(0,0,0,0)","color_text_main":"rgba(0,0,0,0)","color_accent_main":"rgba(0,0,0,0)","color_borders_main":"rgba(0,0,0,0)","color_shadow_main":"rgba(0,0,0,0)","color_hide_borders":true,"color_hide_shadow":true}},"text_columns_icons_Tkzcnf":{"type":"text-columns-icons","blocks":{"image_kcEq8w":{"type":"image","settings":{"icon":"delivery","title":"Gratis","caption":"Versand innerhalb Deutschlands ab 50,- Euro Bestellwert","link":"","open_in_new_window":false,"color_background_main":"#f2f1ed","color_icons_main":"rgba(0,0,0,0)","seo_h_tag":"h3"}},"image_V9XDwY":{"type":"image","settings":{"icon":"time-limit","title":"Schnell","caption":"Bestellst du werktags bis 12 Uhr, versenden wir meist noch am selben Tag!","link":"","open_in_new_window":false,"color_background_main":"#f2f1ed","color_icons_main":"rgba(0,0,0,0)","seo_h_tag":"h3"}},"image_3RW8jH":{"type":"image","settings":{"icon":"store","title":"Sicherer","caption":"Rechnungskauf mit unserem Partner Klarna  möglich!","link":"","open_in_new_window":false,"color_background_main":"#f2f1ed","color_icons_main":"rgba(0,0,0,0)","seo_h_tag":"h3"}},"image_phbKCU":{"type":"image","settings":{"icon":"tree","title":"Klimaneutral","caption":"Wir produzieren und versenden deine Drucke klimaneutral!","link":"","open_in_new_window":false,"color_background_main":"#f2f1ed","color_icons_main":"rgba(0,0,0,0)","seo_h_tag":"h3"}}},"block_order":["image_kcEq8w","image_V9XDwY","image_3RW8jH","image_phbKCU"],"settings":{"heading":"Deine Vorteile","subheading":"Das ist toll an Janosch Druck:","section_heading_layout":"section-heading--center","style":"grid","layout":"grid-4 grid-portable-3 grid-lap-2","border_radius":200,"section_background_color":"#f2f1ed","section_background_gradient":"","section_heading_color":"rgba(0,0,0,0)","remove_margin":false,"seo_h_tag":"h2"}},"newsletter_NA3mnP":{"type":"newsletter","settings":{"show_icon":true,"title":"Mit lieben Grüßen und heißen Küssen, dein Tiger.","text":"<p>Dir gefällt, was du siehst? Bleib uns doch verbunden: Mit unserem hauseigenen Schnellpostnewsletter, der dich in unregelmäßigen Abständen garantiert sicher und kostenlos über Neuigkeiten informiert. Bis bald!<\/p>","color_background_main":"rgba(0,0,0,0)","color_text_main":"rgba(0,0,0,0)","color_borders_main":"rgba(0,0,0,0)","color_shadow_main":"rgba(0,0,0,0)","section_background_color":"rgba(0,0,0,0)","section_background_gradient":"","remove_margin":false,"seo_h_tag":"h2"}},"rich_text_f8MJgB":{"type":"rich-text","blocks":{"title_r3WtD7":{"type":"title","settings":{"title":"Über Janosch","title_size":"h2","seo_h_tag":"h2"}},"text_zAxGFH":{"type":"text","settings":{"text":"<p>Janosch wurde am 11. März 1931 als Horst Eckert in Oberschlesien, geboren. 1960 erschien sein erstes Kinderbuch »Die Geschichte von Valek, dem Pferd«. 1978 gelang ihm nach vielen Jahren der Erfolglosigkeit mit »Oh, wie schön ist Panama«, den beiden Freunden Kleiner Tiger und Kleiner Bär und natürlich der Tigerente, der Durchbruch. Er wurde zum wohl erfolgreichsten Kinderbuchautor Deutschlands. Neben »Panama« sind auch »Post für den Tiger«, »Komm, wir finden einen Schatz« und »Ich mach dich gesund, sagte der Bär« absolute Klassiker der deutschen Kinderbuchliteratur. Janosch hat zudem zahlreiche Romane und Theaterstücke für Erwachsene verfasst. Er selbst hat das Ziel eines erfüllten Lebens auf der Kanarischen Insel Teneriffa erreicht, wo er seit Beginn der 80er Jahre lebt.<\/p><p>Zwischen 2013 und 2019 erschuf Janosch »Wondrak«, einen Mann mit Schnauzbart und stattlichem Bauch, gekleidet in gelb-schwarz gestreifte Garderobe, der Woche um Woche die Leser des ZEIT-Magazins erheiterte. Seine einfallsreichen Antworten auf große und kleine Fragen des Lebens, die von zauberhaft gezeichneten Momentaufnahmen begleitet wurden, zählten zu den Höhepunkten jedes Hefts. Mit unnachahmlichem Humor ließ er »Wondrak«, der sich selbst als »Held« vorstellte, Krisen überstehen, das Internet erklären, denSommerurlaub planen und am Ende gar die Weltprobleme lösen – nicht ohne kurz darauf zu ergänzen, was zu tun sei, falls die Welt doch unterginge. »Wondrak« hat es in der Zwischenzeit sogar in die Reclam Universalbibliothek geschafft und mehr gelbe Reclam Hefte verkauft als Goethes Faust.<\/p><p>Janoschs Werk wurde weltweit in weit über 100 Sprachen übersetzt. Seine Kinderbücher rangieren in ihrer Bedeutung gleich neben den Erzählungen von Astrid Lindgren. Der Künstler wurde unter anderem mit dem Deutschen Kinderbuchpreis, dem Prix Jeunesse International, dem Orden de Manuel Amador Guerrero von Panama sowie mit dem Bundesverdienstkreuz ausgezeichnet.<\/p><p>Seine Motive mit ihrem oft feinsinnigen, manchmal auch skurrilen Humor berühren und sind wunderbare Geschenke für Anlässe wie Geburt, Geburtstag, Hochzeit oder auch einfach, um ein »Danke« auszudrücken.<\/p>","text_size":"regular"}}},"block_order":["title_r3WtD7","text_zAxGFH"],"settings":{"image_position":"top no-image","height":"regular","image_crop":true,"text_alignment":"horizontal-left","is_fullwidth":false,"section_background_color":"rgba(0,0,0,0)","section_background_gradient":"","remove_margin":true,"color_background_main":"rgba(0,0,0,0)","color_text_main":"rgba(0,0,0,0)","color_accent_main":"rgba(0,0,0,0)","color_borders_main":"rgba(0,0,0,0)","color_shadow_main":"rgba(0,0,0,0)","color_hide_borders":true,"color_hide_shadow":true}}},"order":["rich_text_7wTc9F","promotion_cards_fmqxNV","collection_list_qVCyDc","testimonials_h3RaJR","rich_text_WmjRce","text_columns_icons_Tkzcnf","newsletter_NA3mnP","rich_text_f8MJgB"]}
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "featured_product_Yz4ARF": {
+      "type": "featured-product",
+      "blocks": {
+        "title_hRxLC9": {
+          "type": "title",
+          "settings": {
+            "seo_h_tag": "h2"
+          }
+        },
+        "price_6imgbd": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_YPx3WY": {
+          "type": "variant_picker",
+          "settings": {
+            "variants_style": "radio",
+            "show_quantities": "no"
+          }
+        },
+        "space_Ez8qzh": {
+          "type": "space",
+          "settings": {
+          }
+        },
+        "buy_buttons_BndPFg": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_price": true,
+            "show_quantity_selector": true,
+            "show_preorder": false,
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false,
+            "color_text_buttons": "rgba(0,0,0,0)",
+            "color_accent_buttons": "rgba(0,0,0,0)",
+            "style_buttons": "solid"
+          }
+        },
+        "space_9U4XFx": {
+          "type": "space",
+          "settings": {
+          }
+        },
+        "description_4De4jA": {
+          "type": "description",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title_hRxLC9",
+        "price_6imgbd",
+        "variant_picker_YPx3WY",
+        "space_Ez8qzh",
+        "buy_buttons_BndPFg",
+        "space_9U4XFx",
+        "description_4De4jA"
+      ],
+      "settings": {
+        "product": "kopie-von-sonnenuntergang-test",
+        "gallery_ratio": "natural",
+        "gallery_fit": false,
+        "show_border": false,
+        "gallery_card_design": false,
+        "gallery_padding": 0,
+        "gallery_pagination": "dots",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "default_to_first_variant": true
+      }
+    },
+    "rich_text_7wTc9F": {
+      "type": "rich-text",
+      "blocks": {
+        "title_dfQEzq": {
+          "type": "title",
+          "settings": {
+            "title": "Schenke das Besondere",
+            "title_size": "h1",
+            "seo_h_tag": "h1"
+          }
+        },
+        "text_HtMjhp": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Janosch-Motive mit<br\/>ganz persönlicher Note<\/p>",
+            "text_size": "regular"
+          }
+        }
+      },
+      "block_order": [
+        "title_dfQEzq",
+        "text_HtMjhp"
+      ],
+      "settings": {
+        "image_position": "top no-image",
+        "height": "regular",
+        "image_crop": true,
+        "text_alignment": "horizontal-center",
+        "is_fullwidth": false,
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_background_gradient": "",
+        "remove_margin": false,
+        "color_background_main": "rgba(0,0,0,0)",
+        "color_text_main": "rgba(0,0,0,0)",
+        "color_accent_main": "rgba(0,0,0,0)",
+        "color_borders_main": "rgba(0,0,0,0)",
+        "color_shadow_main": "rgba(0,0,0,0)",
+        "color_hide_borders": true,
+        "color_hide_shadow": true
+      }
+    },
+    "promotion_cards_fmqxNV": {
+      "type": "promotion-cards",
+      "blocks": {
+        "card_3QM4zY": {
+          "type": "card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/002.webp",
+            "caption": "Personalisierbarer Druck ab 30 x 40 cm",
+            "title": "Bestseller #1: Sonnenuntergang",
+            "subtitle": "Lieferung mit \/ ohne Bilderrahmen",
+            "link": "",
+            "open_in_new_window": false,
+            "button_label": "Jetzt personalisieren",
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)",
+            "color_accent_main": "#1d1d1d",
+            "color_borders_main": "rgba(0,0,0,0)",
+            "color_shadow_main": "rgba(0,0,0,0)",
+            "color_hide_borders": true,
+            "color_hide_shadow": true,
+            "seo_h_tag": "h3"
+          }
+        },
+        "card_zjNe6Y": {
+          "type": "card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/005.webp",
+            "caption": "Personalisierbarer Druck im Format DIN A4",
+            "title": "Wondrak: Im Leben ankommen",
+            "subtitle": "Lieferung mit \/ ohne Bilderrahmen",
+            "link": "",
+            "open_in_new_window": false,
+            "button_label": "Jetzt personalisieren",
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)",
+            "color_accent_main": "#1d1d1d",
+            "color_borders_main": "rgba(0,0,0,0)",
+            "color_shadow_main": "rgba(0,0,0,0)",
+            "color_hide_borders": true,
+            "color_hide_shadow": true,
+            "seo_h_tag": "h3"
+          }
+        },
+        "card_prURjA": {
+          "type": "card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/004.webp",
+            "caption": "Personalisierbarer Druck ab 30 x 40 cm",
+            "title": "Eine Blume für dich",
+            "subtitle": "Lieferung mit \/ ohne Bilderrahmen",
+            "link": "",
+            "open_in_new_window": false,
+            "button_label": "Jetzt personalisieren",
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)",
+            "color_accent_main": "#1d1d1d",
+            "color_borders_main": "rgba(0,0,0,0)",
+            "color_shadow_main": "rgba(0,0,0,0)",
+            "color_hide_borders": true,
+            "color_hide_shadow": true,
+            "seo_h_tag": "h3"
+          }
+        },
+        "card_CpWiyL": {
+          "type": "card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/007.webp",
+            "caption": "Personalisierbarer Druck ab 30 x 40 cm",
+            "title": "Liebe. Sonst nichts.",
+            "subtitle": "Lieferung mit \/ ohne Bilderrahmen",
+            "link": "",
+            "open_in_new_window": false,
+            "button_label": "Jetzt personalisieren",
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)",
+            "color_accent_main": "#1d1d1d",
+            "color_borders_main": "rgba(0,0,0,0)",
+            "color_shadow_main": "rgba(0,0,0,0)",
+            "color_hide_borders": true,
+            "color_hide_shadow": true,
+            "seo_h_tag": "h3"
+          }
+        },
+        "card_C3JA8C": {
+          "type": "card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/006.webp",
+            "caption": "Personalisierbarer Druck ab 30 x 40 cm",
+            "title": "Freunde",
+            "subtitle": "Lieferung mit \/ ohne Bilderrahmen",
+            "link": "",
+            "open_in_new_window": false,
+            "button_label": "Jetzt personalisieren",
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)",
+            "color_accent_main": "#1d1d1d",
+            "color_borders_main": "rgba(0,0,0,0)",
+            "color_shadow_main": "rgba(0,0,0,0)",
+            "color_hide_borders": true,
+            "color_hide_shadow": true,
+            "seo_h_tag": "h3"
+          }
+        },
+        "card_968qzJ": {
+          "type": "card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/008.webp",
+            "caption": "Personalisierbarer Druck ab 30 x 40 cm",
+            "title": "Wir sind füreinander da",
+            "subtitle": "Lieferung mit \/ ohne Bilderrahmen",
+            "link": "",
+            "open_in_new_window": false,
+            "button_label": "Jetzt personalisieren",
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)",
+            "color_accent_main": "#1d1d1d",
+            "color_borders_main": "rgba(0,0,0,0)",
+            "color_shadow_main": "rgba(0,0,0,0)",
+            "color_hide_borders": true,
+            "color_hide_shadow": true,
+            "seo_h_tag": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "card_3QM4zY",
+        "card_zjNe6Y",
+        "card_prURjA",
+        "card_CpWiyL",
+        "card_C3JA8C",
+        "card_968qzJ"
+      ],
+      "settings": {
+        "heading": "Unsere beliebtesten Motive",
+        "subheading": "",
+        "section_heading_layout": "section-heading--center",
+        "layout": "grid-3 grid-lap-1",
+        "image_aspect_ratio": "1",
+        "text_alignment": "text-align--center",
+        "caption_size": "regular",
+        "title_size": "h2",
+        "subtitle_size": "regular",
+        "button_size": "regular",
+        "button_style": "solid",
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_background_gradient": "",
+        "section_heading_color": "rgba(0,0,0,0)",
+        "remove_margin": true,
+        "seo_h_tag": "h2"
+      }
+    },
+    "collection_list_qVCyDc": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_LQW3ta": {
+          "type": "collection",
+          "settings": {
+            "collection": "freundschaft-liebe",
+            "image": "shopify:\/\/shop_images\/012.webp"
+          }
+        },
+        "collection_fHEKjb": {
+          "type": "collection",
+          "settings": {
+            "collection": "geburtstag",
+            "image": "shopify:\/\/shop_images\/010.webp"
+          }
+        },
+        "collection_xXtQa7": {
+          "type": "collection",
+          "settings": {
+            "collection": "geburt",
+            "image": "shopify:\/\/shop_images\/011.webp"
+          }
+        },
+        "collection_icRYBx": {
+          "type": "collection",
+          "settings": {
+            "collection": "wondrak",
+            "image": "shopify:\/\/shop_images\/009.webp"
+          }
+        }
+      },
+      "block_order": [
+        "collection_LQW3ta",
+        "collection_fHEKjb",
+        "collection_xXtQa7",
+        "collection_icRYBx"
+      ],
+      "settings": {
+        "heading": "Beliebte Themen",
+        "subheading": "",
+        "show_view_all": true,
+        "section_heading_layout": "section-heading--center",
+        "style": "grid",
+        "layout": "grid-4 grid-lap-3 grid-palm-2",
+        "image_aspect_ratio": "1",
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_background_gradient": "",
+        "section_heading_color": "rgba(0,0,0,0)",
+        "remove_margin": false,
+        "seo_h_tag": "h2"
+      }
+    },
+    "testimonials_h3RaJR": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_tnwbcc": {
+          "type": "testimonial",
+          "settings": {
+            "author_name": "Rosa",
+            "author_title": "Berlin",
+            "quote": "<p><em>Großartig. Ich bin begeistert!<\/em><\/p>"
+          }
+        },
+        "testimonial_UU7VWY": {
+          "type": "testimonial",
+          "settings": {
+            "author_name": "Hans",
+            "author_title": "Fußballfan",
+            "quote": "<p><em>Auch wenn der Druck in Bayern hergestellt wird, kann man ihn ohne Einweghandschuhe anfassen.<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_tnwbcc",
+        "testimonial_UU7VWY"
+      ],
+      "settings": {
+        "heading": "Das sagen unsere Kund:innen:",
+        "subheading": "",
+        "section_heading_layout": "section-heading--center",
+        "quote_font": "serif",
+        "quote_font_size": 32,
+        "quote_line_height": 1.1,
+        "content_alignment": "center",
+        "color_background_main": "#ddebc5",
+        "color_text_main": "rgba(0,0,0,0)",
+        "color_borders_main": "rgba(0,0,0,0)",
+        "color_shadow_main": "rgba(0,0,0,0)",
+        "color_hide_borders": true,
+        "color_hide_shadow": true,
+        "section_background_color": "#ddebc5",
+        "section_background_gradient": "",
+        "section_heading_color": "rgba(0,0,0,0)",
+        "remove_margin": false,
+        "seo_h_tag": "h2"
+      }
+    },
+    "rich_text_WmjRce": {
+      "type": "rich-text",
+      "blocks": {
+        "title_4PXnWN": {
+          "type": "title",
+          "settings": {
+            "title": "Wir sind nachhaltig engagiert und klimaneutral.",
+            "title_size": "h2",
+            "seo_h_tag": "h2"
+          }
+        },
+        "text_TDBMkb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Es ist für uns eine Selbstverständlichkeit, dass wir unsere Lebensgrundlagen und somit den Planeten Erde erhalten und schützen müssen. Wir bemühen uns daher, möglichst wenig Ressourcen zu verbrauchen. Die Ressourcen, die wir nutzen, sollen diesem Anspruch möglichst gerecht werden.<\/p>",
+            "text_size": "regular"
+          }
+        },
+        "button_VcUdna": {
+          "type": "button",
+          "settings": {
+            "button_label": "Mehr erfahren",
+            "link": "",
+            "open_in_new_window": false,
+            "button_size": "regular",
+            "button_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "title_4PXnWN",
+        "text_TDBMkb",
+        "button_VcUdna"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/TEW_Logo_RGB_800x800_9b7ec301-3d87-4c3a-a9eb-da2e946a88af.jpg",
+        "image_position": "top",
+        "height": "regular",
+        "image_crop": true,
+        "text_alignment": "horizontal-center",
+        "is_fullwidth": false,
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_background_gradient": "",
+        "remove_margin": false,
+        "color_background_main": "rgba(0,0,0,0)",
+        "color_text_main": "rgba(0,0,0,0)",
+        "color_accent_main": "rgba(0,0,0,0)",
+        "color_borders_main": "rgba(0,0,0,0)",
+        "color_shadow_main": "rgba(0,0,0,0)",
+        "color_hide_borders": true,
+        "color_hide_shadow": true
+      }
+    },
+    "text_columns_icons_Tkzcnf": {
+      "type": "text-columns-icons",
+      "blocks": {
+        "image_kcEq8w": {
+          "type": "image",
+          "settings": {
+            "icon": "delivery",
+            "title": "Gratis",
+            "caption": "Versand innerhalb Deutschlands ab 50,- Euro Bestellwert",
+            "link": "",
+            "open_in_new_window": false,
+            "color_background_main": "#f2f1ed",
+            "color_icons_main": "rgba(0,0,0,0)",
+            "seo_h_tag": "h3"
+          }
+        },
+        "image_V9XDwY": {
+          "type": "image",
+          "settings": {
+            "icon": "time-limit",
+            "title": "Schnell",
+            "caption": "Bestellst du werktags bis 12 Uhr, versenden wir meist noch am selben Tag!",
+            "link": "",
+            "open_in_new_window": false,
+            "color_background_main": "#f2f1ed",
+            "color_icons_main": "rgba(0,0,0,0)",
+            "seo_h_tag": "h3"
+          }
+        },
+        "image_3RW8jH": {
+          "type": "image",
+          "settings": {
+            "icon": "store",
+            "title": "Sicherer",
+            "caption": "Rechnungskauf mit unserem Partner Klarna  möglich!",
+            "link": "",
+            "open_in_new_window": false,
+            "color_background_main": "#f2f1ed",
+            "color_icons_main": "rgba(0,0,0,0)",
+            "seo_h_tag": "h3"
+          }
+        },
+        "image_phbKCU": {
+          "type": "image",
+          "settings": {
+            "icon": "tree",
+            "title": "Klimaneutral",
+            "caption": "Wir produzieren und versenden deine Drucke klimaneutral!",
+            "link": "",
+            "open_in_new_window": false,
+            "color_background_main": "#f2f1ed",
+            "color_icons_main": "rgba(0,0,0,0)",
+            "seo_h_tag": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "image_kcEq8w",
+        "image_V9XDwY",
+        "image_3RW8jH",
+        "image_phbKCU"
+      ],
+      "settings": {
+        "heading": "Deine Vorteile",
+        "subheading": "Das ist toll an Janosch Druck:",
+        "section_heading_layout": "section-heading--center",
+        "style": "grid",
+        "layout": "grid-4 grid-portable-3 grid-lap-2",
+        "border_radius": 200,
+        "section_background_color": "#f2f1ed",
+        "section_background_gradient": "",
+        "section_heading_color": "rgba(0,0,0,0)",
+        "remove_margin": false,
+        "seo_h_tag": "h2"
+      }
+    },
+    "newsletter_NA3mnP": {
+      "type": "newsletter",
+      "settings": {
+        "show_icon": true,
+        "title": "Mit lieben Grüßen und heißen Küssen, dein Tiger.",
+        "text": "<p>Dir gefällt, was du siehst? Bleib uns doch verbunden: Mit unserem hauseigenen Schnellpostnewsletter, der dich in unregelmäßigen Abständen garantiert sicher und kostenlos über Neuigkeiten informiert. Bis bald!<\/p>",
+        "color_background_main": "rgba(0,0,0,0)",
+        "color_text_main": "rgba(0,0,0,0)",
+        "color_borders_main": "rgba(0,0,0,0)",
+        "color_shadow_main": "rgba(0,0,0,0)",
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_background_gradient": "",
+        "remove_margin": false,
+        "seo_h_tag": "h2"
+      }
+    },
+    "rich_text_f8MJgB": {
+      "type": "rich-text",
+      "blocks": {
+        "title_r3WtD7": {
+          "type": "title",
+          "settings": {
+            "title": "Über Janosch",
+            "title_size": "h2",
+            "seo_h_tag": "h2"
+          }
+        },
+        "text_zAxGFH": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Janosch wurde am 11. März 1931 als Horst Eckert in Oberschlesien, geboren. 1960 erschien sein erstes Kinderbuch »Die Geschichte von Valek, dem Pferd«. 1978 gelang ihm nach vielen Jahren der Erfolglosigkeit mit »Oh, wie schön ist Panama«, den beiden Freunden Kleiner Tiger und Kleiner Bär und natürlich der Tigerente, der Durchbruch. Er wurde zum wohl erfolgreichsten Kinderbuchautor Deutschlands. Neben »Panama« sind auch »Post für den Tiger«, »Komm, wir finden einen Schatz« und »Ich mach dich gesund, sagte der Bär« absolute Klassiker der deutschen Kinderbuchliteratur. Janosch hat zudem zahlreiche Romane und Theaterstücke für Erwachsene verfasst. Er selbst hat das Ziel eines erfüllten Lebens auf der Kanarischen Insel Teneriffa erreicht, wo er seit Beginn der 80er Jahre lebt.<\/p><p>Zwischen 2013 und 2019 erschuf Janosch »Wondrak«, einen Mann mit Schnauzbart und stattlichem Bauch, gekleidet in gelb-schwarz gestreifte Garderobe, der Woche um Woche die Leser des ZEIT-Magazins erheiterte. Seine einfallsreichen Antworten auf große und kleine Fragen des Lebens, die von zauberhaft gezeichneten Momentaufnahmen begleitet wurden, zählten zu den Höhepunkten jedes Hefts. Mit unnachahmlichem Humor ließ er »Wondrak«, der sich selbst als »Held« vorstellte, Krisen überstehen, das Internet erklären, denSommerurlaub planen und am Ende gar die Weltprobleme lösen – nicht ohne kurz darauf zu ergänzen, was zu tun sei, falls die Welt doch unterginge. »Wondrak« hat es in der Zwischenzeit sogar in die Reclam Universalbibliothek geschafft und mehr gelbe Reclam Hefte verkauft als Goethes Faust.<\/p><p>Janoschs Werk wurde weltweit in weit über 100 Sprachen übersetzt. Seine Kinderbücher rangieren in ihrer Bedeutung gleich neben den Erzählungen von Astrid Lindgren. Der Künstler wurde unter anderem mit dem Deutschen Kinderbuchpreis, dem Prix Jeunesse International, dem Orden de Manuel Amador Guerrero von Panama sowie mit dem Bundesverdienstkreuz ausgezeichnet.<\/p><p>Seine Motive mit ihrem oft feinsinnigen, manchmal auch skurrilen Humor berühren und sind wunderbare Geschenke für Anlässe wie Geburt, Geburtstag, Hochzeit oder auch einfach, um ein »Danke« auszudrücken.<\/p>",
+            "text_size": "regular"
+          }
+        }
+      },
+      "block_order": [
+        "title_r3WtD7",
+        "text_zAxGFH"
+      ],
+      "settings": {
+        "image_position": "top no-image",
+        "height": "regular",
+        "image_crop": true,
+        "text_alignment": "horizontal-left",
+        "is_fullwidth": false,
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_background_gradient": "",
+        "remove_margin": true,
+        "color_background_main": "rgba(0,0,0,0)",
+        "color_text_main": "rgba(0,0,0,0)",
+        "color_accent_main": "rgba(0,0,0,0)",
+        "color_borders_main": "rgba(0,0,0,0)",
+        "color_shadow_main": "rgba(0,0,0,0)",
+        "color_hide_borders": true,
+        "color_hide_shadow": true
+      }
+    }
+  },
+  "order": [
+    "featured_product_Yz4ARF",
+    "rich_text_7wTc9F",
+    "promotion_cards_fmqxNV",
+    "collection_list_qVCyDc",
+    "testimonials_h3RaJR",
+    "rich_text_WmjRce",
+    "text_columns_icons_Tkzcnf",
+    "newsletter_NA3mnP",
+    "rich_text_f8MJgB"
+  ]
+}
