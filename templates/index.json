@@ -9,76 +9,44 @@
 */
 {
   "sections": {
-    "featured_product_Yz4ARF": {
-      "type": "featured-product",
+    "featured_collection_gndK9c": {
+      "type": "featured-collection",
       "blocks": {
-        "title_hRxLC9": {
-          "type": "title",
-          "settings": {
-            "seo_h_tag": "h2"
-          }
-        },
-        "price_6imgbd": {
+        "price_TgPqY6": {
           "type": "price",
           "settings": {
           }
         },
-        "variant_picker_YPx3WY": {
-          "type": "variant_picker",
-          "settings": {
-            "variants_style": "radio",
-            "show_quantities": "no"
-          }
-        },
-        "space_Ez8qzh": {
-          "type": "space",
+        "title_7FWeUq": {
+          "type": "title",
           "settings": {
           }
         },
-        "buy_buttons_BndPFg": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_price": true,
-            "show_quantity_selector": true,
-            "show_preorder": false,
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": false,
-            "color_text_buttons": "rgba(0,0,0,0)",
-            "color_accent_buttons": "rgba(0,0,0,0)",
-            "style_buttons": "solid"
-          }
-        },
-        "space_9U4XFx": {
-          "type": "space",
-          "settings": {
-          }
-        },
-        "description_4De4jA": {
-          "type": "description",
+        "quick_buy_rMFEdN": {
+          "type": "quick_buy",
           "settings": {
           }
         }
       },
       "block_order": [
-        "title_hRxLC9",
-        "price_6imgbd",
-        "variant_picker_YPx3WY",
-        "space_Ez8qzh",
-        "buy_buttons_BndPFg",
-        "space_9U4XFx",
-        "description_4De4jA"
+        "price_TgPqY6",
+        "title_7FWeUq",
+        "quick_buy_rMFEdN"
       ],
       "settings": {
-        "product": "kopie-von-sonnenuntergang-test",
-        "gallery_ratio": "natural",
-        "gallery_fit": false,
-        "show_border": false,
-        "gallery_card_design": false,
-        "gallery_padding": 0,
-        "gallery_pagination": "dots",
-        "enable_zoom": true,
-        "enable_video_looping": false,
-        "default_to_first_variant": true
+        "heading": "Featured collection",
+        "subheading": "Showcase your best products",
+        "show_view_all": true,
+        "section_heading_layout": "section-heading--left",
+        "style": "grid",
+        "layout": "grid-4 grid-portable-3 grid-lap-2 grid-tiny-1",
+        "products_number": 8,
+        "collection": "frontpage",
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_background_gradient": "",
+        "section_heading_color": "rgba(0,0,0,0)",
+        "remove_margin": false,
+        "seo_h_tag": "h2"
       }
     },
     "rich_text_7wTc9F": {
@@ -559,7 +527,7 @@
     }
   },
   "order": [
-    "featured_product_Yz4ARF",
+    "featured_collection_gndK9c",
     "rich_text_7wTc9F",
     "promotion_cards_fmqxNV",
     "collection_list_qVCyDc",
