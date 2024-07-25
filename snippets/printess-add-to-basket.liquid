@@ -90,7 +90,6 @@
 
  <script id="printess_script_{{ item.key | replace: "-", "_" | replace: ":", "_" }}">
   var showPrintessEditor{{ product.id | json }} = () => {
-    console.log("Hallo")
     const printessButton = window.document.getElementById("printessCustomizeButton{{ product.id | json }}");
 
     if(!printessButton || !printessButton.printessEditor) {
