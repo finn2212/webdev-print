@@ -137,7 +137,17 @@
                               
                               		<div style="display: flex; flex-direction: column;">
                               			<a href="{{ routes.cart_change_url }}?line={{ forloop.index }}&amp;quantity=0" class="remove text-link text-size--xsmall text-color--opacity" title="{{ 'cart.remove_item' | t }}">{{ 'cart.remove_item' | t }}</a>
-                              			<a href="{{ routes.cart_change_url }}?line={{ forloop.index }}&amp;quantity=0" class="remove text-link text-size--xsmall text-color--opacity" title="{{ 'cart.remove_item' | t }}">bearbeiten</a>
+                              			{% render 'printess-cart-edit-button',
+                                          item: item,
+                                          classes: 'remove text-link text-size--xsmall text-color--opacity',
+                                          label: 'Bearbeiten'
+                                          shopToken: "3d68e45238224815aac42d2ed88e374e5bc02c992c2a47898e31f37e56eae9bd",
+                                          startupLogoUrl: "",
+                                          showStartupAnimation: true,
+                                          hidePricesInEditor: false,
+                                          editorVersion: "",
+                                          legalText: ""
+                                        %}
                               		</div>
                               	</div>
                               </div>
