@@ -119,30 +119,28 @@
 									{%- endif -%}		
 								</div>
 
-								<div class="cart__quantity">
-									<div class="cart-item__actions">
-	
-										<product-quantity class="quantity-selector-holder">
-											<cart-product-quantity>
-												<button class="qty-button qty-minus no-js-hidden" aria-label="{{ 'general.accessibility_labels.decrease_quantity' | t }}" role="button" controls="updates_{{ item.id }}">
-													{%- render 'theme-symbols', icon: 'minus' -%}
-												</button>
-												<label for="qty-{{ id }}" class="visually-hidden">{{ 'general.accessibility_labels.quantity' | t }}</label>
-												<input type="number" name="updates[]" value="{{ item.quantity }}" min="0" class="qty qty-selector product__quantity" id="updates_{{ item.id }}" data-href="{{ routes.cart_change_url }}?line={{ forloop.index }}&amp;quantity=$qty">
-												<button class="qty-button qty-plus no-js-hidden" aria-label="{{ 'general.accessibility_labels.increase_quantity' | t }}" role="button" controls="updates_{{ item.id }}">
-													{%- render 'theme-symbols', icon: 'plus' -%}
-												</button>
-											</cart-product-quantity>
-										</product-quantity>
-                                      
-                            		<div class="link-container">
-                            			<a href="{{ routes.cart_change_url }}?line={{ forloop.index }}&amp;quantity=0" class="remove text-link text-size--xsmall text-color--opacity" title="{{ 'cart.remove_item' | t }}">{{ 'cart.remove_item' | t }}</a>
-                            		</div>
-                            		<div class="link-container">
-                            			<a href="{{ routes.cart_change_url }}?line={{ forloop.index }}&amp;quantity=0" class="remove text-link text-size--xsmall text-color--opacity" title="{{ 'cart.remove_item' | t }}">bearbeiten</a>
-                            		</div>
-                                    </div>
-								</div>
+                              <div class="cart__quantity">
+                              	<div class="cart-item__actions" style="display: flex; justify-content: space-between; align-items: center;">
+                              
+                              		<product-quantity class="quantity-selector-holder">
+                              			<cart-product-quantity>
+                              				<button class="qty-button qty-minus no-js-hidden" aria-label="{{ 'general.accessibility_labels.decrease_quantity' | t }}" role="button" controls="updates_{{ item.id }}">
+                              					{%- render 'theme-symbols', icon: 'minus' -%}
+                              				</button>
+                              				<label for="qty-{{ id }}" class="visually-hidden">{{ 'general.accessibility_labels.quantity' | t }}</label>
+                              				<input type="number" name="updates[]" value="{{ item.quantity }}" min="0" class="qty qty-selector product__quantity" id="updates_{{ item.id }}" data-href="{{ routes.cart_change_url }}?line={{ forloop.index }}&amp;quantity=$qty">
+                              				<button class="qty-button qty-plus no-js-hidden" aria-label="{{ 'general.accessibility_labels.increase_quantity' | t }}" role="button" controls="updates_{{ item.id }}">
+                              					{%- render 'theme-symbols', icon: 'plus' -%}
+                              				</button>
+                              			</cart-product-quantity>
+                              		</product-quantity>
+                              
+                              		<div style="display: flex; flex-direction: column;">
+                              			<a href="{{ routes.cart_change_url }}?line={{ forloop.index }}&amp;quantity=0" class="remove text-link text-size--xsmall text-color--opacity" title="{{ 'cart.remove_item' | t }}">{{ 'cart.remove_item' | t }}</a>
+                              			<a href="{{ routes.cart_change_url }}?line={{ forloop.index }}&amp;quantity=0" class="remove text-link text-size--xsmall text-color--opacity" title="{{ 'cart.remove_item' | t }}">bearbeiten</a>
+                              		</div>
+                              	</div>
+                              </div>
 								
 								<div class="cart-item__total text-align--right">
 									{%- if item.final_line_price < item.original_line_price -%}
@@ -207,7 +205,8 @@
 <style>
 	.cart-item__actions {
 		display: flex;
-		flex-direction: column;
+		justify-content: space-between;
+		align-items: center;
 	}
 	.link-container {
 		margin-bottom: 5px; /* Adjust the margin as needed for spacing */
