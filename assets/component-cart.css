@@ -111,7 +111,7 @@
   line-height: 1;
 }
 .cart-item__actions .remove:not(:first-child) {
-  margin-inline-start: 0.75rem;
+
 }
 
 .cart-notice {
