@@ -28,9 +28,13 @@
 
 						<div id="item-{{ item.id }}" class="cart-item" data-title="{{ item.product.title | escape }} {%- unless item.product.has_only_default_variant -%} ({{ item.variant.title | escape }}) {%- endunless -%}" data-id="{{ item.key }}"  data-line="{{ forloop.index }}" data-product-id="{{ item.product.id }}" data-qty="{{ item.quantity }}" data-js-cart-item>
 
-							<a href="{{ item.url }}" class="cart-item__thumbnail element--border-width-clamped element--border-radius">
-								{%- render 'lazy-image-small', image: item.image, aspect_ratio: settings.cart_image_ratio, fit: settings.cart_image_fit -%}
-							</a>
+                            	<a href="{{ item.url }}" class="cart-item__thumbnail element--border-width-clamped element--border-radius">
+                                  '{% if item.properties._printessThumbnail != blank %}                               
+                                      {% render 'printess-thumbnail', item: item, width: 150 %}
+                                  {% else %}									
+                                    {%- render 'lazy-image-small', image: item.image, aspect_ratio: settings.cart_image_ratio, fit: settings.cart_image_fit -%}                  
+                                  {% endif %}
+								</a>
 
 							<div class="cart-item__content">
 
