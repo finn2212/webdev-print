@@ -165,7 +165,7 @@
   printessButton.printessEditor.show(settings);
 }
 </script>
- <button onclick='showPrintessEditor{{ product.id | json }}()' id="printessCustomizeButton{{ product.id | json }}" class="{{ buttonClasses }}" style="">
+ <button onclick='showPrintessEditor{{ product.id | json }}()' id="printessCustomizeButton{{ product.id | json }}" class="{{ buttonClasses }}" style="display:none; justify-content: center;">
   <span class="button__text">
     {{ buttonLabel | escape }}
   </span>
