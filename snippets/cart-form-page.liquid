@@ -25,7 +25,7 @@
 
 								<a href="{{ item.url }}" class="cart-item__thumbnail element--border-width-clamped element--border-radius">
                                   '{% if item.properties._printessThumbnail != blank %}                               
-                                      {% render 'printess-thumbnail', item: item, width: 100 px}
+                                      {% render 'printess-thumbnail', item: item, width: 100 %}
                                   {% else %}									
                                     {%- render 'lazy-image-small', image: item.image, aspect_ratio: settings.cart_image_ratio, fit: settings.cart_image_fit -%}                                  
                                   {% endif %}
