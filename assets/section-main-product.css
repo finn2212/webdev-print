@@ -343,7 +343,7 @@ html[dir=ltr] .product-variants--radio .product-variant__item input {
 
 .product-quantity {
   display: flex;
-  justify-content: space-between;
+  /* justify-content: space-between; */
   min-width: calc(var(--button-product) * 3);
 }
 .product-quantity__minus, .product-quantity__plus {
