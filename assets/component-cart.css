@@ -67,6 +67,7 @@
   width: -moz-fit-content;
   width: fit-content;
   margin-bottom: 0;
+  padding-right: 15px;
 }
 .cart-item__actions cart-product-quantity {
   display: flex;
