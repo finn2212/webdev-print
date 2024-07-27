@@ -721,7 +721,7 @@ html[dir=ltr] .text-animation--underline-in-header {
   color: var(--color-accent-main);
 }
 a.text-link {
-  border-bottom: 1px solid;
+  border-bottom: 0px solid;
   padding-bottom: 1px;
   transition: all 100ms linear;
 }
