@@ -9,46 +9,6 @@
 */
 {
   "sections": {
-    "featured_collection_gndK9c": {
-      "type": "featured-collection",
-      "blocks": {
-        "price_TgPqY6": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "title_7FWeUq": {
-          "type": "title",
-          "settings": {
-          }
-        },
-        "quick_buy_rMFEdN": {
-          "type": "quick_buy",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "price_TgPqY6",
-        "title_7FWeUq",
-        "quick_buy_rMFEdN"
-      ],
-      "settings": {
-        "heading": "Featured collection",
-        "subheading": "Showcase your best products",
-        "show_view_all": true,
-        "section_heading_layout": "section-heading--left",
-        "style": "grid",
-        "layout": "grid-4 grid-portable-3 grid-lap-2 grid-tiny-1",
-        "products_number": 8,
-        "collection": "frontpage",
-        "section_background_color": "rgba(0,0,0,0)",
-        "section_background_gradient": "",
-        "section_heading_color": "rgba(0,0,0,0)",
-        "remove_margin": false,
-        "seo_h_tag": "h2"
-      }
-    },
     "rich_text_7wTc9F": {
       "type": "rich-text",
       "blocks": {
@@ -527,7 +487,6 @@
     }
   },
   "order": [
-    "featured_collection_gndK9c",
     "rich_text_7wTc9F",
     "promotion_cards_fmqxNV",
     "collection_list_qVCyDc",
