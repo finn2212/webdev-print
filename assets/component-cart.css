@@ -62,7 +62,7 @@
   align-items: center;
 }
 .cart-item__actions .quantity-selector-holder {
-  justify-content: flex-start;
+  /* justify-content: flex-start; */
   width: -webkit-fit-content;
   width: -moz-fit-content;
   width: fit-content;
