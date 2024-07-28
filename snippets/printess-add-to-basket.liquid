@@ -165,11 +165,11 @@
   printessButton.printessEditor.show(settings);
 }
 </script>
- <a onclick='showPrintessEditor{{ product.id | json }}()' id="printessCustomizeButton{{ product.id | json }}" class="{{ buttonClasses }}" style="display:none !Important; justify-content: center;">
+ <button type="button" onclick='showPrintessEditor{{ product.id | json }}()' id="printessCustomizeButton{{ product.id | json }}" class="{{ buttonClasses }}" style="display:none !Important; justify-content: center;">
   <span class="button__text">
     {{ buttonLabel | escape }}
   </span>
- </a>
+ </button>
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
