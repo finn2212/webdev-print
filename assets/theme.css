@@ -2,6 +2,12 @@
  *  1.1. Reset
 */
 
+@font-face {
+  font-family: 'Amatic SC';
+  src: url('{{ "AmaticSC-Regular.ttf" | asset_url }}') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Amatic SC', sans-serif;
