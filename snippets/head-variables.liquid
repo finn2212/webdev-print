@@ -56,6 +56,7 @@
     assign color_borders_header = color_text_header | color_modify: 'alpha', 0.1
     assign color_secondary_background_header = color_text_header | color_modify: 'alpha', 0.08
     assign color_opacity_background_header = color_background_header | color_modify: 'alpha', 0
+    assign color_janosch_green = '#8BC53F'
 
 
   -%}
@@ -182,6 +183,7 @@
     --color-accent-header: {{ color_accent_header }};
     --color-foreground-accent-header: {{ color_foreground_accent_header }};
     --color-borders-header: {{ color_borders_header }};
+    --color-janosch-green: {{ color_janosch_green }};
 
     --color-background-main: {{ color_background_main }};
     --color-secondary-background-main: {{ color_secondary_background_main }};
