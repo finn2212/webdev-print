@@ -232,8 +232,8 @@ summary::-webkit-details-marker {
   color: var(--color-text-cards);
 }
 .card .button--solid {
-  background-color: var(--color-text-cards);
-  border-color: var(--color-text-cards);
+  background-color: var(--color-janosch-green);
+  border-color: var(--color-janosch-green);
   color: var(--color-foreground-cards);
 }
 .card .button--icon svg * {
