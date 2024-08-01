@@ -1662,8 +1662,8 @@ html[dir=ltr] .button--loader .button__preloader-element {
   background-color: transparent;
 }
 .button--solid {
-  background-color: var(--color-text-main);
-  border-color: var(--color-text-main);
+  background-color: var(--color-janosch-green);
+  border-color: var(--color-janosch-green);
   color: var(--color-foreground-main);
 }
 .button--no-padding {
