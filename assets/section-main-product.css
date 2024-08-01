@@ -971,8 +971,8 @@ html[dir=ltr] .sticky-add-to-cart--floating.visible {
   color: var(--color-text-main) !important;
 }
 .sticky-add-to-cart .button--solid {
-  border-color: var(--color-text-main);
-  background-color: var(--color-text-main);
+  background-color: var(--color-janosch-green);
+  border-color: var(--color-janosch-green);
 }
 .sticky-add-to-cart .button--solid .button__text {
   color: var(--color-background-main) !important;
