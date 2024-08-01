@@ -126,8 +126,8 @@ html[dir=ltr] .header-container .header-actions > a.button {
   color: var(--color-text-header);
 }
 .header-container .button--solid {
-  background-color: var(--color-text-header);
-  border-color: var(--color-text-header);
+  background-color: var(--color-janosch-green);
+  border-color: var(--color-janosch-green);
   color: var(--color-foreground-header);
 }
 .no-touchevents .header-container .button:not(.button--outline-hover):hover {
