@@ -1671,7 +1671,7 @@ html[dir=ltr] .button--loader .button__preloader-element {
 }
 .no-touchevents .button:not(.button--outline-hover):hover {
   background-color: var(--color-janosch-green);
-  border-color: var(--color-accent-main);
+  border-color: var(--color-janosch-green);
   color: var(--color-foreground-accent-main);
 }
 .no-touchevents .button:not(.button--outline-hover):hover svg * {
