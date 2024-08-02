@@ -70,7 +70,7 @@
                   <a title="{{ block.settings.title | escape }}" href="{{ block.settings.link }}" {% unless block.settings.open_in_new_window == false %} target="_blank" {% endunless %}>
                 {%- endif -%}
                 
-                  <span class="text-animation--underline">{{ block.settings.title | escape }}</span>
+                  <h3 class="text-animation--underline">{{ block.settings.title | escape }}</h3>
                 
                 {%- if block.settings.link != blank -%}
                   </a>
