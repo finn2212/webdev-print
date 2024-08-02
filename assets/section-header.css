@@ -131,12 +131,12 @@ html[dir=ltr] .header-container .header-actions > a.button {
   color: var(--color-foreground-header);
 }
 .no-touchevents .header-container .button:not(.button--outline-hover):hover {
-  background-color: var(--color-accent-header);
-  border-color: var(--color-accent-header);
+  background-color:  var(--color-janosch-green);
+  border-color:  var(--color-janosch-green);
   color: var(--color-foreground-accent-header);
 }
 .no-touchevents .header-container .button:not(.button--outline-hover):hover svg * {
-  stroke: var(--color-foreground-accent-header);
+  stroke:  var(--color-janosch-green);
 }
 .no-touchevents .header-container .button--outline-hover:not(.button--no-hover):hover {
   border-color: var(--color-accent-header);
