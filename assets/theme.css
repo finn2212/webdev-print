@@ -461,7 +461,7 @@ h6,
   }
 }
 
-@media screen and (max-width: 1023px) {
+/* @media screen and (max-width: 1023px) {
   h4,
 .h4 {
     font-size: calc( 					20px / 60 * var(--base-headings-size) + 0px 				);
@@ -485,7 +485,7 @@ h6,
 .h5 {
     font-size: calc( 				18px / 60 * var(--base-headings-size) + 0px 			);
   }
-}
+} */
 
 @media screen and (max-width: 1023px) {
   h6,
