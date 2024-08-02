@@ -1670,7 +1670,7 @@ html[dir=ltr] .button--loader .button__preloader-element {
   padding: 0;
 }
 .no-touchevents .button:not(.button--outline-hover):hover {
-  background-color: var(--color-accent-main);
+  background-color: var(--color-janosch-green);
   border-color: var(--color-accent-main);
   color: var(--color-foreground-accent-main);
 }
