@@ -240,9 +240,9 @@ summary::-webkit-details-marker {
   stroke: var(--color-text-cards);
 }
 .no-touchevents .card .button:not(.button--outline-hover):hover {
-  background-color: var(--color-accent-cards);
-  border-color: var(--color-accent-cards);
-  color: var(--color-foreground-accent-cards);
+  background-color:var(--color-foreground-accent-cards);
+  border-color: var(--color-foreground-accent-cards);
+  color: var(--color-accent-cards); 
 }
 .no-touchevents .card .button:not(.button--outline-hover):hover svg * {
   stroke: var(--color-foreground-accent-cards);
