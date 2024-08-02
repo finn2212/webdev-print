@@ -240,7 +240,7 @@ summary::-webkit-details-marker {
   stroke: var(--color-text-cards);
 }
 .no-touchevents .card .button:not(.button--outline-hover):hover {
-  background-color:var(--color-janosch-green);
+  background-color:var(--color-foreground-accent-cards);
   border-color: var(--color-accent-cards); 
   color: var(--color-accent-cards); 
 }
