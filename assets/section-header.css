@@ -136,7 +136,7 @@ html[dir=ltr] .header-container .header-actions > a.button {
   color: var(--color-foreground-accent-header);
 }
 .no-touchevents .header-container .button:not(.button--outline-hover):hover svg * {
-  stroke:  var(--color-janosch-green);
+  stroke:  var(--color-text-header)
 }
 .no-touchevents .header-container .button--outline-hover:not(.button--no-hover):hover {
   border-color: var(--color-accent-header);
