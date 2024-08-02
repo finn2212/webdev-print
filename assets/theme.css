@@ -248,8 +248,8 @@ summary::-webkit-details-marker {
   stroke: var(--color-foreground-accent-cards);
 }
 .card .button--outline-hover:hover {
-  border-color: var(--color-accent-cards);
-  color: var(--color-accent-cards);
+  border-color: var(--color-janosch-green);
+  color: var(--color-janosch-green);
 }
 
 .card a {
