@@ -1,1 +1,69 @@
-{"type":"footer","name":"t:sections.refactor_words.labels.footer_group","sections":{"footer":{"type":"footer","blocks":{"text-2":{"type":"text","settings":{"title":"So erreichst du uns","size":"h5","content":"<p>Am besten schreibst du uns eine E-Mail an:<br\/><strong>janosch-druck@janosch-medien.de<\/strong><br\/>Wir antworten so schnell wie möglich. Versprochen!<\/p>","show_social_icons":false,"enable_follow_on_shop":false}},"menu-1":{"type":"menu","settings":{"title":"Gut zu wissen","menu":"footer","open_in_new_window":false}},"menu-2":{"type":"menu","settings":{"title":"Rechtliches","menu":"rechtliches","open_in_new_window":false}},"payment_VzzAyi":{"type":"payment","settings":{"title":"Sichere Bezahlung"}}},"block_order":["text-2","menu-1","menu-2","payment_VzzAyi"],"settings":{"layout":"grid-4 grid-portable-2 grid-lap-1","show_locale_selector":true,"show_country_selector":true,"remove_margin":false,"seo_h_tag":"h4"}}},"order":["footer"]}
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "type": "footer",
+  "name": "t:sections.refactor_words.labels.footer_group",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "text-2": {
+          "type": "text",
+          "settings": {
+            "title": "So erreichst du uns",
+            "size": "h5",
+            "content": "<p>Am besten schreibst du uns eine E-Mail an:<br\/><strong>janosch-druck@janosch-medien.de<\/strong><br\/>Wir antworten so schnell wie möglich. Versprochen!<\/p>",
+            "show_social_icons": false,
+            "enable_follow_on_shop": false
+          }
+        },
+        "menu-1": {
+          "type": "menu",
+          "settings": {
+            "title": "Gut zu wissen",
+            "menu": "footer",
+            "open_in_new_window": false
+          }
+        },
+        "menu-2": {
+          "type": "menu",
+          "settings": {
+            "title": "Rechtliches",
+            "menu": "rechtliches",
+            "open_in_new_window": false
+          }
+        },
+        "payment_VzzAyi": {
+          "type": "payment",
+          "settings": {
+            "title": "Sichere Bezahlung",
+            "only_show_custom_icons": false
+          }
+        }
+      },
+      "block_order": [
+        "text-2",
+        "menu-1",
+        "menu-2",
+        "payment_VzzAyi"
+      ],
+      "settings": {
+        "layout": "grid-4 grid-portable-2 grid-lap-1",
+        "show_locale_selector": true,
+        "show_country_selector": true,
+        "remove_margin": false,
+        "seo_h_tag": "h3"
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}
