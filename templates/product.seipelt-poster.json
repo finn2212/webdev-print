@@ -33,8 +33,7 @@
             "title": "",
             "icon_1_image": "shopify:\/\/shop_images\/crown-128.png",
             "icon_1_label": "Illustration von Johanna Seipelt nach einer Janosch-Figurenwelt",
-            "icon_2_image": "shopify:\/\/shop_images\/heart-128.png",
-            "icon_2_label": "Personalisierbarer Druck",
+            "icon_2_label": "",
             "icon_3_image": "shopify:\/\/shop_images\/image-128.png",
             "icon_3_label": "Verschiedene Formate",
             "icon_4_image": "shopify:\/\/shop_images\/organic-128.png",
@@ -93,8 +92,8 @@
         "default_to_first_variant": true,
         "sticky_add_to_cart": false,
         "sticky_atc_style": "wide",
-        "sticky_bar_bgcolor": "#fff",
-        "sticky_bar_txtcolor": "#111"
+        "sticky_bar_bgcolor": "#ffffff",
+        "sticky_bar_txtcolor": "#111111"
       }
     },
     "text_columns_icons_jAnWYn": {
