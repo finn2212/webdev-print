@@ -111,6 +111,7 @@
         },
         "quick_buy": {
           "type": "quick_buy",
+          "disabled": true,
           "settings": {
           }
         }
@@ -121,7 +122,7 @@
         "quick_buy"
       ],
       "settings": {
-        "heading": "Entdecke weitere tolle Poster:",
+        "heading": "Entdecke weitere tolle Motive:",
         "subheading": "",
         "section_heading_layout": "section-heading--center",
         "layout": "grid-4 grid-portable-3 grid-lap-2 grid-tiny-1",
