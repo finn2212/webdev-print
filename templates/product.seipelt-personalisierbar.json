@@ -36,11 +36,11 @@
             "icon_2_image": "shopify:\/\/shop_images\/heart-128.png",
             "icon_2_label": "Personalisierbarer Druck",
             "icon_3_image": "shopify:\/\/shop_images\/image-128.png",
-            "icon_3_label": "Format 30 x 40 cm",
+            "icon_3_label": "Verschiedene Formate",
             "icon_4_image": "shopify:\/\/shop_images\/organic-128.png",
-            "icon_4_label": "300g FSC-Premium-Naturpapier (klimaneutral produziert)",
+            "icon_4_label": "Nachhaltiger 230g-Poster-Feinkarton mit FSC-Zertifizierung",
             "icon_5_image": "shopify:\/\/shop_images\/star-128.png",
-            "icon_5_label": "Lieferung mit \/ ohne Echtglas-Bilderrahmen in weiß",
+            "icon_5_label": "Lieferung mit \/ ohne Echtglas-Bilderrahmen",
             "icon_6_label": "",
             "hide_block_if": false
           }
@@ -64,7 +64,10 @@
             "show_quantity_selector": false,
             "show_preorder": false,
             "show_dynamic_checkout": false,
-            "show_gift_card_recipient": false
+            "show_gift_card_recipient": false,
+            "color_text_buttons": "rgba(0,0,0,0)",
+            "color_accent_buttons": "rgba(0,0,0,0)",
+            "style_buttons": "solid"
           }
         }
       },
@@ -86,7 +89,12 @@
         "gallery_padding": 0,
         "gallery_pagination": "dots",
         "enable_zoom": true,
-        "enable_video_looping": false
+        "enable_video_looping": false,
+        "default_to_first_variant": true,
+        "sticky_add_to_cart": false,
+        "sticky_atc_style": "wide",
+        "sticky_bar_bgcolor": "#fff",
+        "sticky_bar_txtcolor": "#111"
       }
     },
     "text_columns_icons_jAnWYn": {
@@ -161,6 +169,7 @@
         "layout": "grid-4 grid-portable-3 grid-lap-2",
         "border_radius": 200,
         "section_background_color": "#f2f1ed",
+        "section_background_gradient": "",
         "section_heading_color": "#1d1d1d",
         "remove_margin": false,
         "seo_h_tag": "h3"
@@ -248,6 +257,7 @@
         "button_size": "large",
         "button_style": "outline",
         "section_background_color": "rgba(0,0,0,0)",
+        "section_background_gradient": "",
         "section_heading_color": "rgba(0,0,0,0)",
         "remove_margin": false,
         "seo_h_tag": "h2"
@@ -284,6 +294,7 @@
         "layout": "grid-4 grid-portable-3 grid-lap-2 grid-tiny-1",
         "products_number": 4,
         "section_background_color": "rgba(0,0,0,0)",
+        "section_background_gradient": "",
         "section_heading_color": "rgba(0,0,0,0)",
         "remove_margin": false
       }
