@@ -398,8 +398,8 @@
           "type": "image",
           "settings": {
             "icon": "tree",
-            "title": "Klimaneutral",
-            "caption": "Wir produzieren und versenden deine Drucke klimaneutral!",
+            "title": "Klimabeitrag",
+            "caption": "Wir gleichen die CO2-Emissionen jeder Bestellung über Investitionen in deutsche Klimaschutzprojekte aus!",
             "link": "",
             "open_in_new_window": false,
             "color_background_main": "#f2f1ed",
