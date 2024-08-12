@@ -124,25 +124,6 @@
     "promotion_cards_fmqxNV": {
       "type": "promotion-cards",
       "blocks": {
-        "card_nf94zT": {
-          "type": "card",
-          "settings": {
-            "caption": "Introducing",
-            "title": "Your best promotion yet",
-            "subtitle": "Write about it",
-            "link": "",
-            "open_in_new_window": false,
-            "button_label": "Show more",
-            "color_background_main": "rgba(0,0,0,0)",
-            "color_text_main": "rgba(0,0,0,0)",
-            "color_accent_main": "rgba(0,0,0,0)",
-            "color_borders_main": "rgba(0,0,0,0)",
-            "color_shadow_main": "rgba(0,0,0,0)",
-            "color_hide_borders": false,
-            "color_hide_shadow": false,
-            "seo_h_tag": "h3"
-          }
-        },
         "card_3QM4zY": {
           "type": "card",
           "settings": {
@@ -265,7 +246,6 @@
         }
       },
       "block_order": [
-        "card_nf94zT",
         "card_3QM4zY",
         "card_zjNe6Y",
         "card_prURjA",
