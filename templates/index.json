@@ -207,11 +207,12 @@
         "image_MwbpDk": {
           "type": "image",
           "settings": {
-            "caption": "Introducing",
-            "title": "Your best promotion yet",
+            "image": "shopify:\/\/shop_images\/264_A3_9e51338e-3696-4aca-a7ec-70ff96318426.jpg",
+            "caption": "",
+            "title": "",
             "link": "",
             "open_in_new_window": false,
-            "button_label": "Show more",
+            "button_label": "",
             "color_background_main": "rgba(0,0,0,0)",
             "color_text_main": "rgba(0,0,0,0)",
             "seo_h_tag": "h3"
