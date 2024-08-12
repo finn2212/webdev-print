@@ -265,7 +265,7 @@
         "section_background_gradient": "",
         "section_heading_color": "rgba(0,0,0,0)",
         "remove_margin": false,
-        "color_hide_borders": false,
+        "color_hide_borders": true,
         "color_hide_shadow": true
       }
     },
