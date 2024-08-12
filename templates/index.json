@@ -221,11 +221,12 @@
         "image_YypCFg": {
           "type": "image",
           "settings": {
-            "caption": "Introducing",
-            "title": "Your best promotion yet",
+            "image": "shopify:\/\/shop_images\/264_152a8519-8d6c-4b82-b553-a9ad3c50923a.jpg",
+            "caption": "",
+            "title": "",
             "link": "",
             "open_in_new_window": false,
-            "button_label": "Show more",
+            "button_label": "",
             "color_background_main": "rgba(0,0,0,0)",
             "color_text_main": "rgba(0,0,0,0)",
             "seo_h_tag": "h3"
