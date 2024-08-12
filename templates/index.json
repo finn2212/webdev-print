@@ -201,6 +201,74 @@
         "seo_h_tag": "h2"
       }
     },
+    "slideshow_ENV84c": {
+      "type": "slideshow",
+      "blocks": {
+        "image_MwbpDk": {
+          "type": "image",
+          "settings": {
+            "caption": "Introducing",
+            "title": "Your best promotion yet",
+            "link": "",
+            "open_in_new_window": false,
+            "button_label": "Show more",
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)",
+            "seo_h_tag": "h3"
+          }
+        },
+        "image_YypCFg": {
+          "type": "image",
+          "settings": {
+            "caption": "Introducing",
+            "title": "Your best promotion yet",
+            "link": "",
+            "open_in_new_window": false,
+            "button_label": "Show more",
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)",
+            "seo_h_tag": "h3"
+          }
+        },
+        "image_8CKQbh": {
+          "type": "image",
+          "settings": {
+            "caption": "Introducing",
+            "title": "Your best promotion yet",
+            "link": "",
+            "open_in_new_window": false,
+            "button_label": "Show more",
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)",
+            "seo_h_tag": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "image_MwbpDk",
+        "image_YypCFg",
+        "image_8CKQbh"
+      ],
+      "settings": {
+        "desktop_height": "80vh",
+        "mobile_height": "60vh",
+        "is_auto_height": false,
+        "autorotate_enable": false,
+        "autorotate_interval": 5,
+        "alignment": "horizontal-left align-content--vertical-bottom",
+        "text_size": "regular",
+        "title_size": "h2",
+        "button_size": "regular",
+        "button_style": "solid",
+        "is_fullwidth": true,
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_background_gradient": "",
+        "section_heading_color": "rgba(0,0,0,0)",
+        "remove_margin": false,
+        "color_hide_borders": false,
+        "color_hide_shadow": true
+      }
+    },
     "collection_list_qVCyDc": {
       "type": "collection-list",
       "blocks": {
@@ -489,6 +557,7 @@
   "order": [
     "rich_text_7wTc9F",
     "promotion_cards_fmqxNV",
+    "slideshow_ENV84c",
     "collection_list_qVCyDc",
     "testimonials_h3RaJR",
     "rich_text_WmjRce",
