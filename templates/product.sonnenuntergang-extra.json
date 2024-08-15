@@ -175,6 +175,42 @@
         "seo_h_tag": "h3"
       }
     },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "quick_buy": {
+          "type": "quick_buy",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "price",
+        "title",
+        "quick_buy"
+      ],
+      "settings": {
+        "heading": "Weitere tolle Motive:",
+        "subheading": "",
+        "section_heading_layout": "section-heading--center",
+        "layout": "grid-4 grid-portable-3 grid-lap-2 grid-tiny-1",
+        "products_number": 4,
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_background_gradient": "",
+        "section_heading_color": "rgba(0,0,0,0)",
+        "remove_margin": false
+      }
+    },
     "promotion_cards_n3dUtP": {
       "type": "promotion-cards",
       "blocks": {
@@ -262,48 +298,12 @@
         "remove_margin": false,
         "seo_h_tag": "h2"
       }
-    },
-    "product-recommendations": {
-      "type": "product-recommendations",
-      "blocks": {
-        "price": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "title": {
-          "type": "title",
-          "settings": {
-          }
-        },
-        "quick_buy": {
-          "type": "quick_buy",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "price",
-        "title",
-        "quick_buy"
-      ],
-      "settings": {
-        "heading": "You may also like",
-        "subheading": "",
-        "section_heading_layout": "section-heading--left",
-        "layout": "grid-4 grid-portable-3 grid-lap-2 grid-tiny-1",
-        "products_number": 4,
-        "section_background_color": "rgba(0,0,0,0)",
-        "section_background_gradient": "",
-        "section_heading_color": "rgba(0,0,0,0)",
-        "remove_margin": false
-      }
     }
   },
   "order": [
     "main",
     "text_columns_icons_jAnWYn",
-    "promotion_cards_n3dUtP",
-    "product-recommendations"
+    "product-recommendations",
+    "promotion_cards_n3dUtP"
   ]
 }
