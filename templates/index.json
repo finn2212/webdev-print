@@ -221,7 +221,7 @@
         "image_YypCFg": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/264_152a8519-8d6c-4b82-b553-a9ad3c50923a.jpg",
+            "image": "shopify:\/\/shop_images\/262_1920x1920_0a2a58f3-6bc7-45cf-981e-ad207cc9eb8b.jpg",
             "caption": "",
             "title": "",
             "link": "",
@@ -235,7 +235,7 @@
         "image_8CKQbh": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/264_A2_3559a7d3-1228-40a4-905e-a623c87686f6.jpg",
+            "image": "shopify:\/\/shop_images\/Gross_Janosch_Bildergalerie_1.jpg",
             "caption": "",
             "title": "",
             "link": "",
@@ -253,8 +253,8 @@
         "image_8CKQbh"
       ],
       "settings": {
-        "desktop_height": "80vh",
-        "mobile_height": "60vh",
+        "desktop_height": "60vh",
+        "mobile_height": "50vh",
         "is_auto_height": false,
         "autorotate_enable": false,
         "autorotate_interval": 5,
