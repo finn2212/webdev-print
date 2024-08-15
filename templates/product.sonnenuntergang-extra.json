@@ -187,17 +187,11 @@
           "type": "title",
           "settings": {
           }
-        },
-        "quick_buy": {
-          "type": "quick_buy",
-          "settings": {
-          }
         }
       },
       "block_order": [
         "price",
-        "title",
-        "quick_buy"
+        "title"
       ],
       "settings": {
         "heading": "Weitere tolle Motive:",
