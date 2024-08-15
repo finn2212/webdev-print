@@ -45,11 +45,6 @@
             "hide_block_if": false
           }
         },
-        "description_hYW3PY": {
-          "type": "description",
-          "settings": {
-          }
-        },
         "space_zNCUiJ": {
           "type": "space",
           "settings": {
@@ -74,6 +69,11 @@
             "color_accent_buttons": "rgba(0,0,0,0)",
             "style_buttons": "solid"
           }
+        },
+        "description_hYW3PY": {
+          "type": "description",
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -81,10 +81,10 @@
         "price",
         "tax_info_CAadpK",
         "icons_yUUbJR",
-        "description_hYW3PY",
         "space_zNCUiJ",
         "variant_picker",
-        "buy_buttons"
+        "buy_buttons",
+        "description_hYW3PY"
       ],
       "settings": {
         "gallery_style": "slider",
