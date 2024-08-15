@@ -259,13 +259,28 @@
             "color_text_main": "rgba(0,0,0,0)",
             "seo_h_tag": "h3"
           }
+        },
+        "image_bCAUVG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/308_Janosch_Freunde_Ambiente_1_1920x1920_1399f9d9-e71b-4b4a-83c9-3a1ecd120ac1.webp",
+            "caption": "",
+            "title": "",
+            "link": "",
+            "open_in_new_window": false,
+            "button_label": "",
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)",
+            "seo_h_tag": "h3"
+          }
         }
       },
       "block_order": [
         "image_MwbpDk",
         "image_YypCFg",
         "image_8CKQbh",
-        "image_JDbkkt"
+        "image_JDbkkt",
+        "image_bCAUVG"
       ],
       "settings": {
         "desktop_height": "60vh",
