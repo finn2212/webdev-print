@@ -17,6 +17,11 @@
           "settings": {
           }
         },
+        "description_hYW3PY": {
+          "type": "description",
+          "settings": {
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -69,22 +74,17 @@
             "color_accent_buttons": "rgba(0,0,0,0)",
             "style_buttons": "solid"
           }
-        },
-        "description_hYW3PY": {
-          "type": "description",
-          "settings": {
-          }
         }
       },
       "block_order": [
         "title",
+        "description_hYW3PY",
         "price",
         "tax_info_CAadpK",
         "icons_yUUbJR",
         "space_zNCUiJ",
         "variant_picker",
-        "buy_buttons",
-        "description_hYW3PY"
+        "buy_buttons"
       ],
       "settings": {
         "gallery_style": "slider",
