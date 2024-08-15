@@ -45,6 +45,11 @@
             "hide_block_if": false
           }
         },
+        "description_hYW3PY": {
+          "type": "description",
+          "settings": {
+          }
+        },
         "space_zNCUiJ": {
           "type": "space",
           "settings": {
@@ -76,6 +81,7 @@
         "price",
         "tax_info_CAadpK",
         "icons_yUUbJR",
+        "description_hYW3PY",
         "space_zNCUiJ",
         "variant_picker",
         "buy_buttons"
