@@ -245,12 +245,27 @@
             "color_text_main": "rgba(0,0,0,0)",
             "seo_h_tag": "h3"
           }
+        },
+        "image_JDbkkt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/266_1920x1920_67c762d5-482a-41fa-bdba-625f1cc270cd.png",
+            "caption": "",
+            "title": "",
+            "link": "",
+            "open_in_new_window": false,
+            "button_label": "",
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)",
+            "seo_h_tag": "h3"
+          }
         }
       },
       "block_order": [
         "image_MwbpDk",
         "image_YypCFg",
-        "image_8CKQbh"
+        "image_8CKQbh",
+        "image_JDbkkt"
       ],
       "settings": {
         "desktop_height": "60vh",
