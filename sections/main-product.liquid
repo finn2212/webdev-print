@@ -486,7 +486,7 @@
                     <div class="product-variant__container" data-js-product-variant-container="radio">
                       {%- for value in option.values -%}
                         <div class="product-variant__item">
-                          <input type="radio" name="product-{{ option.name | escape | downcase | strip }}-{{ section.id }}" id="{{ product.handle }}-option-{{ option.name | escape | downcase | strip }}-{{ forloop.index }}-{{ section.id }}" value="{{ value | escape }}" {% if default_to_first_variant and option.selected_value == value %}checked{% endif %} class="product-variant__input product-variant-value">
+                          <input type="radio" name="product-{{ option.name | escape | downcase | strip }}-{{ section.id }}" id="{{ product.handle }}-option-{{ option.name | escape | downcase | strip }}-{{ forloop.index }}-{{ section.id }}" value="{{ value | escape }}" {% if default_to_first_variant and option.selected_value == value %}checked{% endif %} class="product-variant__input product-variant-value" data-option-position="{{ option.index }}" data-option-name="{{ option.name | escape }}" >
                           <label for="{{ product.handle }}-option-{{ option.name | escape | downcase | strip }}-{{ forloop.index }}-{{ section.id }}" class="product-variant__label">
                             {{ value }}
                           </label>
