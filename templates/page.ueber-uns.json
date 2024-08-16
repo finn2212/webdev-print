@@ -22,7 +22,7 @@
         "title_m8bNLr": {
           "type": "title",
           "settings": {
-            "title": "Nachhaltigkeit",
+            "title": "Über uns",
             "title_size": "h1",
             "seo_h_tag": "h2"
           }
@@ -30,27 +30,25 @@
         "text_xxfJad": {
           "type": "text",
           "settings": {
-            "text": "<p>Es ist für uns eine Selbstverständlichkeit, dass wir unsere Lebensgrundlagen und somit den Planeten Erde erhalten und schützen müssen. Wir bemühen uns daher, möglichst wenig Ressourcen zu verbrauchen. Die Ressourcen, die wir nutzen, sollen diesem Anspruch möglichst gerecht werden.<\/p>",
+            "text": "<p>Wir sind mit Janosch groß geworden. Mit dem kleinen Tiger, dem kleinen Bären und der Tigerente. Mit Janoschs einzigartigem Pinselstrich und seiner Philosophie eines einfachen und glücklichen Lebens. Seine Figuren zaubern ein Lachen in das Gesicht des Betrachters, sie machen einfach ein gutes Gefühl. Janosch-Drucke wollen diesen Zauber weitergeben mit der Möglichkeit, eine ganz persönliche Botschaft hinzuzufügen.<\/p>",
             "text_size": "regular"
           }
         },
         "text_fhpkwq": {
           "type": "text",
           "settings": {
-            "text": "<p>Gemeinsam mit der Hamburger Genossenschaft „Thegenerationforest“ haben wir den „Tigerenten-Wald“ ins Leben gerufen. Ein Regenwald in Panama, der wieder entsteht und für immer Wald bleibt. Der Heimat für viele bedrohte Pflanzen- und Tierarten wie den Jaguar und den Tukan bietet. Der nachhaltig bewirtschaftet wird, aber auch Erträge erwirtschaftet. Bei dem jede und jeder mitmachen kann.<\/p>",
+            "text": "<p>Gedruckt mit Highend-11-Farben-Druckmaschinen auf einem nachhaltig hergestellten, 230g schweren Premium-Naturpapier – FSC-zertifiziert – macht zusätzlich beim Kauf ein gutes Gefühl – Gutes tun mit Janosch!<\/p><p>Viel Freude damit!<\/p>",
             "text_size": "regular"
           }
         },
-        "space_FtUYFL": {
-          "type": "space",
+        "button_UCXmLj": {
+          "type": "button",
           "settings": {
-          }
-        },
-        "text_XTjrbt": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>\"Komm Bär\", sagte der kleine Tiger, \"wir pflanzen einen Tigerenten-Wald.\"<\/h2>",
-            "text_size": "regular"
+            "button_label": "Jetzt starten",
+            "link": "shopify:\/\/collections\/frontpage",
+            "open_in_new_window": false,
+            "button_size": "regular",
+            "button_style": "solid"
           }
         }
       },
@@ -58,11 +56,10 @@
         "title_m8bNLr",
         "text_xxfJad",
         "text_fhpkwq",
-        "space_FtUYFL",
-        "text_XTjrbt"
+        "button_UCXmLj"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/TEW_Logo_RGB_800x800_9b7ec301-3d87-4c3a-a9eb-da2e946a88af.jpg",
+        "image": "shopify:\/\/shop_images\/001.webp",
         "image_position": "left",
         "height": "regular",
         "image_crop": false,
@@ -79,55 +76,10 @@
         "color_hide_borders": false,
         "color_hide_shadow": false
       }
-    },
-    "rich_text_Jr7LY7": {
-      "type": "rich-text",
-      "blocks": {
-        "text_abEzjz": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Über die Anteile am Tigerenten-Wald kompensieren wir das CO2, das sich nicht vermeiden lässt und erreichen einen klima-positiven Versand.<\/p>",
-            "text_size": "regular"
-          }
-        },
-        "button_Kq9k48": {
-          "type": "button",
-          "settings": {
-            "button_label": "Mehr erfahren",
-            "link": "https:\/\/thegenerationforest.com\/tigerenten-wald",
-            "open_in_new_window": true,
-            "button_size": "regular",
-            "button_style": "solid"
-          }
-        }
-      },
-      "block_order": [
-        "text_abEzjz",
-        "button_Kq9k48"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/1200x1200.jpg",
-        "image_position": "left",
-        "height": "regular",
-        "image_crop": false,
-        "text_alignment": "horizontal-center",
-        "is_fullwidth": false,
-        "section_background_color": "rgba(0,0,0,0)",
-        "section_background_gradient": "",
-        "remove_margin": true,
-        "color_background_main": "rgba(0,0,0,0)",
-        "color_text_main": "rgba(0,0,0,0)",
-        "color_accent_main": "rgba(0,0,0,0)",
-        "color_borders_main": "rgba(0,0,0,0)",
-        "color_shadow_main": "rgba(0,0,0,0)",
-        "color_hide_borders": false,
-        "color_hide_shadow": false
-      }
     }
   },
   "order": [
     "main",
-    "rich_text_WWkTT9",
-    "rich_text_Jr7LY7"
+    "rich_text_WWkTT9"
   ]
 }
