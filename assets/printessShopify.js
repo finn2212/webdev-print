@@ -1,4 +1,4 @@
-/*Printess Shopify Integration Version: 2.4*/const showPrintessEditorFallback = (itemId, loopCount = 0) => {
+const showPrintessEditorFallback = (itemId, loopCount = 0) => {
     const showMethodName = "openPrintessEditor" + itemId;
     if (typeof window[showMethodName] === "undefined") {
         const scriptTag = document.getElementById("printess_script_" + itemId);
@@ -53,7 +53,8 @@ const initPrintessShopifyEditor = (printessSettings) => {
                     if (!x.form) {
                         const name = parseName(x.getAttribute("data-option-name"));
                         const value = x.getAttribute("value");
-                        if ((name.length > 0 && name[0] !== "_") && (x.getAttribute("type") !== "checkbox" || x.checked)) {
+                        //Only add to return values in case of checkbox / radio buttons in case they are checked
+                        if ((name.length > 0 && name[0] !== "_") && ((x.getAttribute("type") !== "checkbox" && x.getAttribute("type") !== "radio") || x.checked)) {
                             ret[name] = value;
                         }
                     }
