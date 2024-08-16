@@ -326,11 +326,10 @@
             "image": "shopify:\/\/shop_images\/011.webp"
           }
         },
-        "collection_icRYBx": {
+        "collection_U4kKg8": {
           "type": "collection",
           "settings": {
-            "collection": "wondrak",
-            "image": "shopify:\/\/shop_images\/009.webp"
+            "collection": "janosch-poster"
           }
         }
       },
@@ -338,7 +337,7 @@
         "collection_LQW3ta",
         "collection_fHEKjb",
         "collection_xXtQa7",
-        "collection_icRYBx"
+        "collection_U4kKg8"
       ],
       "settings": {
         "heading": "Beliebte Themen",
