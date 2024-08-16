@@ -182,7 +182,8 @@ document.addEventListener("DOMContentLoaded", function() {
                                                                                                     "shopMoneyFormat": "{{ shop.money_format }}",
                                                                                                     "displayProductName": !({{showProductName | json}} === false),
                                                                                                     "showAlertOnTabClose": {{showAlertOnTabClose | json}} === true,
-                                                                                                    "startupBackgroundColor": "{{startupBackgroundColor}}" || "#000000"
+                                                                                                    "startupBackgroundColor": "{{startupBackgroundColor}}" || "#000000",
+                                                                                                    "supportsOptionPositionIndex": true
                                                                                                   }) : null;
       let templateName = {{ printessTemplateName | json }};
       const product = {{ product | json }};
