@@ -171,7 +171,7 @@
       "save_percent": "Bis zu {{ percent }}",
       "choose_variant_first": "Optionen auswählen",
       "select_variant": "{{ variant }} auswählen",
-      "quick_buy": "Kaufen",
+      "quick_buy": "Details",
       "quick_view": "Schnellansicht"
     },
     "page": {
