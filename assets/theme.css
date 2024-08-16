@@ -49,6 +49,9 @@ time, mark, audio, video, button {
   font-size: 100%;
   font: inherit;
   vertical-align: baseline;
+  font-family: "Amatic SC" !important;
+  font-weight: 400 !important;
+  font-style: normal !important;
 }
 
 article, aside, details, figcaption, figure,
