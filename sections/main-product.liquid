@@ -457,7 +457,7 @@
                 {%- for option in product.options_with_values -%}
                   <div class="product-variant" data-js-product-variant>
                     <label class="product-variant__name text-size--large" for="product-{{ option.name | escape | downcase | strip }}-{{ section.id }}">{{ option.name }}</label>
-                    <select class="product-variant-container" id="product-{{ option.name | escape | downcase | strip }}-{{ section.id }}" data-js-product-variant-container="select">
+                    <select class="product-variant-container" id="product-{{ option.name | escape | downcase | strip }}-{{ section.id }}" data-js-product-variant-container="select" data-option-position="{{ forloop.index0 }}" data-option-name="{{ option.name | escape }}">
                       {%- unless default_to_first_variant -%}
                         <option class="product-variant-value" default selected disabled>{{ 'products.grid.select_variant' | t: variant: option.name }}</option>
                       {%- endunless -%}
