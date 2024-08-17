@@ -121,6 +121,9 @@
         "title",
         "quick_buy"
       ],
+      "custom_css": [
+        ".item-font {font-family: \"Amatic SC\" !important; font-weight: 400 !important; font-style: normal !important; font-size: 45px;}"
+      ],
       "settings": {
         "heading": "Entdecke weitere tolle Motive:",
         "subheading": "",
