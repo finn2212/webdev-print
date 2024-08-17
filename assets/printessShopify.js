@@ -312,7 +312,7 @@ const initPrintessShopifyEditor = (printessSettings) => {
                     editor.showOrHideElement({ elementSelector: 'button[name="add"], button.product-form__add-button[data-action="add-to-cart"],button#AddToCart' }, !showPrintessButton, "block");
                     editor.showOrHideElement({ elementSelector: 'button[type="button"].shopify-payment-button__button' }, !showPrintessButton, "block");
                     if (printessButton) {
-                        printessButton.style.display = showPrintessButton ? "flex" : "none";
+                        printessButton.style.display = showPrintessButton ? "block" : "none";
                         if (initialCall === true) {
                             printessButton.printessEditor = editor;
                         }
