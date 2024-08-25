@@ -476,5 +476,10 @@
       "view_store_info": "Details zur Filiale",
       "check_other_stores": "Verfügbarkeit in anderen Filialen prüfen"
     }
+  },
+  "shopify": {
+    "links": {
+      "powered_by_shopify": " "
+    }
   }
 }
