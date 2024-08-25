@@ -11,11 +11,55 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
+        "center": false
+      }
+    },
+    "rich_text_68EjwN": {
+      "type": "rich-text",
+      "blocks": {
+        "title_ErrGyk": {
+          "type": "title",
+          "settings": {
+            "title": "Versand",
+            "title_size": "h2",
+            "seo_h_tag": "h2"
+          }
+        },
+        "text_wQpWYP": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wir versenden in Deutschland mit DHL & dpd. Die Versandkosten für ein Paket betragen € 6,99. Ab € 50,- Warenkorbwert geht das Paket kostenfrei auf die Reise.<\/p><p>Innerhalb Europas, die Schweiz und in das Vereinigte Königreich versenden wir für € 14,99.<\/p>",
+            "text_size": "regular"
+          }
+        }
+      },
+      "block_order": [
+        "title_ErrGyk",
+        "text_wQpWYP"
+      ],
+      "settings": {
+        "image_position": "right",
+        "height": "large",
+        "image_crop": true,
+        "text_alignment": "horizontal-center",
+        "is_fullwidth": false,
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_background_gradient": "",
+        "remove_margin": false,
+        "color_background_main": "rgba(0,0,0,0)",
+        "color_text_main": "rgba(0,0,0,0)",
+        "color_accent_main": "rgba(0,0,0,0)",
+        "color_borders_main": "rgba(0,0,0,0)",
+        "color_shadow_main": "rgba(0,0,0,0)",
+        "color_hide_borders": false,
+        "color_hide_shadow": false
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "rich_text_68EjwN"
   ]
 }
