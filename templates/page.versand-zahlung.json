@@ -33,13 +33,25 @@
             "text": "<p>Wir versenden in Deutschland mit DHL & dpd. Die Versandkosten für ein Paket betragen € 6,99. Ab € 50,- Warenkorbwert geht das Paket kostenfrei auf die Reise.<\/p><p>Innerhalb Europas, die Schweiz und in das Vereinigte Königreich versenden wir für € 14,99.<\/p>",
             "text_size": "regular"
           }
+        },
+        "button_8YVkHK": {
+          "type": "button",
+          "settings": {
+            "button_label": "Jetzt einkaufen",
+            "link": "",
+            "open_in_new_window": false,
+            "button_size": "regular",
+            "button_style": "solid"
+          }
         }
       },
       "block_order": [
         "title_ErrGyk",
-        "text_wQpWYP"
+        "text_wQpWYP",
+        "button_8YVkHK"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Bildschirmfoto_2024-08-25_um_14.59.17.png",
         "image_position": "right",
         "height": "large",
         "image_crop": true,
@@ -53,13 +65,67 @@
         "color_accent_main": "rgba(0,0,0,0)",
         "color_borders_main": "rgba(0,0,0,0)",
         "color_shadow_main": "rgba(0,0,0,0)",
-        "color_hide_borders": false,
-        "color_hide_shadow": false
+        "color_hide_borders": true,
+        "color_hide_shadow": true
+      }
+    },
+    "rich_text_z4kx3b": {
+      "type": "rich-text",
+      "blocks": {
+        "title_mCwkRh": {
+          "type": "title",
+          "settings": {
+            "title": "Zahlung",
+            "title_size": "h2",
+            "seo_h_tag": "h2"
+          }
+        },
+        "text_76977n": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wir versenden in Deutschland mit DHL & dpd. Die Versandkosten für ein Paket betragen € 6,99. Ab € 50,- Warenkorbwert geht das Paket kostenfrei auf die Reise.<\/p><p>Innerhalb Europas, die Schweiz und in das Vereinigte Königreich versenden wir für € 14,99.<\/p>",
+            "text_size": "regular"
+          }
+        },
+        "button_gmPxqw": {
+          "type": "button",
+          "settings": {
+            "button_label": "Jetzt einkaufen",
+            "link": "",
+            "open_in_new_window": false,
+            "button_size": "regular",
+            "button_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "title_mCwkRh",
+        "text_76977n",
+        "button_gmPxqw"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Bildschirmfoto_2024-08-25_um_14.59.43.png",
+        "image_position": "right",
+        "height": "large",
+        "image_crop": true,
+        "text_alignment": "horizontal-center",
+        "is_fullwidth": false,
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_background_gradient": "",
+        "remove_margin": true,
+        "color_background_main": "rgba(0,0,0,0)",
+        "color_text_main": "rgba(0,0,0,0)",
+        "color_accent_main": "rgba(0,0,0,0)",
+        "color_borders_main": "rgba(0,0,0,0)",
+        "color_shadow_main": "rgba(0,0,0,0)",
+        "color_hide_borders": true,
+        "color_hide_shadow": true
       }
     }
   },
   "order": [
     "main",
-    "rich_text_68EjwN"
+    "rich_text_68EjwN",
+    "rich_text_z4kx3b"
   ]
 }
