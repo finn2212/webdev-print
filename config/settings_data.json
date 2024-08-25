@@ -179,7 +179,7 @@
     "border_width_buttons": 1,
     "border_radius_buttons": 30,
     "shadow_cards_x": 0,
-    "product_card_aspect_ratio_fit": true,
+    "product_card_aspect_ratio_fit": false,
     "product_card_show_secondary_image": true,
     "product_card_text_alignment": "center",
     "product_card_text_size": "xlarge",
