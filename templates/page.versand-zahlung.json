@@ -91,7 +91,7 @@
           "type": "button",
           "settings": {
             "button_label": "Jetzt einkaufen",
-            "link": "",
+            "link": "shopify:\/\/collections\/freundschaft-liebe",
             "open_in_new_window": false,
             "button_size": "regular",
             "button_style": "solid"
