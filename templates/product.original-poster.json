@@ -60,9 +60,9 @@
           "type": "buy_buttons",
           "settings": {
             "show_price": false,
-            "show_quantity_selector": false,
+            "show_quantity_selector": true,
             "show_preorder": false,
-            "show_dynamic_checkout": false,
+            "show_dynamic_checkout": true,
             "show_gift_card_recipient": false,
             "color_text_buttons": "rgba(0,0,0,0)",
             "color_accent_buttons": "rgba(0,0,0,0)",
