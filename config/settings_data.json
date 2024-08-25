@@ -190,7 +190,13 @@
     "product_icon_1_label": "",
     "cart_recommendations_heading": "Andere kauften auch:",
     "cart_free_shipping": true,
+    "show_breadcrumb": true,
     "show_gotop": true,
+    "social_email": "mailto:janosch-druck@janosch-medien.de",
+    "social_facebook": "https:\/\/www.facebook.com\/janoschwelt",
+    "social_instagram": "https:\/\/www.instagram.com\/janoschwelt\/",
+    "social_twitter": "https:\/\/twitter.com\/tiger_und_baer",
+    "social_youtube": "https:\/\/www.youtube.com\/@JanoschsTraumstundeBavaria",
     "sections": {
       "popups": {
         "type": "popups",
