@@ -189,6 +189,7 @@
     "product_card_color_hide_shadow": true,
     "product_icon_1_image": "",
     "product_icon_1_label": "",
+    "cart_recommendations": false,
     "cart_recommendations_heading": "Andere kauften auch:",
     "cart_free_shipping": true,
     "show_breadcrumb": true,
