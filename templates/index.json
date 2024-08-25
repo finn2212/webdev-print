@@ -23,7 +23,7 @@
         "text_HtMjhp": {
           "type": "text",
           "settings": {
-            "text": "<p>Janosch-Motive mit<br\/>ganz persönlicher Note<\/p>",
+            "text": "<p>Janosch-Motive mit <br\/>ganz persönlicher Note<\/p>",
             "text_size": "regular"
           }
         }
