@@ -55,6 +55,7 @@
   font-weight: var(--font-weight-body-bold);
   line-height: 1.25;
   font-family: "Amatic SC" !important;
+  font-size: 25px;
 }
 .cart-item__actions {
   display: flex !important;
