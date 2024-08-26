@@ -59,6 +59,9 @@ h1, h2, h3, h4, h5, h6 {
 .amatic {
   font-family: "Amatic SC" !important;
 }
+.item-font {
+  font-size: 35px !important;
+}
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
