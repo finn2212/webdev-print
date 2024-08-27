@@ -116,11 +116,11 @@
         "card_E4BUh4": {
           "type": "card",
           "settings": {
-            "image": "shopify:\/\/shop_images\/002.webp",
+            "image": "shopify:\/\/shop_images\/LH_Test_2.webp",
             "caption": "",
-            "title": "Sonnenuntergang",
+            "title": "Liebhaben",
             "subtitle": "",
-            "link": "",
+            "link": "shopify:\/\/products\/liebhaben",
             "open_in_new_window": false,
             "button_label": "Jetzt personalisieren",
             "color_background_main": "rgba(0,0,0,0)",
