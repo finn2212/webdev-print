@@ -1,0 +1,188 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "alignment": "horizontal-left align-content--vertical-bottom",
+        "color_background_main": "rgba(0,0,0,0)",
+        "color_text_main": "rgba(0,0,0,0)"
+      }
+    },
+    "promotion_cards_WHNQF4": {
+      "type": "promotion-cards",
+      "blocks": {
+        "card_9W3Taj": {
+          "type": "card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/002.webp",
+            "caption": "",
+            "title": "Sonnenuntergang",
+            "subtitle": "",
+            "link": "shopify:\/\/products\/sonnenuntergang",
+            "open_in_new_window": false,
+            "button_label": "Jetzt personalisieren",
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)",
+            "color_accent_main": "rgba(0,0,0,0)",
+            "color_borders_main": "rgba(0,0,0,0)",
+            "color_shadow_main": "rgba(0,0,0,0)",
+            "color_hide_borders": true,
+            "color_hide_shadow": true,
+            "seo_h_tag": "h3"
+          }
+        },
+        "card_E4BUh4": {
+          "type": "card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LH_Test_2.webp",
+            "caption": "",
+            "title": "Liebhaben",
+            "subtitle": "",
+            "link": "shopify:\/\/products\/liebhaben",
+            "open_in_new_window": false,
+            "button_label": "Jetzt personalisieren",
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)",
+            "color_accent_main": "rgba(0,0,0,0)",
+            "color_borders_main": "rgba(0,0,0,0)",
+            "color_shadow_main": "rgba(0,0,0,0)",
+            "color_hide_borders": true,
+            "color_hide_shadow": true,
+            "seo_h_tag": "h3"
+          }
+        },
+        "card_AhKrgM": {
+          "type": "card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/004.webp",
+            "caption": "",
+            "title": "Eine Blume für dich",
+            "subtitle": "",
+            "link": "shopify:\/\/products\/eine-blume-fur-dich",
+            "open_in_new_window": false,
+            "button_label": "Jetzt personalisieren",
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)",
+            "color_accent_main": "rgba(0,0,0,0)",
+            "color_borders_main": "rgba(0,0,0,0)",
+            "color_shadow_main": "rgba(0,0,0,0)",
+            "color_hide_borders": true,
+            "color_hide_shadow": true,
+            "seo_h_tag": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "card_9W3Taj",
+        "card_E4BUh4",
+        "card_AhKrgM"
+      ],
+      "settings": {
+        "heading": "Direkt zu unseren Bestsellern:",
+        "subheading": "",
+        "section_heading_layout": "section-heading--center",
+        "layout": "grid-3 grid-lap-1",
+        "image_aspect_ratio": "1",
+        "text_alignment": "text-align--center",
+        "caption_size": "regular",
+        "title_size": "h2",
+        "subtitle_size": "regular",
+        "button_size": "regular",
+        "button_style": "solid",
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_background_gradient": "",
+        "section_heading_color": "rgba(0,0,0,0)",
+        "remove_margin": true,
+        "seo_h_tag": "h2"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "quick_buy": {
+          "type": "quick_buy",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "price",
+        "title",
+        "quick_buy"
+      ],
+      "custom_css": [
+        ".item-font {font-family: \"Amatic SC\" !important; font-weight: 400 !important; font-style: normal !important; font-size: calc(26px \/ 60 * var(--base-headings-size) + 0px);}"
+      ],
+      "settings": {
+        "layout": "grid-4 grid-portable-3 grid-lap-2 grid-tiny-1",
+        "products_number": 24,
+        "enable_filtering": true,
+        "enable_sorting": true,
+        "image_filter_layout": "onecolumn"
+      }
+    },
+    "collection_list_XVJ6Fb": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_YeYfPy": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "collection_9jBbGc": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_YeYfPy",
+        "collection_9jBbGc"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Noch mehr findest du hier:",
+        "subheading": "",
+        "show_view_all": true,
+        "section_heading_layout": "section-heading--center",
+        "style": "grid",
+        "layout": "grid-6 grid-portable-4 grid-lap-3 grid-palm-2",
+        "image_aspect_ratio": "1",
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_background_gradient": "",
+        "section_heading_color": "rgba(0,0,0,0)",
+        "remove_margin": false,
+        "seo_h_tag": "h2"
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "promotion_cards_WHNQF4",
+    "product-grid",
+    "collection_list_XVJ6Fb"
+  ]
+}
