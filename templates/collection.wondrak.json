@@ -65,11 +65,11 @@
         "card_AhKrgM": {
           "type": "card",
           "settings": {
-            "image": "shopify:\/\/shop_images\/004.webp",
-            "caption": "",
-            "title": "Eine Blume für dich",
+            "image": "shopify:\/\/shop_images\/Paradies.png",
+            "caption": "\"Herr Janosch, gibt es ein Paradies auf Erden – wenn ja, wo ist es zu finden?\"",
+            "title": "Das Paradies auf Erden",
             "subtitle": "",
-            "link": "shopify:\/\/products\/eine-blume-fur-dich",
+            "link": "shopify:\/\/products\/wondrak-paradies-auf-erden",
             "open_in_new_window": false,
             "button_label": "Jetzt personalisieren",
             "color_background_main": "rgba(0,0,0,0)",
