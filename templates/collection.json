@@ -96,7 +96,7 @@
         "image_aspect_ratio": "1",
         "text_alignment": "text-align--center",
         "caption_size": "regular",
-        "title_size": "h3",
+        "title_size": "h2",
         "subtitle_size": "regular",
         "button_size": "regular",
         "button_style": "solid",
