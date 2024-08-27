@@ -25,13 +25,50 @@
         "card_9W3Taj": {
           "type": "card",
           "settings": {
-            "image": "shopify:\/\/shop_images\/002.webp",
             "caption": "",
-            "title": "Sonnenuntergang",
+            "title": "Titel",
             "subtitle": "",
             "link": "shopify:\/\/products\/sonnenuntergang",
             "open_in_new_window": false,
-            "button_label": "Jetzt personalisieren",
+            "button_label": "Zum Poster",
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)",
+            "color_accent_main": "rgba(0,0,0,0)",
+            "color_borders_main": "rgba(0,0,0,0)",
+            "color_shadow_main": "rgba(0,0,0,0)",
+            "color_hide_borders": true,
+            "color_hide_shadow": true,
+            "seo_h_tag": "h3"
+          }
+        },
+        "card_tpx86n": {
+          "type": "card",
+          "settings": {
+            "caption": "",
+            "title": "Titel",
+            "subtitle": "",
+            "link": "shopify:\/\/products\/sonnenuntergang",
+            "open_in_new_window": false,
+            "button_label": "Zum Poster",
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)",
+            "color_accent_main": "rgba(0,0,0,0)",
+            "color_borders_main": "rgba(0,0,0,0)",
+            "color_shadow_main": "rgba(0,0,0,0)",
+            "color_hide_borders": true,
+            "color_hide_shadow": true,
+            "seo_h_tag": "h3"
+          }
+        },
+        "card_dTMEXD": {
+          "type": "card",
+          "settings": {
+            "caption": "",
+            "title": "Titel",
+            "subtitle": "",
+            "link": "shopify:\/\/products\/sonnenuntergang",
+            "open_in_new_window": false,
+            "button_label": "Zum Poster",
             "color_background_main": "rgba(0,0,0,0)",
             "color_text_main": "rgba(0,0,0,0)",
             "color_accent_main": "rgba(0,0,0,0)",
@@ -85,6 +122,8 @@
       },
       "block_order": [
         "card_9W3Taj",
+        "card_tpx86n",
+        "card_dTMEXD",
         "card_E4BUh4",
         "card_AhKrgM"
       ],
