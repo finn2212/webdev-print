@@ -19,77 +19,6 @@
         "color_text_main": "rgba(0,0,0,0)"
       }
     },
-    "product-grid": {
-      "type": "main-collection-product-grid",
-      "blocks": {
-        "price": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "title": {
-          "type": "title",
-          "settings": {
-          }
-        },
-        "quick_buy": {
-          "type": "quick_buy",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "price",
-        "title",
-        "quick_buy"
-      ],
-      "custom_css": [
-        ".item-font {font-family: \"Amatic SC\" !important; font-weight: 400 !important; font-style: normal !important; font-size: calc(26px \/ 60 * var(--base-headings-size) + 0px);}"
-      ],
-      "settings": {
-        "layout": "grid-4 grid-portable-3 grid-lap-2 grid-tiny-1",
-        "products_number": 24,
-        "enable_filtering": true,
-        "enable_sorting": true,
-        "image_filter_layout": "onecolumn"
-      }
-    },
-    "collection_list_XVJ6Fb": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_YeYfPy": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "collection_9jBbGc": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection_YeYfPy",
-        "collection_9jBbGc"
-      ],
-      "disabled": true,
-      "settings": {
-        "heading": "Noch mehr findest du hier:",
-        "subheading": "",
-        "show_view_all": true,
-        "section_heading_layout": "section-heading--center",
-        "style": "grid",
-        "layout": "grid-6 grid-portable-4 grid-lap-3 grid-palm-2",
-        "image_aspect_ratio": "1",
-        "section_background_color": "rgba(0,0,0,0)",
-        "section_background_gradient": "",
-        "section_heading_color": "rgba(0,0,0,0)",
-        "remove_margin": false,
-        "seo_h_tag": "h2"
-      }
-    },
     "promotion_cards_WHNQF4": {
       "type": "promotion-cards",
       "blocks": {
@@ -160,7 +89,7 @@
         "card_AhKrgM"
       ],
       "settings": {
-        "heading": "Direkt zu den Bestsellern:",
+        "heading": "Direkt zu unseren Bestsellern:",
         "subheading": "",
         "section_heading_layout": "section-heading--center",
         "layout": "grid-3 grid-lap-1",
@@ -174,6 +103,77 @@
         "section_background_color": "rgba(0,0,0,0)",
         "section_background_gradient": "",
         "section_heading_color": "rgba(0,0,0,0)",
+        "remove_margin": true,
+        "seo_h_tag": "h2"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "quick_buy": {
+          "type": "quick_buy",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "price",
+        "title",
+        "quick_buy"
+      ],
+      "custom_css": [
+        ".item-font {font-family: \"Amatic SC\" !important; font-weight: 400 !important; font-style: normal !important; font-size: calc(26px \/ 60 * var(--base-headings-size) + 0px);}"
+      ],
+      "settings": {
+        "layout": "grid-4 grid-portable-3 grid-lap-2 grid-tiny-1",
+        "products_number": 24,
+        "enable_filtering": true,
+        "enable_sorting": true,
+        "image_filter_layout": "onecolumn"
+      }
+    },
+    "collection_list_XVJ6Fb": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_YeYfPy": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "collection_9jBbGc": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_YeYfPy",
+        "collection_9jBbGc"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Noch mehr findest du hier:",
+        "subheading": "",
+        "show_view_all": true,
+        "section_heading_layout": "section-heading--center",
+        "style": "grid",
+        "layout": "grid-6 grid-portable-4 grid-lap-3 grid-palm-2",
+        "image_aspect_ratio": "1",
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_background_gradient": "",
+        "section_heading_color": "rgba(0,0,0,0)",
         "remove_margin": false,
         "seo_h_tag": "h2"
       }
@@ -181,8 +181,8 @@
   },
   "order": [
     "banner",
+    "promotion_cards_WHNQF4",
     "product-grid",
-    "collection_list_XVJ6Fb",
-    "promotion_cards_WHNQF4"
+    "collection_list_XVJ6Fb"
   ]
 }
