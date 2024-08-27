@@ -132,11 +132,32 @@
             "color_hide_shadow": true,
             "seo_h_tag": "h3"
           }
+        },
+        "card_AhKrgM": {
+          "type": "card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/004.webp",
+            "caption": "",
+            "title": "Eine Blume für dich",
+            "subtitle": "",
+            "link": "shopify:\/\/products\/eine-blume-fur-dich",
+            "open_in_new_window": false,
+            "button_label": "Jetzt personalisieren",
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)",
+            "color_accent_main": "rgba(0,0,0,0)",
+            "color_borders_main": "rgba(0,0,0,0)",
+            "color_shadow_main": "rgba(0,0,0,0)",
+            "color_hide_borders": true,
+            "color_hide_shadow": true,
+            "seo_h_tag": "h3"
+          }
         }
       },
       "block_order": [
         "card_9W3Taj",
-        "card_E4BUh4"
+        "card_E4BUh4",
+        "card_AhKrgM"
       ],
       "settings": {
         "heading": "Direkt zu den Bestsellern:",
