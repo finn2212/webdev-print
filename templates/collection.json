@@ -100,7 +100,7 @@
             "caption": "",
             "title": "Sonnenuntergang",
             "subtitle": "",
-            "link": "",
+            "link": "shopify:\/\/products\/sonnenuntergang",
             "open_in_new_window": false,
             "button_label": "Jetzt personalisieren",
             "color_background_main": "rgba(0,0,0,0)",
@@ -113,34 +113,16 @@
             "seo_h_tag": "h3"
           }
         },
-        "card_imMyjB": {
+        "card_E4BUh4": {
           "type": "card",
           "settings": {
-            "caption": "Introducing",
-            "title": "Your best promotion yet",
-            "subtitle": "Write about it",
+            "image": "shopify:\/\/shop_images\/002.webp",
+            "caption": "",
+            "title": "Sonnenuntergang",
+            "subtitle": "",
             "link": "",
             "open_in_new_window": false,
-            "button_label": "Show more",
-            "color_background_main": "rgba(0,0,0,0)",
-            "color_text_main": "rgba(0,0,0,0)",
-            "color_accent_main": "rgba(0,0,0,0)",
-            "color_borders_main": "rgba(0,0,0,0)",
-            "color_shadow_main": "rgba(0,0,0,0)",
-            "color_hide_borders": false,
-            "color_hide_shadow": false,
-            "seo_h_tag": "h3"
-          }
-        },
-        "card_Fk83Ke": {
-          "type": "card",
-          "settings": {
-            "caption": "Introducing",
-            "title": "Your best promotion yet",
-            "subtitle": "Write about it",
-            "link": "",
-            "open_in_new_window": false,
-            "button_label": "Show more",
+            "button_label": "Jetzt personalisieren",
             "color_background_main": "rgba(0,0,0,0)",
             "color_text_main": "rgba(0,0,0,0)",
             "color_accent_main": "rgba(0,0,0,0)",
@@ -154,8 +136,7 @@
       },
       "block_order": [
         "card_9W3Taj",
-        "card_imMyjB",
-        "card_Fk83Ke"
+        "card_E4BUh4"
       ],
       "settings": {
         "heading": "Direkt zu den Bestsellern:",
