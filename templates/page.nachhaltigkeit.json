@@ -123,11 +123,22 @@
         "color_hide_borders": false,
         "color_hide_shadow": false
       }
+    },
+    "video_LpQV4M": {
+      "type": "video",
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "section_heading_layout": "section-heading--left",
+        "video": "https:\/\/player.vimeo.com\/video\/1005048622?badge=0&autopause=0&app_id=58479",
+        "seo_h_tag": "h2"
+      }
     }
   },
   "order": [
     "main",
     "rich_text_WWkTT9",
-    "rich_text_Jr7LY7"
+    "rich_text_Jr7LY7",
+    "video_LpQV4M"
   ]
 }
