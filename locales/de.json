@@ -29,7 +29,7 @@
     "contact_form": {
       "title": "Schreiben Sie uns eine Nachricht",
       "name_label": "Name",
-      "email_label": "E-mail",
+      "email_label": "E-Mail",
       "phone_label": "Telefonnummer",
       "message_label": "Nachricht",
       "subject_label": "Betreff",
