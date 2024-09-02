@@ -372,11 +372,20 @@
             "author_title": "",
             "quote": "<p><em>Tolle Qualität, das hätte ich so nicht erwartet. Super!<\/em><\/p>"
           }
+        },
+        "testimonial_xjBwq7": {
+          "type": "testimonial",
+          "settings": {
+            "author_name": "Margarete",
+            "author_title": "Hamburg",
+            "quote": "<p>Super Geschenkidee. Meine Schwester hat sich so gefreut. <\/p>"
+          }
         }
       },
       "block_order": [
         "testimonial_tnwbcc",
-        "testimonial_UU7VWY"
+        "testimonial_UU7VWY",
+        "testimonial_xjBwq7"
       ],
       "settings": {
         "heading": "Das sagen unsere Kund:innen:",
