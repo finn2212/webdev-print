@@ -201,47 +201,6 @@
         "seo_h_tag": "h2"
       }
     },
-    "rich_text_fz3ypA": {
-      "type": "rich-text",
-      "blocks": {
-        "title_iCaXfX": {
-          "type": "title",
-          "settings": {
-            "title": "Jetzt noch größer!",
-            "title_size": "h1",
-            "seo_h_tag": "h2"
-          }
-        },
-        "text_mX87aM": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Unsere personalisierten Drucke und Janosch-Poster gibt es jetzt in Größen von DIN A4 bis hin zu 50 x 70 cm – so kommt dein Lieblingsmotiv hervorragend zur Geltung!<\/p>",
-            "text_size": "regular"
-          }
-        }
-      },
-      "block_order": [
-        "title_iCaXfX",
-        "text_mX87aM"
-      ],
-      "settings": {
-        "image_position": "top no-image",
-        "height": "regular",
-        "image_crop": true,
-        "text_alignment": "horizontal-center",
-        "is_fullwidth": true,
-        "section_background_color": "#ddebc5",
-        "section_background_gradient": "",
-        "remove_margin": false,
-        "color_background_main": "#ddebc5",
-        "color_text_main": "rgba(0,0,0,0)",
-        "color_accent_main": "rgba(0,0,0,0)",
-        "color_borders_main": "rgba(0,0,0,0)",
-        "color_shadow_main": "rgba(0,0,0,0)",
-        "color_hide_borders": false,
-        "color_hide_shadow": false
-      }
-    },
     "slideshow_ENV84c": {
       "type": "slideshow",
       "blocks": {
@@ -356,6 +315,47 @@
         "remove_margin": false,
         "color_hide_borders": true,
         "color_hide_shadow": true
+      }
+    },
+    "rich_text_fz3ypA": {
+      "type": "rich-text",
+      "blocks": {
+        "title_iCaXfX": {
+          "type": "title",
+          "settings": {
+            "title": "Jetzt noch größer!",
+            "title_size": "h1",
+            "seo_h_tag": "h2"
+          }
+        },
+        "text_mX87aM": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unsere personalisierten Drucke und Janosch-Poster gibt es jetzt in Größen von DIN A4 bis hin zu 50 x 70 cm – so kommt dein Lieblingsmotiv hervorragend zur Geltung!<\/p>",
+            "text_size": "regular"
+          }
+        }
+      },
+      "block_order": [
+        "title_iCaXfX",
+        "text_mX87aM"
+      ],
+      "settings": {
+        "image_position": "top no-image",
+        "height": "regular",
+        "image_crop": true,
+        "text_alignment": "horizontal-center",
+        "is_fullwidth": true,
+        "section_background_color": "#ddebc5",
+        "section_background_gradient": "",
+        "remove_margin": false,
+        "color_background_main": "#ddebc5",
+        "color_text_main": "rgba(0,0,0,0)",
+        "color_accent_main": "rgba(0,0,0,0)",
+        "color_borders_main": "rgba(0,0,0,0)",
+        "color_shadow_main": "rgba(0,0,0,0)",
+        "color_hide_borders": false,
+        "color_hide_shadow": false
       }
     },
     "collection_list_qVCyDc": {
@@ -663,8 +663,8 @@
   "order": [
     "rich_text_7wTc9F",
     "promotion_cards_fmqxNV",
-    "rich_text_fz3ypA",
     "slideshow_ENV84c",
+    "rich_text_fz3ypA",
     "collection_list_qVCyDc",
     "testimonials_h3RaJR",
     "rich_text_WmjRce",
