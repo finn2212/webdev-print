@@ -273,6 +273,20 @@
             "color_text_main": "rgba(0,0,0,0)",
             "seo_h_tag": "h3"
           }
+        },
+        "image_3pCyRy": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/308_E.webp",
+            "caption": "",
+            "title": "",
+            "link": "",
+            "open_in_new_window": false,
+            "button_label": "",
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)",
+            "seo_h_tag": "h3"
+          }
         }
       },
       "block_order": [
@@ -280,7 +294,8 @@
         "image_YypCFg",
         "image_bCAUVG",
         "image_8CKQbh",
-        "image_4zakDz"
+        "image_4zakDz",
+        "image_3pCyRy"
       ],
       "settings": {
         "desktop_height": "80vh",
