@@ -420,7 +420,7 @@
         "button_VcUdna": {
           "type": "button",
           "settings": {
-            "button_label": "Mehr erfahren",
+            "button_label": "Zum Tigerenten-Wald",
             "link": "shopify:\/\/pages\/nachhaltigkeit",
             "open_in_new_window": false,
             "button_size": "regular",
