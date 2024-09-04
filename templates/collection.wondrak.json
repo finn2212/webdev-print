@@ -25,13 +25,13 @@
         "card_9W3Taj": {
           "type": "card",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Ankommen.png",
+            "image": "shopify:\/\/shop_images\/300_Kachel.webp",
             "caption": "\"Herr Janosch, wie wichtig ist es, dass man im Leben ankommt?\"",
             "title": "Im Leben ankommen",
             "subtitle": "",
             "link": "shopify:\/\/products\/wondrak-im-leben-ankommen",
             "open_in_new_window": false,
-            "button_label": "Jetzt personalisieren",
+            "button_label": "",
             "color_background_main": "rgba(0,0,0,0)",
             "color_text_main": "rgba(0,0,0,0)",
             "color_accent_main": "rgba(0,0,0,0)",
@@ -45,13 +45,13 @@
         "card_E4BUh4": {
           "type": "card",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Leben_im_Griff.png",
+            "image": "shopify:\/\/shop_images\/303_Kachel.webp",
             "caption": "\"Herr Janosch, wie bekommt man sein Leben in den Griff?\"",
             "title": "Leben im Griff",
             "subtitle": "",
             "link": "shopify:\/\/products\/wondrak-leben-im-griff",
             "open_in_new_window": false,
-            "button_label": "Jetzt personalisieren",
+            "button_label": "",
             "color_background_main": "rgba(0,0,0,0)",
             "color_text_main": "rgba(0,0,0,0)",
             "color_accent_main": "rgba(0,0,0,0)",
@@ -65,13 +65,13 @@
         "card_AhKrgM": {
           "type": "card",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Paradies.png",
+            "image": "shopify:\/\/shop_images\/305_Kachel.webp",
             "caption": "\"Herr Janosch, gibt es ein Paradies auf Erden – wenn ja, wo ist es zu finden?\"",
             "title": "Das Paradies auf Erden",
             "subtitle": "",
             "link": "shopify:\/\/products\/wondrak-paradies-auf-erden",
             "open_in_new_window": false,
-            "button_label": "Jetzt personalisieren",
+            "button_label": "",
             "color_background_main": "rgba(0,0,0,0)",
             "color_text_main": "rgba(0,0,0,0)",
             "color_accent_main": "rgba(0,0,0,0)",
