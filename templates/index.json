@@ -508,9 +508,9 @@
         "button_VcUdna"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/TEW-logo-300x300.png",
+        "image": "shopify:\/\/shop_images\/TEW_Logo_RGB_800x800_9b7ec301-3d87-4c3a-a9eb-da2e946a88af.jpg",
         "image_position": "top",
-        "height": "regular",
+        "height": "large",
         "image_crop": true,
         "text_alignment": "horizontal-center",
         "is_fullwidth": false,
