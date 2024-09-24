@@ -25,10 +25,11 @@
         "card_9W3Taj": {
           "type": "card",
           "settings": {
+            "image": "shopify://shop_images/Bestseller_Poster_Sonnenuntergang_bb5bd501-8869-4028-b27f-594830dbd0d6.webp",
             "caption": "",
-            "title": "Titel",
+            "title": "Im Sonnenuntergang",
             "subtitle": "",
-            "link": "shopify:\/\/products\/sonnenuntergang",
+            "link": "shopify://products/sonnenuntergang",
             "open_in_new_window": false,
             "button_label": "Zum Poster",
             "color_background_main": "rgba(0,0,0,0)",
@@ -44,10 +45,11 @@
         "card_tpx86n": {
           "type": "card",
           "settings": {
+            "image": "shopify://shop_images/Bestseller_Poster_Kochen_und_diskutieren_00287a43-926c-435e-ae61-07faa6f63a4a.webp",
             "caption": "",
-            "title": "Titel",
+            "title": "Kochen und diskutieren",
             "subtitle": "",
-            "link": "shopify:\/\/products\/sonnenuntergang",
+            "link": "shopify://products/sonnenuntergang",
             "open_in_new_window": false,
             "button_label": "Zum Poster",
             "color_background_main": "rgba(0,0,0,0)",
@@ -63,10 +65,11 @@
         "card_dTMEXD": {
           "type": "card",
           "settings": {
+            "image": "shopify://shop_images/Bestseller_Poster_Mondscheinmusik_25216fbe-0ca8-4409-9975-f40da4d79950.webp",
             "caption": "",
-            "title": "Titel",
+            "title": "Mondscheinmusik",
             "subtitle": "",
-            "link": "shopify:\/\/products\/sonnenuntergang",
+            "link": "shopify://products/sonnenuntergang",
             "open_in_new_window": false,
             "button_label": "Zum Poster",
             "color_background_main": "rgba(0,0,0,0)",
@@ -129,7 +132,7 @@
         "quick_buy"
       ],
       "custom_css": [
-        ".item-font {font-family: \"Amatic SC\" !important; font-weight: 400 !important; font-style: normal !important; font-size: calc(26px \/ 60 * var(--base-headings-size) + 0px);}"
+        ".item-font {font-family: \"Amatic SC\" !important; font-weight: 400 !important; font-style: normal !important; font-size: calc(26px / 60 * var(--base-headings-size) + 0px);}"
       ],
       "settings": {
         "layout": "grid-4 grid-portable-3 grid-lap-2 grid-tiny-1",
