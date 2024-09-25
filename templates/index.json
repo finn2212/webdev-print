@@ -201,6 +201,47 @@
         "seo_h_tag": "h2"
       }
     },
+    "rich_text_fz3ypA": {
+      "type": "rich-text",
+      "blocks": {
+        "title_iCaXfX": {
+          "type": "title",
+          "settings": {
+            "title": "Jetzt noch größer!",
+            "title_size": "h1",
+            "seo_h_tag": "h2"
+          }
+        },
+        "text_mX87aM": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unsere personalisierten Drucke und Janosch-Poster gibt es jetzt in Größen von DIN A4 bis hin zu 50 x 70 cm – so kommt dein Lieblingsmotiv hervorragend zur Geltung!</p>",
+            "text_size": "regular"
+          }
+        }
+      },
+      "block_order": [
+        "title_iCaXfX",
+        "text_mX87aM"
+      ],
+      "settings": {
+        "image_position": "top no-image",
+        "height": "regular",
+        "image_crop": true,
+        "text_alignment": "horizontal-center",
+        "is_fullwidth": true,
+        "section_background_color": "#ddebc5",
+        "section_background_gradient": "",
+        "remove_margin": true,
+        "color_background_main": "#ddebc5",
+        "color_text_main": "rgba(0,0,0,0)",
+        "color_accent_main": "rgba(0,0,0,0)",
+        "color_borders_main": "rgba(0,0,0,0)",
+        "color_shadow_main": "rgba(0,0,0,0)",
+        "color_hide_borders": false,
+        "color_hide_shadow": false
+      }
+    },
     "slideshow_ENV84c": {
       "type": "slideshow",
       "blocks": {
@@ -317,255 +358,6 @@
         "color_hide_shadow": true
       }
     },
-    "rich_text_fz3ypA": {
-      "type": "rich-text",
-      "blocks": {
-        "title_iCaXfX": {
-          "type": "title",
-          "settings": {
-            "title": "Jetzt noch größer!",
-            "title_size": "h1",
-            "seo_h_tag": "h2"
-          }
-        },
-        "text_mX87aM": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Unsere personalisierten Drucke und Janosch-Poster gibt es jetzt in Größen von DIN A4 bis hin zu 50 x 70 cm – so kommt dein Lieblingsmotiv hervorragend zur Geltung!</p>",
-            "text_size": "regular"
-          }
-        }
-      },
-      "block_order": [
-        "title_iCaXfX",
-        "text_mX87aM"
-      ],
-      "settings": {
-        "image_position": "top no-image",
-        "height": "regular",
-        "image_crop": true,
-        "text_alignment": "horizontal-center",
-        "is_fullwidth": true,
-        "section_background_color": "#ddebc5",
-        "section_background_gradient": "",
-        "remove_margin": false,
-        "color_background_main": "#ddebc5",
-        "color_text_main": "rgba(0,0,0,0)",
-        "color_accent_main": "rgba(0,0,0,0)",
-        "color_borders_main": "rgba(0,0,0,0)",
-        "color_shadow_main": "rgba(0,0,0,0)",
-        "color_hide_borders": false,
-        "color_hide_shadow": false
-      }
-    },
-    "featured_collection_XmTYG9": {
-      "type": "featured-collection",
-      "blocks": {
-        "price_pzP7xz": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "title_BPKN9y": {
-          "type": "title",
-          "settings": {
-          }
-        },
-        "quick_buy_XJB3a7": {
-          "type": "quick_buy",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "price_pzP7xz",
-        "title_BPKN9y",
-        "quick_buy_XJB3a7"
-      ],
-      "settings": {
-        "heading": "Lieblingsposter",
-        "subheading": "Entdecke die schönsten Janosch Poster fürs Kinderzimmer",
-        "show_view_all": false,
-        "section_heading_layout": "section-heading--center",
-        "style": "slider",
-        "layout": "grid-4 grid-portable-3 grid-lap-2 grid-tiny-1",
-        "products_number": 16,
-        "collection": "janosch-poster",
-        "section_background_color": "rgba(0,0,0,0)",
-        "section_background_gradient": "",
-        "section_heading_color": "rgba(0,0,0,0)",
-        "remove_margin": false,
-        "seo_h_tag": "h2"
-      }
-    },
-    "collection_list_qVCyDc": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_LQW3ta": {
-          "type": "collection",
-          "settings": {
-            "collection": "freundschaft-liebe",
-            "image": "shopify://shop_images/012.webp"
-          }
-        },
-        "collection_fHEKjb": {
-          "type": "collection",
-          "settings": {
-            "collection": "geburtstag",
-            "image": "shopify://shop_images/010.webp"
-          }
-        },
-        "collection_xXtQa7": {
-          "type": "collection",
-          "settings": {
-            "collection": "geburt",
-            "image": "shopify://shop_images/011.webp"
-          }
-        },
-        "collection_U4kKg8": {
-          "type": "collection",
-          "settings": {
-            "collection": "janosch-poster"
-          }
-        }
-      },
-      "block_order": [
-        "collection_LQW3ta",
-        "collection_fHEKjb",
-        "collection_xXtQa7",
-        "collection_U4kKg8"
-      ],
-      "settings": {
-        "heading": "Beliebte Themen",
-        "subheading": "",
-        "show_view_all": true,
-        "section_heading_layout": "section-heading--center",
-        "style": "grid",
-        "layout": "grid-4 grid-lap-3 grid-palm-2",
-        "image_aspect_ratio": "1",
-        "section_background_color": "rgba(0,0,0,0)",
-        "section_background_gradient": "",
-        "section_heading_color": "rgba(0,0,0,0)",
-        "remove_margin": false,
-        "seo_h_tag": "h2"
-      }
-    },
-    "testimonials_h3RaJR": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_tnwbcc": {
-          "type": "testimonial",
-          "settings": {
-            "author_name": "Rosa",
-            "author_title": "Berlin",
-            "quote": "<p><em>Großartig. Ich bin begeistert!</em></p>"
-          }
-        },
-        "testimonial_UU7VWY": {
-          "type": "testimonial",
-          "settings": {
-            "author_name": "Martina",
-            "author_title": "",
-            "quote": "<p><em>Tolle Qualität, das hätte ich so nicht erwartet. Super!</em></p>"
-          }
-        },
-        "testimonial_xjBwq7": {
-          "type": "testimonial",
-          "settings": {
-            "author_name": "Margarete",
-            "author_title": "Hamburg",
-            "quote": "<p><em>Super Geschenkidee. Meine Schwester hat sich so gefreut. </em></p>"
-          }
-        },
-        "testimonial_DegJDa": {
-          "type": "testimonial",
-          "settings": {
-            "author_name": "Lisa",
-            "author_title": "Augsburg",
-            "quote": "<p><em>Wir haben für unsere Kleine zur Geburt das Janosch Geburtsposter bekommen. Mega schön, kam auch unzerknickt an. Alles in allem empfehlenswert.</em></p>"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_tnwbcc",
-        "testimonial_UU7VWY",
-        "testimonial_xjBwq7",
-        "testimonial_DegJDa"
-      ],
-      "settings": {
-        "heading": "Das sagen unsere Kund:innen:",
-        "subheading": "",
-        "section_heading_layout": "section-heading--center",
-        "quote_font": "serif",
-        "quote_font_size": 32,
-        "quote_line_height": 1.1,
-        "content_alignment": "center",
-        "color_background_main": "#f4ecf4",
-        "color_text_main": "rgba(0,0,0,0)",
-        "color_borders_main": "rgba(0,0,0,0)",
-        "color_shadow_main": "rgba(0,0,0,0)",
-        "color_hide_borders": true,
-        "color_hide_shadow": true,
-        "section_background_color": "#f4ecf4",
-        "section_background_gradient": "",
-        "section_heading_color": "rgba(0,0,0,0)",
-        "remove_margin": false,
-        "seo_h_tag": "h2"
-      }
-    },
-    "rich_text_WmjRce": {
-      "type": "rich-text",
-      "blocks": {
-        "title_4PXnWN": {
-          "type": "title",
-          "settings": {
-            "title": "Wir sind nachhaltig engagiert und klimaneutral.",
-            "title_size": "h2",
-            "seo_h_tag": "h2"
-          }
-        },
-        "text_TDBMkb": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Es ist für uns eine Selbstverständlichkeit, dass wir unsere Lebensgrundlagen und somit den Planeten Erde erhalten und schützen müssen. Wir bemühen uns daher, möglichst wenig Ressourcen zu verbrauchen. Die Ressourcen, die wir nutzen, sollen diesem Anspruch möglichst gerecht werden.</p>",
-            "text_size": "regular"
-          }
-        },
-        "button_VcUdna": {
-          "type": "button",
-          "settings": {
-            "button_label": "Zum Tigerenten-Wald",
-            "link": "shopify://pages/nachhaltigkeit",
-            "open_in_new_window": false,
-            "button_size": "regular",
-            "button_style": "solid"
-          }
-        }
-      },
-      "block_order": [
-        "title_4PXnWN",
-        "text_TDBMkb",
-        "button_VcUdna"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/TEW-logo-300x300.png",
-        "image_position": "top",
-        "height": "large",
-        "image_crop": false,
-        "text_alignment": "horizontal-center",
-        "is_fullwidth": false,
-        "section_background_color": "rgba(0,0,0,0)",
-        "section_background_gradient": "",
-        "remove_margin": false,
-        "color_background_main": "rgba(0,0,0,0)",
-        "color_text_main": "rgba(0,0,0,0)",
-        "color_accent_main": "rgba(0,0,0,0)",
-        "color_borders_main": "rgba(0,0,0,0)",
-        "color_shadow_main": "rgba(0,0,0,0)",
-        "color_hide_borders": true,
-        "color_hide_shadow": true
-      }
-    },
     "text_columns_icons_Tkzcnf": {
       "type": "text-columns-icons",
       "blocks": {
@@ -642,6 +434,214 @@
         "seo_h_tag": "h2"
       }
     },
+    "featured_collection_XmTYG9": {
+      "type": "featured-collection",
+      "blocks": {
+        "price_pzP7xz": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "title_BPKN9y": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "quick_buy_XJB3a7": {
+          "type": "quick_buy",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "price_pzP7xz",
+        "title_BPKN9y",
+        "quick_buy_XJB3a7"
+      ],
+      "settings": {
+        "heading": "Lieblingsposter",
+        "subheading": "Entdecke die schönsten Janosch Poster fürs Kinderzimmer",
+        "show_view_all": false,
+        "section_heading_layout": "section-heading--center",
+        "style": "slider",
+        "layout": "grid-4 grid-portable-3 grid-lap-2 grid-tiny-1",
+        "products_number": 16,
+        "collection": "janosch-poster",
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_background_gradient": "",
+        "section_heading_color": "rgba(0,0,0,0)",
+        "remove_margin": false,
+        "seo_h_tag": "h2"
+      }
+    },
+    "testimonials_h3RaJR": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_tnwbcc": {
+          "type": "testimonial",
+          "settings": {
+            "author_name": "Rosa",
+            "author_title": "Berlin",
+            "quote": "<p><em>Großartig. Ich bin begeistert!</em></p>"
+          }
+        },
+        "testimonial_UU7VWY": {
+          "type": "testimonial",
+          "settings": {
+            "author_name": "Martina",
+            "author_title": "",
+            "quote": "<p><em>Tolle Qualität, das hätte ich so nicht erwartet. Super!</em></p>"
+          }
+        },
+        "testimonial_xjBwq7": {
+          "type": "testimonial",
+          "settings": {
+            "author_name": "Margarete",
+            "author_title": "Hamburg",
+            "quote": "<p><em>Super Geschenkidee. Meine Schwester hat sich so gefreut. </em></p>"
+          }
+        },
+        "testimonial_DegJDa": {
+          "type": "testimonial",
+          "settings": {
+            "author_name": "Lisa",
+            "author_title": "Augsburg",
+            "quote": "<p><em>Wir haben für unsere Kleine zur Geburt das Janosch Geburtsposter bekommen. Mega schön, kam auch unzerknickt an. Alles in allem empfehlenswert.</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_tnwbcc",
+        "testimonial_UU7VWY",
+        "testimonial_xjBwq7",
+        "testimonial_DegJDa"
+      ],
+      "settings": {
+        "heading": "Das sagen unsere Kund:innen:",
+        "subheading": "",
+        "section_heading_layout": "section-heading--center",
+        "quote_font": "serif",
+        "quote_font_size": 32,
+        "quote_line_height": 1.1,
+        "content_alignment": "center",
+        "color_background_main": "#f4ecf4",
+        "color_text_main": "rgba(0,0,0,0)",
+        "color_borders_main": "rgba(0,0,0,0)",
+        "color_shadow_main": "rgba(0,0,0,0)",
+        "color_hide_borders": true,
+        "color_hide_shadow": true,
+        "section_background_color": "#f4ecf4",
+        "section_background_gradient": "",
+        "section_heading_color": "rgba(0,0,0,0)",
+        "remove_margin": false,
+        "seo_h_tag": "h2"
+      }
+    },
+    "collection_list_qVCyDc": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_LQW3ta": {
+          "type": "collection",
+          "settings": {
+            "collection": "freundschaft-liebe",
+            "image": "shopify://shop_images/012.webp"
+          }
+        },
+        "collection_fHEKjb": {
+          "type": "collection",
+          "settings": {
+            "collection": "geburtstag",
+            "image": "shopify://shop_images/010.webp"
+          }
+        },
+        "collection_xXtQa7": {
+          "type": "collection",
+          "settings": {
+            "collection": "geburt",
+            "image": "shopify://shop_images/011.webp"
+          }
+        },
+        "collection_U4kKg8": {
+          "type": "collection",
+          "settings": {
+            "collection": "janosch-poster"
+          }
+        }
+      },
+      "block_order": [
+        "collection_LQW3ta",
+        "collection_fHEKjb",
+        "collection_xXtQa7",
+        "collection_U4kKg8"
+      ],
+      "settings": {
+        "heading": "Beliebte Themen",
+        "subheading": "",
+        "show_view_all": true,
+        "section_heading_layout": "section-heading--center",
+        "style": "grid",
+        "layout": "grid-4 grid-lap-3 grid-palm-2",
+        "image_aspect_ratio": "1",
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_background_gradient": "",
+        "section_heading_color": "rgba(0,0,0,0)",
+        "remove_margin": false,
+        "seo_h_tag": "h2"
+      }
+    },
+    "rich_text_WmjRce": {
+      "type": "rich-text",
+      "blocks": {
+        "title_4PXnWN": {
+          "type": "title",
+          "settings": {
+            "title": "Wir sind nachhaltig engagiert und klimaneutral.",
+            "title_size": "h2",
+            "seo_h_tag": "h2"
+          }
+        },
+        "text_TDBMkb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Es ist für uns eine Selbstverständlichkeit, dass wir unsere Lebensgrundlagen und somit den Planeten Erde erhalten und schützen müssen. Wir bemühen uns daher, möglichst wenig Ressourcen zu verbrauchen. Die Ressourcen, die wir nutzen, sollen diesem Anspruch möglichst gerecht werden.</p>",
+            "text_size": "regular"
+          }
+        },
+        "button_VcUdna": {
+          "type": "button",
+          "settings": {
+            "button_label": "Zum Tigerenten-Wald",
+            "link": "shopify://pages/nachhaltigkeit",
+            "open_in_new_window": false,
+            "button_size": "regular",
+            "button_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "title_4PXnWN",
+        "text_TDBMkb",
+        "button_VcUdna"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/TEW-logo-300x300.png",
+        "image_position": "top",
+        "height": "large",
+        "image_crop": false,
+        "text_alignment": "horizontal-center",
+        "is_fullwidth": false,
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_background_gradient": "",
+        "remove_margin": false,
+        "color_background_main": "rgba(0,0,0,0)",
+        "color_text_main": "rgba(0,0,0,0)",
+        "color_accent_main": "rgba(0,0,0,0)",
+        "color_borders_main": "rgba(0,0,0,0)",
+        "color_shadow_main": "rgba(0,0,0,0)",
+        "color_hide_borders": true,
+        "color_hide_shadow": true
+      }
+    },
     "newsletter_NA3mnP": {
       "type": "newsletter",
       "settings": {
@@ -703,13 +703,13 @@
   "order": [
     "rich_text_7wTc9F",
     "promotion_cards_fmqxNV",
-    "slideshow_ENV84c",
     "rich_text_fz3ypA",
+    "slideshow_ENV84c",
     "featured_collection_XmTYG9",
+    "text_columns_icons_Tkzcnf",
     "collection_list_qVCyDc",
     "testimonials_h3RaJR",
     "rich_text_WmjRce",
-    "text_columns_icons_Tkzcnf",
     "newsletter_NA3mnP",
     "rich_text_f8MJgB"
   ]
