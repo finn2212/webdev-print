@@ -290,7 +290,7 @@
       "settings": {
         "heading": "Anderen gefiel auch:",
         "subheading": "",
-        "section_heading_layout": "section-heading--left",
+        "section_heading_layout": "section-heading--center",
         "layout": "grid-4 grid-portable-3 grid-lap-2 grid-tiny-1",
         "products_number": 8,
         "section_background_color": "rgba(0,0,0,0)",
