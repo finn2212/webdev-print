@@ -31,15 +31,15 @@
           "type": "icons",
           "settings": {
             "title": "",
-            "icon_1_image": "shopify:\/\/shop_images\/crown-128.png",
+            "icon_1_image": "shopify://shop_images/crown-128.png",
             "icon_1_label": "Original-Illustration von Janosch",
-            "icon_2_image": "shopify:\/\/shop_images\/heart-128.png",
+            "icon_2_image": "shopify://shop_images/heart-128.png",
             "icon_2_label": "Personalisierbarer Druck",
-            "icon_3_image": "shopify:\/\/shop_images\/image-128.png",
+            "icon_3_image": "shopify://shop_images/image-128.png",
             "icon_3_label": "Verschiedene Formate erhältlich",
-            "icon_4_image": "shopify:\/\/shop_images\/organic-128.png",
+            "icon_4_image": "shopify://shop_images/organic-128.png",
             "icon_4_label": "Nachhaltiger, samtweicher Poster-Feinkarton mit FSC-Zertifizierung",
-            "icon_5_image": "shopify:\/\/shop_images\/star-128.png",
+            "icon_5_image": "shopify://shop_images/star-128.png",
             "icon_5_label": "Lieferung auf Wunsch mit Echtglas-Bilderrahmen",
             "icon_6_label": "",
             "hide_block_if": false
@@ -104,7 +104,7 @@
           "type": "image",
           "settings": {
             "icon": "delivery",
-            "image": "shopify:\/\/shop_images\/missile-256.png",
+            "image": "shopify://shop_images/missile-256.png",
             "title": "1. Los geht's",
             "caption": "Öffne mit einem Klick auf »Jetzt personalisieren« den Motiv-Editor.",
             "link": "",
@@ -118,7 +118,7 @@
           "type": "image",
           "settings": {
             "icon": "time-limit",
-            "image": "shopify:\/\/shop_images\/heart-128.png",
+            "image": "shopify://shop_images/heart-128.png",
             "title": "2. Widmung",
             "caption": "Füge deinem Lieblingsmotiv deine persönliche Botschaft hinzu.",
             "link": "",
@@ -207,7 +207,7 @@
         "subheading": "",
         "section_heading_layout": "section-heading--center",
         "layout": "grid-4 grid-portable-3 grid-lap-2 grid-tiny-1",
-        "products_number": 4,
+        "products_number": 8,
         "section_background_color": "rgba(0,0,0,0)",
         "section_background_gradient": "",
         "section_heading_color": "rgba(0,0,0,0)",
@@ -220,7 +220,7 @@
         "card_XqXkGn": {
           "type": "card",
           "settings": {
-            "image": "shopify:\/\/shop_images\/001.webp",
+            "image": "shopify://shop_images/001.webp",
             "caption": "Wir sind janosch-druck.de",
             "title": "VIELFALT FÜR DICH",
             "subtitle": "Als Shop der Janosch AG haben wir die schönsten und vielfältigsten Janosch-Motive für Dich. Schau dich um.",
@@ -240,7 +240,7 @@
         "card_Hzt9G3": {
           "type": "card",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1200x1200.jpg",
+            "image": "shopify://shop_images/1200x1200.jpg",
             "caption": "Der Tigerentenwald",
             "title": "DEIN GRÜNES HERZ",
             "subtitle": "Deine Prints werden klimaneutral produziert und versandt. Dafür arbeiten wir mit den Besten zusammen: Entdecke den Tigerentenwald!",
@@ -260,7 +260,7 @@
         "card_XkRrPX": {
           "type": "card",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Bildschirmfoto_2023-08-21_um_22.53.07_1920x1920_341ed6d4-616b-469f-b19d-9533be6bf75a.png",
+            "image": "shopify://shop_images/Bildschirmfoto_2023-08-21_um_22.53.07_1920x1920_341ed6d4-616b-469f-b19d-9533be6bf75a.png",
             "caption": "Personalisierter Janosch-Druck",
             "title": "DAS PERFEKTE GESCHENK",
             "subtitle": "Hach, wie schön ist Panama: Verschenke das schönste Lebensgefühl: Zufriedenheit, Entschleunigung & Dankbarkeit für das, was man hat.",
