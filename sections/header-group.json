@@ -41,7 +41,7 @@
         "info": {
           "type": "info",
           "settings": {
-            "caption": "Janoschs Septemberliebe",
+            "caption": "Janoschs Herbstliebe",
             "title": "10% Rabatt auf alle Drucke!",
             "link": "",
             "link_type": "_self",
@@ -53,7 +53,7 @@
         "info"
       ],
       "settings": {
-        "logo_src": "shopify:\/\/shop_images\/LOGOJanosch-signatur-mit-punkt-JANOSCH_DRUCK.jpg",
+        "logo_src": "shopify://shop_images/LOGOJanosch-signatur-mit-punkt-JANOSCH_DRUCK.jpg",
         "logo_height": 60,
         "main_linklist": "main-menu",
         "show_search": true,
