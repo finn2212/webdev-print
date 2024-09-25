@@ -15,7 +15,7 @@
         "title_dfQEzq": {
           "type": "title",
           "settings": {
-            "title": "<strong>Schenke das Besondere<\/strong>",
+            "title": "<strong>Schenke das Besondere</strong>",
             "title_size": "h1",
             "seo_h_tag": "h1"
           }
@@ -23,7 +23,7 @@
         "text_HtMjhp": {
           "type": "text",
           "settings": {
-            "text": "<p>Janosch-Motive mit <br\/>ganz persönlicher Note<\/p>",
+            "text": "<p>Janosch-Motive mit <br/>ganz persönlicher Note</p>",
             "text_size": "large"
           }
         }
@@ -56,11 +56,11 @@
         "card_3QM4zY": {
           "type": "card",
           "settings": {
-            "image": "shopify:\/\/shop_images\/264_test.webp",
+            "image": "shopify://shop_images/264_test.webp",
             "caption": "Personalisierbarer Druck ab € 29,90",
             "title": "Bestseller #1: Sonnenuntergang",
             "subtitle": "Formate ab 30 x 40 cm erhältlich",
-            "link": "shopify:\/\/products\/sonnenuntergang",
+            "link": "shopify://products/sonnenuntergang",
             "open_in_new_window": false,
             "button_label": "",
             "color_background_main": "#ffffff",
@@ -76,11 +76,11 @@
         "card_zjNe6Y": {
           "type": "card",
           "settings": {
-            "image": "shopify:\/\/shop_images\/311_Kachel.webp",
+            "image": "shopify://shop_images/311_Kachel.webp",
             "caption": "Personalisierbarer Druck ab € 29,90",
             "title": "Liebhaben",
             "subtitle": "Formate ab 30 x 40 cm erhältlich",
-            "link": "shopify:\/\/products\/liebhaben",
+            "link": "shopify://products/liebhaben",
             "open_in_new_window": false,
             "button_label": "",
             "color_background_main": "rgba(0,0,0,0)",
@@ -96,11 +96,11 @@
         "card_prURjA": {
           "type": "card",
           "settings": {
-            "image": "shopify:\/\/shop_images\/262_Kachel.webp",
+            "image": "shopify://shop_images/262_Kachel.webp",
             "caption": "Personalisierbarer Druck ab € 29,90",
             "title": "Eine Blume für dich",
             "subtitle": "Formate ab 30 x 40 cm erhältlich",
-            "link": "shopify:\/\/products\/eine-blume-fur-dich",
+            "link": "shopify://products/eine-blume-fur-dich",
             "open_in_new_window": false,
             "button_label": "",
             "color_background_main": "rgba(0,0,0,0)",
@@ -116,11 +116,11 @@
         "card_CpWiyL": {
           "type": "card",
           "settings": {
-            "image": "shopify:\/\/shop_images\/309_Kachel.webp",
+            "image": "shopify://shop_images/309_Kachel.webp",
             "caption": "Personalisierbarer Druck ab € 29,90",
             "title": "Liebe. Sonst nichts.",
             "subtitle": "Formate ab 30 x 40 cm erhältlich",
-            "link": "shopify:\/\/products\/liebe-sonst-nichts",
+            "link": "shopify://products/liebe-sonst-nichts",
             "open_in_new_window": false,
             "button_label": "",
             "color_background_main": "rgba(0,0,0,0)",
@@ -136,11 +136,11 @@
         "card_C3JA8C": {
           "type": "card",
           "settings": {
-            "image": "shopify:\/\/shop_images\/308_Kachel.webp",
+            "image": "shopify://shop_images/308_Kachel.webp",
             "caption": "Personalisierbarer Druck ab € 29,90",
             "title": "Freunde",
             "subtitle": "Formate ab 30 x 40 cm erhältlich",
-            "link": "shopify:\/\/products\/freunde",
+            "link": "shopify://products/freunde",
             "open_in_new_window": false,
             "button_label": "",
             "color_background_main": "rgba(0,0,0,0)",
@@ -156,11 +156,11 @@
         "card_968qzJ": {
           "type": "card",
           "settings": {
-            "image": "shopify:\/\/shop_images\/266_Kachel.webp",
+            "image": "shopify://shop_images/266_Kachel.webp",
             "caption": "Personalisierbarer Druck ab € 29,90",
             "title": "Wir sind füreinander da",
             "subtitle": "Formate ab 30 x 40 cm erhältlich",
-            "link": "shopify:\/\/products\/wir-sind-fureinander-da",
+            "link": "shopify://products/wir-sind-fureinander-da",
             "open_in_new_window": false,
             "button_label": "",
             "color_background_main": "rgba(0,0,0,0)",
@@ -207,7 +207,7 @@
         "image_MwbpDk": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/264_A3_9e51338e-3696-4aca-a7ec-70ff96318426.jpg",
+            "image": "shopify://shop_images/264_A3_9e51338e-3696-4aca-a7ec-70ff96318426.jpg",
             "caption": "",
             "title": "",
             "link": "",
@@ -221,7 +221,7 @@
         "image_YypCFg": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/262_1920x1920_0a2a58f3-6bc7-45cf-981e-ad207cc9eb8b.jpg",
+            "image": "shopify://shop_images/262_1920x1920_0a2a58f3-6bc7-45cf-981e-ad207cc9eb8b.jpg",
             "caption": "",
             "title": "",
             "link": "",
@@ -235,7 +235,7 @@
         "image_3pCyRy": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/308_E.webp",
+            "image": "shopify://shop_images/308_E.webp",
             "caption": "",
             "title": "",
             "link": "",
@@ -249,7 +249,7 @@
         "image_bCAUVG": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/308_Janosch_Freunde_Ambiente_1_1920x1920_1399f9d9-e71b-4b4a-83c9-3a1ecd120ac1.webp",
+            "image": "shopify://shop_images/308_Janosch_Freunde_Ambiente_1_1920x1920_1399f9d9-e71b-4b4a-83c9-3a1ecd120ac1.webp",
             "caption": "",
             "title": "",
             "link": "",
@@ -263,7 +263,7 @@
         "image_8CKQbh": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Gross_Janosch_Bildergalerie_1.jpg",
+            "image": "shopify://shop_images/Gross_Janosch_Bildergalerie_1.jpg",
             "caption": "",
             "title": "",
             "link": "",
@@ -277,7 +277,7 @@
         "image_4zakDz": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Gross_Janosch_Bildergalerie_2.jpg",
+            "image": "shopify://shop_images/Gross_Janosch_Bildergalerie_2.jpg",
             "caption": "",
             "title": "",
             "link": "",
@@ -331,7 +331,7 @@
         "text_mX87aM": {
           "type": "text",
           "settings": {
-            "text": "<p>Unsere personalisierten Drucke und Janosch-Poster gibt es jetzt in Größen von DIN A4 bis hin zu 50 x 70 cm – so kommt dein Lieblingsmotiv hervorragend zur Geltung!<\/p>",
+            "text": "<p>Unsere personalisierten Drucke und Janosch-Poster gibt es jetzt in Größen von DIN A4 bis hin zu 50 x 70 cm – so kommt dein Lieblingsmotiv hervorragend zur Geltung!</p>",
             "text_size": "regular"
           }
         }
@@ -365,21 +365,21 @@
           "type": "collection",
           "settings": {
             "collection": "freundschaft-liebe",
-            "image": "shopify:\/\/shop_images\/012.webp"
+            "image": "shopify://shop_images/012.webp"
           }
         },
         "collection_fHEKjb": {
           "type": "collection",
           "settings": {
             "collection": "geburtstag",
-            "image": "shopify:\/\/shop_images\/010.webp"
+            "image": "shopify://shop_images/010.webp"
           }
         },
         "collection_xXtQa7": {
           "type": "collection",
           "settings": {
             "collection": "geburt",
-            "image": "shopify:\/\/shop_images\/011.webp"
+            "image": "shopify://shop_images/011.webp"
           }
         },
         "collection_U4kKg8": {
@@ -418,7 +418,7 @@
           "settings": {
             "author_name": "Rosa",
             "author_title": "Berlin",
-            "quote": "<p><em>Großartig. Ich bin begeistert!<\/em><\/p>"
+            "quote": "<p><em>Großartig. Ich bin begeistert!</em></p>"
           }
         },
         "testimonial_UU7VWY": {
@@ -426,7 +426,7 @@
           "settings": {
             "author_name": "Martina",
             "author_title": "",
-            "quote": "<p><em>Tolle Qualität, das hätte ich so nicht erwartet. Super!<\/em><\/p>"
+            "quote": "<p><em>Tolle Qualität, das hätte ich so nicht erwartet. Super!</em></p>"
           }
         },
         "testimonial_xjBwq7": {
@@ -434,7 +434,7 @@
           "settings": {
             "author_name": "Margarete",
             "author_title": "Hamburg",
-            "quote": "<p><em>Super Geschenkidee. Meine Schwester hat sich so gefreut. <\/em><\/p>"
+            "quote": "<p><em>Super Geschenkidee. Meine Schwester hat sich so gefreut. </em></p>"
           }
         },
         "testimonial_DegJDa": {
@@ -442,7 +442,7 @@
           "settings": {
             "author_name": "Lisa",
             "author_title": "Augsburg",
-            "quote": "<p><em>Wir haben für unsere Kleine zur Geburt das Janosch Geburtsposter bekommen. Mega schön, kam auch unzerknickt an. Alles in allem empfehlenswert.<\/em><\/p>"
+            "quote": "<p><em>Wir haben für unsere Kleine zur Geburt das Janosch Geburtsposter bekommen. Mega schön, kam auch unzerknickt an. Alles in allem empfehlenswert.</em></p>"
           }
         }
       },
@@ -460,13 +460,13 @@
         "quote_font_size": 32,
         "quote_line_height": 1.1,
         "content_alignment": "center",
-        "color_background_main": "#ddebc5",
+        "color_background_main": "#f4ecf4",
         "color_text_main": "rgba(0,0,0,0)",
         "color_borders_main": "rgba(0,0,0,0)",
         "color_shadow_main": "rgba(0,0,0,0)",
         "color_hide_borders": true,
         "color_hide_shadow": true,
-        "section_background_color": "#ddebc5",
+        "section_background_color": "#f4ecf4",
         "section_background_gradient": "",
         "section_heading_color": "rgba(0,0,0,0)",
         "remove_margin": false,
@@ -487,7 +487,7 @@
         "text_TDBMkb": {
           "type": "text",
           "settings": {
-            "text": "<p>Es ist für uns eine Selbstverständlichkeit, dass wir unsere Lebensgrundlagen und somit den Planeten Erde erhalten und schützen müssen. Wir bemühen uns daher, möglichst wenig Ressourcen zu verbrauchen. Die Ressourcen, die wir nutzen, sollen diesem Anspruch möglichst gerecht werden.<\/p>",
+            "text": "<p>Es ist für uns eine Selbstverständlichkeit, dass wir unsere Lebensgrundlagen und somit den Planeten Erde erhalten und schützen müssen. Wir bemühen uns daher, möglichst wenig Ressourcen zu verbrauchen. Die Ressourcen, die wir nutzen, sollen diesem Anspruch möglichst gerecht werden.</p>",
             "text_size": "regular"
           }
         },
@@ -495,7 +495,7 @@
           "type": "button",
           "settings": {
             "button_label": "Zum Tigerenten-Wald",
-            "link": "shopify:\/\/pages\/nachhaltigkeit",
+            "link": "shopify://pages/nachhaltigkeit",
             "open_in_new_window": false,
             "button_size": "regular",
             "button_style": "solid"
@@ -508,7 +508,7 @@
         "button_VcUdna"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/TEW-logo-300x300.png",
+        "image": "shopify://shop_images/TEW-logo-300x300.png",
         "image_position": "top",
         "height": "large",
         "image_crop": false,
@@ -607,7 +607,7 @@
       "settings": {
         "show_icon": true,
         "title": "Mit lieben Grüßen und heißen Küssen, dein Tiger.",
-        "text": "<p>Dir gefällt, was du siehst? Bleib uns doch verbunden: Mit unserem hauseigenen Schnellpostnewsletter, der dich in unregelmäßigen Abständen garantiert sicher und kostenlos über Neuigkeiten informiert. Bis bald!<\/p>",
+        "text": "<p>Dir gefällt, was du siehst? Bleib uns doch verbunden: Mit unserem hauseigenen Schnellpostnewsletter, der dich in unregelmäßigen Abständen garantiert sicher und kostenlos über Neuigkeiten informiert. Bis bald!</p>",
         "color_background_main": "rgba(0,0,0,0)",
         "color_text_main": "rgba(0,0,0,0)",
         "color_borders_main": "rgba(0,0,0,0)",
@@ -632,7 +632,7 @@
         "text_zAxGFH": {
           "type": "text",
           "settings": {
-            "text": "<p>Janosch wurde am 11. März 1931 als Horst Eckert in Oberschlesien, geboren. 1960 erschien sein erstes Kinderbuch »Die Geschichte von Valek, dem Pferd«. 1978 gelang ihm nach vielen Jahren der Erfolglosigkeit mit »Oh, wie schön ist Panama«, den beiden Freunden Kleiner Tiger und Kleiner Bär und natürlich der Tigerente, der Durchbruch. Er wurde zum wohl erfolgreichsten Kinderbuchautor Deutschlands. Neben »Panama« sind auch »Post für den Tiger«, »Komm, wir finden einen Schatz« und »Ich mach dich gesund, sagte der Bär« absolute Klassiker der deutschen Kinderbuchliteratur. Janosch hat zudem zahlreiche Romane und Theaterstücke für Erwachsene verfasst. Er selbst hat das Ziel eines erfüllten Lebens auf der Kanarischen Insel Teneriffa erreicht, wo er seit Beginn der 80er Jahre lebt.<\/p><p>Zwischen 2013 und 2019 erschuf Janosch »Wondrak«, einen Mann mit Schnauzbart und stattlichem Bauch, gekleidet in gelb-schwarz gestreifte Garderobe, der Woche um Woche die Leser des ZEIT-Magazins erheiterte. Seine einfallsreichen Antworten auf große und kleine Fragen des Lebens, die von zauberhaft gezeichneten Momentaufnahmen begleitet wurden, zählten zu den Höhepunkten jedes Hefts. Mit unnachahmlichem Humor ließ er »Wondrak«, der sich selbst als »Held« vorstellte, Krisen überstehen, das Internet erklären, denSommerurlaub planen und am Ende gar die Weltprobleme lösen – nicht ohne kurz darauf zu ergänzen, was zu tun sei, falls die Welt doch unterginge. »Wondrak« hat es in der Zwischenzeit sogar in die Reclam Universalbibliothek geschafft und mehr gelbe Reclam Hefte verkauft als Goethes Faust.<\/p><p>Janoschs Werk wurde weltweit in weit über 100 Sprachen übersetzt. Seine Kinderbücher rangieren in ihrer Bedeutung gleich neben den Erzählungen von Astrid Lindgren. Der Künstler wurde unter anderem mit dem Deutschen Kinderbuchpreis, dem Prix Jeunesse International, dem Orden de Manuel Amador Guerrero von Panama sowie mit dem Bundesverdienstkreuz ausgezeichnet.<\/p><p>Seine Motive mit ihrem oft feinsinnigen, manchmal auch skurrilen Humor berühren und sind wunderbare Geschenke für Anlässe wie Geburt, Geburtstag, Hochzeit oder auch einfach, um ein »Danke« auszudrücken.<\/p>",
+            "text": "<p>Janosch wurde am 11. März 1931 als Horst Eckert in Oberschlesien, geboren. 1960 erschien sein erstes Kinderbuch »Die Geschichte von Valek, dem Pferd«. 1978 gelang ihm nach vielen Jahren der Erfolglosigkeit mit »Oh, wie schön ist Panama«, den beiden Freunden Kleiner Tiger und Kleiner Bär und natürlich der Tigerente, der Durchbruch. Er wurde zum wohl erfolgreichsten Kinderbuchautor Deutschlands. Neben »Panama« sind auch »Post für den Tiger«, »Komm, wir finden einen Schatz« und »Ich mach dich gesund, sagte der Bär« absolute Klassiker der deutschen Kinderbuchliteratur. Janosch hat zudem zahlreiche Romane und Theaterstücke für Erwachsene verfasst. Er selbst hat das Ziel eines erfüllten Lebens auf der Kanarischen Insel Teneriffa erreicht, wo er seit Beginn der 80er Jahre lebt.</p><p>Zwischen 2013 und 2019 erschuf Janosch »Wondrak«, einen Mann mit Schnauzbart und stattlichem Bauch, gekleidet in gelb-schwarz gestreifte Garderobe, der Woche um Woche die Leser des ZEIT-Magazins erheiterte. Seine einfallsreichen Antworten auf große und kleine Fragen des Lebens, die von zauberhaft gezeichneten Momentaufnahmen begleitet wurden, zählten zu den Höhepunkten jedes Hefts. Mit unnachahmlichem Humor ließ er »Wondrak«, der sich selbst als »Held« vorstellte, Krisen überstehen, das Internet erklären, denSommerurlaub planen und am Ende gar die Weltprobleme lösen – nicht ohne kurz darauf zu ergänzen, was zu tun sei, falls die Welt doch unterginge. »Wondrak« hat es in der Zwischenzeit sogar in die Reclam Universalbibliothek geschafft und mehr gelbe Reclam Hefte verkauft als Goethes Faust.</p><p>Janoschs Werk wurde weltweit in weit über 100 Sprachen übersetzt. Seine Kinderbücher rangieren in ihrer Bedeutung gleich neben den Erzählungen von Astrid Lindgren. Der Künstler wurde unter anderem mit dem Deutschen Kinderbuchpreis, dem Prix Jeunesse International, dem Orden de Manuel Amador Guerrero von Panama sowie mit dem Bundesverdienstkreuz ausgezeichnet.</p><p>Seine Motive mit ihrem oft feinsinnigen, manchmal auch skurrilen Humor berühren und sind wunderbare Geschenke für Anlässe wie Geburt, Geburtstag, Hochzeit oder auch einfach, um ein »Danke« auszudrücken.</p>",
             "text_size": "regular"
           }
         }
