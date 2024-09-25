@@ -358,6 +358,46 @@
         "color_hide_shadow": false
       }
     },
+    "featured_collection_XmTYG9": {
+      "type": "featured-collection",
+      "blocks": {
+        "price_pzP7xz": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "title_BPKN9y": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "quick_buy_XJB3a7": {
+          "type": "quick_buy",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "price_pzP7xz",
+        "title_BPKN9y",
+        "quick_buy_XJB3a7"
+      ],
+      "settings": {
+        "heading": "Lieblingsposter",
+        "subheading": "Entdecke die schönsten Janosch Poster fürs Kinderzimmer",
+        "show_view_all": false,
+        "section_heading_layout": "section-heading--center",
+        "style": "slider",
+        "layout": "grid-4 grid-portable-3 grid-lap-2 grid-tiny-1",
+        "products_number": 8,
+        "collection": "janosch-poster",
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_background_gradient": "",
+        "section_heading_color": "rgba(0,0,0,0)",
+        "remove_margin": false,
+        "seo_h_tag": "h2"
+      }
+    },
     "collection_list_qVCyDc": {
       "type": "collection-list",
       "blocks": {
@@ -665,6 +705,7 @@
     "promotion_cards_fmqxNV",
     "slideshow_ENV84c",
     "rich_text_fz3ypA",
+    "featured_collection_XmTYG9",
     "collection_list_qVCyDc",
     "testimonials_h3RaJR",
     "rich_text_WmjRce",

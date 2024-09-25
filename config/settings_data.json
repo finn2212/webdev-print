@@ -194,11 +194,12 @@
     "cart_free_shipping": true,
     "show_breadcrumb": true,
     "show_gotop": true,
+    "show_currency_codes": false,
     "social_email": "mailto:janosch-druck@janosch-medien.de",
-    "social_facebook": "https:\/\/www.facebook.com\/janoschwelt",
-    "social_instagram": "https:\/\/www.instagram.com\/janoschwelt\/",
-    "social_twitter": "https:\/\/twitter.com\/tiger_und_baer",
-    "social_youtube": "https:\/\/www.youtube.com\/@JanoschsTraumstundeBavaria",
+    "social_facebook": "https://www.facebook.com/janoschwelt",
+    "social_instagram": "https://www.instagram.com/janoschwelt/",
+    "social_twitter": "https://twitter.com/tiger_und_baer",
+    "social_youtube": "https://www.youtube.com/@JanoschsTraumstundeBavaria",
     "sections": {
       "popups": {
         "type": "popups",
@@ -223,7 +224,7 @@
         "settings": {
           "enable": false,
           "heading": "Age verification",
-          "content": "<p>By clicking enter, I certify that I am over the age of 18<\/p>",
+          "content": "<p>By clicking enter, I certify that I am over the age of 18</p>",
           "button_label": "Enter",
           "popup_bgcolor": "#111111",
           "popup_txtcolor": "#ffffff"
@@ -238,8 +239,8 @@
               "store_name": "My store",
               "store_pickup_price": "Free",
               "store_pickup_time": "Usually ready in 24 hrs",
-              "store_address": "<p>123 John Doe Street<br\/>Your Town, YT 12345<\/p><p> <\/p><p><strong>Store Hours<br\/><\/strong>Sun: Closed<br\/>Mon-Fri: 9:00 - 17:00<br\/>Sat: 10:00 - 13:00<\/p><p><strong>What to expect at pickup<\/strong><\/p><p> <\/p>",
-              "store_closing_times": "<p>Closed<\/p><p>Closing at 5pm<\/p><p>Closing at 5pm<\/p><p>Closing at 5pm<\/p><p>Closing at 5pm<\/p><p>Closing at 5pm<\/p><p>Closing at 1pm<\/p>",
+              "store_address": "<p>123 John Doe Street<br/>Your Town, YT 12345</p><p> </p><p><strong>Store Hours<br/></strong>Sun: Closed<br/>Mon-Fri: 9:00 - 17:00<br/>Sat: 10:00 - 13:00</p><p><strong>What to expect at pickup</strong></p><p> </p>",
+              "store_closing_times": "<p>Closed</p><p>Closing at 5pm</p><p>Closing at 5pm</p><p>Closing at 5pm</p><p>Closing at 5pm</p><p>Closing at 5pm</p><p>Closing at 1pm</p>",
               "store_map_latitude": "46.7834818",
               "store_map_longitude": "23.5464733",
               "store_map_link": ""
@@ -260,7 +261,7 @@
         "settings": {
           "enable": false,
           "title": "Before you leave",
-          "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>",
+          "text": "<p>Be the first to know about new collections and exclusive offers.</p>",
           "cta_label": "",
           "cta_url": "",
           "cta_target": false,
@@ -275,7 +276,7 @@
     ],
     "blocks": {
       "10746902591489815047": {
-        "type": "shopify:\/\/apps\/rt-google-fonts-custom-fonts\/blocks\/app-embed\/2caf2c68-0038-455e-b0b9-066a7c2ad923",
+        "type": "shopify://apps/rt-google-fonts-custom-fonts/blocks/app-embed/2caf2c68-0038-455e-b0b9-066a7c2ad923",
         "disabled": false,
         "settings": {
         }
