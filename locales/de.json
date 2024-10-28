@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin language editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "404": {
@@ -46,7 +46,7 @@
       "signup_form_email_placeholder": "Deine E-Mail",
       "signup_form_submit": "Absenden",
       "signup_form_success": "Wir senden Ihnen eine E-Mail, kurz bevor wir eröffnen!!",
-      "admin_link_html": "Sind Sie der Geschäftsinhaber? <a href=\"\/admin\" class=\"text-link\">Melden Sie sich hier an<\/a>",
+      "admin_link_html": "Sind Sie der Geschäftsinhaber? <a href=\"/admin\" class=\"text-link\">Melden Sie sich hier an</a>",
       "password_link": "Mit Passwort betreten",
       "powered_by_shopify_html": "Dieser Shop wird mit Hilfe von {{ shopify }} betrieben werden."
     },
@@ -92,7 +92,7 @@
       "back": "Zurück",
       "play_video": "Video abspielen",
       "language_dropdown_label": "Sprache",
-      "country_dropdown_label": "Land\/Region",
+      "country_dropdown_label": "Land/Region",
       "price": {
         "regular": "Regulärer Preis",
         "sale": "Sale-Preis",
@@ -126,7 +126,7 @@
   },
   "collections": {
     "title": "Katalog",
-    "view_all_products": "Produkte anzeigen",
+    "view_all_products": "Alle Produkte zeigen",
     "no_collections": "Es tut uns leid, es gibt keine Kollektionen jetzt.",
     "match_all_label": "Allen entsprechen",
     "sort_by_label": "Sortieren nach:",
@@ -146,7 +146,7 @@
     "max_price_html": "Der höchste Preis ist {{ price }}",
     "reset": "Zurücksetzen",
     "to": "Nach",
-    "use_fewer_filters_html": "Verwende weniger Filter oder <a class=\"{{ class }}\" href=\"{{ link }}\">lösche alle<\/a>",
+    "use_fewer_filters_html": "Verwende weniger Filter oder <a class=\"{{ class }}\" href=\"{{ link }}\">lösche alle</a>",
     "filters_selected": {
       "one": "{{ count }} ausgewählt",
       "other": "{{ count }} ausgewählt"
@@ -200,7 +200,7 @@
       },
       "loading_reviews": "Laden Sie weitere Bewertungen",
       "include_taxes": "inkl. gesetzl. MwSt., ggf. zzgl. Versand ",
-      "shipping_policy_html": "zzgl. <a href=\"{{ link }}\">Versandkosten<\/a>",
+      "shipping_policy_html": "zzgl. <a href=\"{{ link }}\">Versandkosten</a>",
       "view_in_space": "In Ihrem Bereich ansehen",
       "view_in_space_label": "Ansicht in Ihrem Raum“ lädt den Artikel im Augmented-Reality-Fenster",
       "sales_amount_html": "Sie sparen {{ amount }}",
@@ -221,9 +221,9 @@
     "update": "Aktualisieren",
     "note": "Anweisungen zur Bestellung",
     "policies": {
-      "taxes_and_shipping_policy_at_checkout_html": "Steuern und <a href=\"{{ link }}\">Versand<\/a> werden im nächsten Schritt berechnet.",
+      "taxes_and_shipping_policy_at_checkout_html": "Steuern und <a href=\"{{ link }}\">Versand</a> werden im nächsten Schritt berechnet.",
       "taxes_included_but_shipping_at_checkout": "Inklusive gesetzl. MwSt., Versand wird im nächsten Schritt berechnet.",
-      "taxes_included_and_shipping_policy_html": "Inklusive gesetzl. MwSt.; <a href=\"{{ link }}\">Versand <\/a> wird im nächsten Schritt berechnet.",
+      "taxes_included_and_shipping_policy_html": "Inklusive gesetzl. MwSt.; <a href=\"{{ link }}\">Versand </a> wird im nächsten Schritt berechnet.",
       "taxes_and_shipping_at_checkout": "Inklusive gesetzl. MwSt., Versand wird im nächsten Schritt berechnet."
     },
     "empty": "Der Warenkorb ist leer.",
@@ -304,7 +304,7 @@
       "results_count": {
         "zero": "Ihre Suche hat keine Ergebnisse hervorgebracht.",
         "one": "{{ count }} Ergebnis",
-        "other": "{{ offset }} - {{ page_size }} \/ {{ count }} Ergebnisse"
+        "other": "{{ offset }} - {{ page_size }} / {{ count }} Ergebnisse"
       },
       "form_placeholder": "Stichwort hier eingeben",
       "search_button_label": "Suchen",
@@ -446,8 +446,8 @@
     "check_other_stores": "Verfügbarkeit in anderen Shops überprüfen",
     "pick_up_available": "Abholung verfügbar",
     "pick_up_currently_unavailable": "Abholung derzeit nicht verfügbar",
-    "pick_up_available_at_html": "Abholung bei <strong>{{ location_name }}<\/strong> verfügbar",
-    "pick_up_unavailable_at_html": "Abholung bei <strong>{{ location_name }}<\/strong> derzeit nicht verfügbar",
+    "pick_up_available_at_html": "Abholung bei <strong>{{ location_name }}</strong> verfügbar",
+    "pick_up_unavailable_at_html": "Abholung bei <strong>{{ location_name }}</strong> derzeit nicht verfügbar",
     "invalid_location_address": "Wenden Sie sich an das Geschäft, um die Adresse zu bestätigen",
     "refresh": "Aktualisieren",
     "general": {
