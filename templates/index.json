@@ -272,7 +272,7 @@
         "is_fullwidth": true,
         "section_background_color": "#ddebc5",
         "section_background_gradient": "",
-        "remove_margin": true,
+        "remove_margin": false,
         "color_background_main": "#ddebc5",
         "color_text_main": "rgba(0,0,0,0)",
         "color_accent_main": "rgba(0,0,0,0)",
