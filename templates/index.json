@@ -438,6 +438,46 @@
         "seo_h_tag": "h2"
       }
     },
+    "featured_collection_phfnMb": {
+      "type": "featured-collection",
+      "blocks": {
+        "price_XXhQtE": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "title_pmcJKt": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "quick_buy_KFfEXg": {
+          "type": "quick_buy",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "price_XXhQtE",
+        "title_pmcJKt",
+        "quick_buy_KFfEXg"
+      ],
+      "settings": {
+        "heading": "Janoschs Wondrak",
+        "subheading": "Die Bestsellermotive aus der ZEIT als personalisierbare, hochwertige Drucke",
+        "show_view_all": true,
+        "section_heading_layout": "section-heading--center",
+        "style": "slider",
+        "layout": "grid-4 grid-portable-3 grid-lap-2 grid-tiny-1",
+        "products_number": 16,
+        "collection": "wondrak",
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_background_gradient": "",
+        "section_heading_color": "rgba(0,0,0,0)",
+        "remove_margin": false,
+        "seo_h_tag": "h2"
+      }
+    },
     "text_columns_icons_Tkzcnf": {
       "type": "text-columns-icons",
       "blocks": {
@@ -747,6 +787,7 @@
     "rich_text_fz3ypA",
     "slideshow_ENV84c",
     "featured_collection_XmTYG9",
+    "featured_collection_phfnMb",
     "text_columns_icons_Tkzcnf",
     "collection_list_qVCyDc",
     "testimonials_h3RaJR",
