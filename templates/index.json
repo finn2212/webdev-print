@@ -282,6 +282,46 @@
         "color_hide_shadow": false
       }
     },
+    "featured_collection_jXr6KQ": {
+      "type": "featured-collection",
+      "blocks": {
+        "price_bk8phP": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "title_HtqqRx": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "quick_buy_nQwwDR": {
+          "type": "quick_buy",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "price_bk8phP",
+        "title_HtqqRx",
+        "quick_buy_nQwwDR"
+      ],
+      "settings": {
+        "heading": "Janosch Poster zur Geburt",
+        "subheading": "Sicher einer DER Höhepunkte im Leben – die Geburt eines Kindes. Wir haben dafür wunderschöne Janosch-Motive zusammengestellt, die du für dein Kind personalisieren kannst.",
+        "show_view_all": true,
+        "section_heading_layout": "section-heading--center",
+        "style": "slider",
+        "layout": "grid-4 grid-portable-3 grid-lap-2 grid-tiny-1",
+        "products_number": 16,
+        "collection": "geburt",
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_background_gradient": "",
+        "section_heading_color": "rgba(0,0,0,0)",
+        "remove_margin": false,
+        "seo_h_tag": "h2"
+      }
+    },
     "slideshow_ENV84c": {
       "type": "slideshow",
       "blocks": {
@@ -785,6 +825,7 @@
     "promotion_cards_fmqxNV",
     "featured_collection_NVKP96",
     "rich_text_fz3ypA",
+    "featured_collection_jXr6KQ",
     "slideshow_ENV84c",
     "featured_collection_XmTYG9",
     "featured_collection_phfnMb",
