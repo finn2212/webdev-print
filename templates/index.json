@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "rich_text_7wTc9F": {
@@ -201,6 +201,46 @@
         "seo_h_tag": "h2"
       }
     },
+    "featured_collection_NVKP96": {
+      "type": "featured-collection",
+      "blocks": {
+        "price_RhkrLm": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "title_XQFWwQ": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "quick_buy_Dh8ANN": {
+          "type": "quick_buy",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "price_RhkrLm",
+        "title_XQFWwQ",
+        "quick_buy_Dh8ANN"
+      ],
+      "settings": {
+        "heading": "Entdecke alle personalisierbaren Drucke",
+        "subheading": "",
+        "show_view_all": true,
+        "section_heading_layout": "section-heading--center",
+        "style": "slider",
+        "layout": "grid-4 grid-portable-3 grid-lap-2 grid-tiny-1",
+        "products_number": 16,
+        "collection": "personalisierbare-drucke",
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_background_gradient": "",
+        "section_heading_color": "rgba(0,0,0,0)",
+        "remove_margin": true,
+        "seo_h_tag": "h2"
+      }
+    },
     "rich_text_fz3ypA": {
       "type": "rich-text",
       "blocks": {
@@ -358,6 +398,46 @@
         "color_hide_shadow": true
       }
     },
+    "featured_collection_XmTYG9": {
+      "type": "featured-collection",
+      "blocks": {
+        "price_pzP7xz": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "title_BPKN9y": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "quick_buy_XJB3a7": {
+          "type": "quick_buy",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "price_pzP7xz",
+        "title_BPKN9y",
+        "quick_buy_XJB3a7"
+      ],
+      "settings": {
+        "heading": "Lieblingsposter",
+        "subheading": "Entdecke die schönsten Janosch Poster fürs Kinderzimmer",
+        "show_view_all": false,
+        "section_heading_layout": "section-heading--center",
+        "style": "slider",
+        "layout": "grid-4 grid-portable-3 grid-lap-2 grid-tiny-1",
+        "products_number": 16,
+        "collection": "janosch-poster",
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_background_gradient": "",
+        "section_heading_color": "rgba(0,0,0,0)",
+        "remove_margin": false,
+        "seo_h_tag": "h2"
+      }
+    },
     "text_columns_icons_Tkzcnf": {
       "type": "text-columns-icons",
       "blocks": {
@@ -434,39 +514,51 @@
         "seo_h_tag": "h2"
       }
     },
-    "featured_collection_XmTYG9": {
-      "type": "featured-collection",
+    "collection_list_qVCyDc": {
+      "type": "collection-list",
       "blocks": {
-        "price_pzP7xz": {
-          "type": "price",
+        "collection_LQW3ta": {
+          "type": "collection",
           "settings": {
+            "collection": "freundschaft-liebe",
+            "image": "shopify://shop_images/012.webp"
           }
         },
-        "title_BPKN9y": {
-          "type": "title",
+        "collection_fHEKjb": {
+          "type": "collection",
           "settings": {
+            "collection": "geburtstag",
+            "image": "shopify://shop_images/010.webp"
           }
         },
-        "quick_buy_XJB3a7": {
-          "type": "quick_buy",
+        "collection_xXtQa7": {
+          "type": "collection",
           "settings": {
+            "collection": "geburt",
+            "image": "shopify://shop_images/011.webp"
+          }
+        },
+        "collection_U4kKg8": {
+          "type": "collection",
+          "settings": {
+            "collection": "janosch-poster"
           }
         }
       },
       "block_order": [
-        "price_pzP7xz",
-        "title_BPKN9y",
-        "quick_buy_XJB3a7"
+        "collection_LQW3ta",
+        "collection_fHEKjb",
+        "collection_xXtQa7",
+        "collection_U4kKg8"
       ],
       "settings": {
-        "heading": "Lieblingsposter",
-        "subheading": "Entdecke die schönsten Janosch Poster fürs Kinderzimmer",
-        "show_view_all": false,
+        "heading": "Beliebte Themen",
+        "subheading": "",
+        "show_view_all": true,
         "section_heading_layout": "section-heading--center",
-        "style": "slider",
-        "layout": "grid-4 grid-portable-3 grid-lap-2 grid-tiny-1",
-        "products_number": 16,
-        "collection": "janosch-poster",
+        "style": "grid",
+        "layout": "grid-4 grid-lap-3 grid-palm-2",
+        "image_aspect_ratio": "1",
         "section_background_color": "rgba(0,0,0,0)",
         "section_background_gradient": "",
         "section_heading_color": "rgba(0,0,0,0)",
@@ -531,58 +623,6 @@
         "color_hide_borders": true,
         "color_hide_shadow": true,
         "section_background_color": "#f4ecf4",
-        "section_background_gradient": "",
-        "section_heading_color": "rgba(0,0,0,0)",
-        "remove_margin": false,
-        "seo_h_tag": "h2"
-      }
-    },
-    "collection_list_qVCyDc": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_LQW3ta": {
-          "type": "collection",
-          "settings": {
-            "collection": "freundschaft-liebe",
-            "image": "shopify://shop_images/012.webp"
-          }
-        },
-        "collection_fHEKjb": {
-          "type": "collection",
-          "settings": {
-            "collection": "geburtstag",
-            "image": "shopify://shop_images/010.webp"
-          }
-        },
-        "collection_xXtQa7": {
-          "type": "collection",
-          "settings": {
-            "collection": "geburt",
-            "image": "shopify://shop_images/011.webp"
-          }
-        },
-        "collection_U4kKg8": {
-          "type": "collection",
-          "settings": {
-            "collection": "janosch-poster"
-          }
-        }
-      },
-      "block_order": [
-        "collection_LQW3ta",
-        "collection_fHEKjb",
-        "collection_xXtQa7",
-        "collection_U4kKg8"
-      ],
-      "settings": {
-        "heading": "Beliebte Themen",
-        "subheading": "",
-        "show_view_all": true,
-        "section_heading_layout": "section-heading--center",
-        "style": "grid",
-        "layout": "grid-4 grid-lap-3 grid-palm-2",
-        "image_aspect_ratio": "1",
-        "section_background_color": "rgba(0,0,0,0)",
         "section_background_gradient": "",
         "section_heading_color": "rgba(0,0,0,0)",
         "remove_margin": false,
@@ -703,6 +743,7 @@
   "order": [
     "rich_text_7wTc9F",
     "promotion_cards_fmqxNV",
+    "featured_collection_NVKP96",
     "rich_text_fz3ypA",
     "slideshow_ENV84c",
     "featured_collection_XmTYG9",
