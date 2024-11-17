@@ -43,8 +43,7 @@
             "icon_3_label": "",
             "icon_4_image": "shopify://shop_images/organic-128.png",
             "icon_4_label": "Hochwertiges Naturpapier",
-            "icon_5_image": "shopify://shop_images/star-128.png",
-            "icon_5_label": "Lieferung wahlweise gerahmt oder ungerahmt",
+            "icon_5_label": "",
             "icon_6_label": "",
             "hide_block_if": false
           }
