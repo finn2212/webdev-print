@@ -16,6 +16,15 @@
           "type": "title",
           "settings": {}
         },
+        "text_kFt7P9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Limitiert auf 299 Stück – handsigniert von Janosch</p>",
+            "text_size": "text-size--regular",
+            "text_color": "#6A6A6A",
+            "text_transform": false
+          }
+        },
         "price": {
           "type": "price",
           "settings": {}
@@ -72,6 +81,7 @@
       },
       "block_order": [
         "title",
+        "text_kFt7P9",
         "price",
         "tax_info_CAadpK",
         "icons_yUUbJR",
