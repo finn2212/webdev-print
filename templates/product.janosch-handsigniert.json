@@ -64,6 +64,10 @@
             "color_accent_buttons": "rgba(0,0,0,0)",
             "style_buttons": "solid"
           }
+        },
+        "description_VxRzcG": {
+          "type": "description",
+          "settings": {}
         }
       },
       "block_order": [
@@ -73,7 +77,8 @@
         "icons_yUUbJR",
         "space_zNCUiJ",
         "variant_picker",
-        "buy_buttons"
+        "buy_buttons",
+        "description_VxRzcG"
       ],
       "settings": {
         "gallery_style": "slider",
