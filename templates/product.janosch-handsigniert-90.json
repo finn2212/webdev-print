@@ -1,0 +1,317 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "text_kFt7P9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Limitiert auf 299 Stück – handsigniert von Janosch</p>",
+            "text_size": "text-size--regular",
+            "text_color": "#6A6A6A",
+            "text_transform": false
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "tax_info_CAadpK": {
+          "type": "tax_info",
+          "settings": {}
+        },
+        "icons_yUUbJR": {
+          "type": "icons",
+          "settings": {
+            "title": "",
+            "icon_1_image": "shopify://shop_images/crown-128.png",
+            "icon_1_label": "Exklusive Druckgrafik, handsigniert und -nummeriert von Janosch persönlich",
+            "icon_2_label": "",
+            "icon_3_image": "shopify://shop_images/image-128.png",
+            "icon_3_label": "Entstehungsjahr 2018",
+            "icon_4_image": "shopify://shop_images/organic-128.png",
+            "icon_4_label": "Hochwertiges Naturpapier",
+            "icon_5_image": "shopify://shop_images/star-128.png",
+            "icon_5_label": "Lieferung wahlweise gerahmt oder ungerahmt",
+            "icon_6_label": "",
+            "hide_block_if": false
+          }
+        },
+        "space_zNCUiJ": {
+          "type": "space",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variants_style": "radio",
+            "show_quantities": "no"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_price": false,
+            "show_quantity_selector": true,
+            "show_preorder": false,
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false,
+            "color_text_buttons": "rgba(0,0,0,0)",
+            "color_accent_buttons": "rgba(0,0,0,0)",
+            "style_buttons": "solid"
+          }
+        },
+        "description_VxRzcG": {
+          "type": "description",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title",
+        "text_kFt7P9",
+        "price",
+        "tax_info_CAadpK",
+        "icons_yUUbJR",
+        "space_zNCUiJ",
+        "variant_picker",
+        "buy_buttons",
+        "description_VxRzcG"
+      ],
+      "settings": {
+        "gallery_style": "slider",
+        "gallery_ratio": "natural",
+        "gallery_fit": false,
+        "show_border": false,
+        "gallery_card_design": false,
+        "gallery_padding": 0,
+        "gallery_pagination": "dots",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "default_to_first_variant": true,
+        "sticky_add_to_cart": false,
+        "sticky_atc_style": "wide",
+        "sticky_bar_bgcolor": "#ffffff",
+        "sticky_bar_txtcolor": "#111111"
+      }
+    },
+    "text_columns_icons_jAnWYn": {
+      "type": "text-columns-icons",
+      "blocks": {
+        "image_bxnw4w": {
+          "type": "image",
+          "settings": {
+            "icon": "delivery",
+            "image": "shopify://shop_images/missile-256.png",
+            "title": "1. Los geht's",
+            "caption": "Öffne mit einem Klick auf »Jetzt personalisieren« den Motiv-Editor.",
+            "link": "",
+            "open_in_new_window": false,
+            "color_background_main": "#f2f1ed",
+            "color_icons_main": "rgba(0,0,0,0)",
+            "seo_h_tag": "h3"
+          }
+        },
+        "image_YmTrtt": {
+          "type": "image",
+          "settings": {
+            "icon": "time-limit",
+            "image": "shopify://shop_images/heart-128.png",
+            "title": "2. Widmung",
+            "caption": "Füge deinem Lieblingsmotiv deine persönliche Botschaft hinzu.",
+            "link": "",
+            "open_in_new_window": false,
+            "color_background_main": "#f2f1ed",
+            "color_icons_main": "rgba(0,0,0,0)",
+            "seo_h_tag": "h3"
+          }
+        },
+        "image_i8zJXx": {
+          "type": "image",
+          "settings": {
+            "icon": "paper-bag",
+            "title": "3. Warenkorb",
+            "caption": "Lege dein Motiv in den Warenkorb und gehe zur Kasse.",
+            "link": "",
+            "open_in_new_window": false,
+            "color_background_main": "#f2f1ed",
+            "color_icons_main": "rgba(0,0,0,0)",
+            "seo_h_tag": "h3"
+          }
+        },
+        "image_Fhf4HU": {
+          "type": "image",
+          "settings": {
+            "icon": "delivery",
+            "title": "4. Freuen",
+            "caption": "Bald schon wird dein Print zu dir nach Hause geliefert!",
+            "link": "",
+            "open_in_new_window": false,
+            "color_background_main": "#f2f1ed",
+            "color_icons_main": "rgba(0,0,0,0)",
+            "seo_h_tag": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "image_bxnw4w",
+        "image_YmTrtt",
+        "image_i8zJXx",
+        "image_Fhf4HU"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Und so einfach geht's:",
+        "subheading": "",
+        "section_heading_layout": "section-heading--center",
+        "style": "grid",
+        "layout": "grid-4 grid-portable-3 grid-lap-2",
+        "border_radius": 200,
+        "section_background_color": "#f2f1ed",
+        "section_background_gradient": "",
+        "section_heading_color": "#1d1d1d",
+        "remove_margin": false,
+        "seo_h_tag": "h3"
+      }
+    },
+    "promotion_cards_n3dUtP": {
+      "type": "promotion-cards",
+      "blocks": {
+        "card_XqXkGn": {
+          "type": "card",
+          "settings": {
+            "image": "shopify://shop_images/001.webp",
+            "caption": "Wir sind janosch-druck.de",
+            "title": "VIELFALT FÜR DICH",
+            "subtitle": "Als Shop der Janosch AG haben wir die schönsten und vielfältigsten Janosch-Motive für Dich. Schau dich um.",
+            "link": "",
+            "open_in_new_window": false,
+            "button_label": "",
+            "color_background_main": "#daf1f2",
+            "color_text_main": "rgba(0,0,0,0)",
+            "color_accent_main": "rgba(0,0,0,0)",
+            "color_borders_main": "rgba(0,0,0,0)",
+            "color_shadow_main": "rgba(0,0,0,0)",
+            "color_hide_borders": true,
+            "color_hide_shadow": true,
+            "seo_h_tag": "h3"
+          }
+        },
+        "card_Hzt9G3": {
+          "type": "card",
+          "settings": {
+            "image": "shopify://shop_images/1200x1200.jpg",
+            "caption": "Der Tigerentenwald",
+            "title": "DEIN GRÜNES HERZ",
+            "subtitle": "Deine Prints werden klimapositiv produziert und versandt. Dafür arbeiten wir mit den Besten zusammen: Entdecke den Tigerentenwald!",
+            "link": "",
+            "open_in_new_window": false,
+            "button_label": "",
+            "color_background_main": "#ddebc5",
+            "color_text_main": "rgba(0,0,0,0)",
+            "color_accent_main": "rgba(0,0,0,0)",
+            "color_borders_main": "rgba(0,0,0,0)",
+            "color_shadow_main": "rgba(0,0,0,0)",
+            "color_hide_borders": true,
+            "color_hide_shadow": true,
+            "seo_h_tag": "h3"
+          }
+        },
+        "card_XkRrPX": {
+          "type": "card",
+          "settings": {
+            "image": "shopify://shop_images/Bildschirmfoto_2023-08-21_um_22.53.07_1920x1920_341ed6d4-616b-469f-b19d-9533be6bf75a.png",
+            "caption": "Personalisierter Janosch-Druck",
+            "title": "DAS PERFEKTE GESCHENK",
+            "subtitle": "Hach, wie schön ist Panama: Verschenke das schönste Lebensgefühl: Zufriedenheit, Entschleunigung & Dankbarkeit für das, was man hat.",
+            "link": "",
+            "open_in_new_window": false,
+            "button_label": "",
+            "color_background_main": "#f2f1ed",
+            "color_text_main": "rgba(0,0,0,0)",
+            "color_accent_main": "rgba(0,0,0,0)",
+            "color_borders_main": "rgba(0,0,0,0)",
+            "color_shadow_main": "rgba(0,0,0,0)",
+            "color_hide_borders": false,
+            "color_hide_shadow": false,
+            "seo_h_tag": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "card_XqXkGn",
+        "card_Hzt9G3",
+        "card_XkRrPX"
+      ],
+      "settings": {
+        "heading": "Das erwartet dich",
+        "subheading": "Warum Janosch Druck?",
+        "section_heading_layout": "section-heading--center",
+        "layout": "grid-3 grid-lap-1",
+        "image_aspect_ratio": "1",
+        "text_alignment": "text-align--center",
+        "caption_size": "regular",
+        "title_size": "h3",
+        "subtitle_size": "regular",
+        "button_size": "large",
+        "button_style": "outline",
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_background_gradient": "",
+        "section_heading_color": "rgba(0,0,0,0)",
+        "remove_margin": false,
+        "seo_h_tag": "h2"
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "quick_buy": {
+          "type": "quick_buy",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "price",
+        "title",
+        "quick_buy"
+      ],
+      "settings": {
+        "heading": "Weitere tolle Motive:",
+        "subheading": "",
+        "section_heading_layout": "section-heading--center",
+        "layout": "grid-4 grid-portable-3 grid-lap-2 grid-tiny-1",
+        "products_number": 8,
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_background_gradient": "",
+        "section_heading_color": "rgba(0,0,0,0)",
+        "remove_margin": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "text_columns_icons_jAnWYn",
+    "promotion_cards_n3dUtP",
+    "product-recommendations"
+  ]
+}
