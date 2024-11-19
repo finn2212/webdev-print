@@ -199,7 +199,7 @@
         "none": "Keine Bewertungen"
       },
       "loading_reviews": "Laden Sie weitere Bewertungen",
-      "include_taxes": "inkl. gesetzl. MwSt., ggf. zzgl. Versand ",
+      "include_taxes": "inkl. gesetzl. MwSt., ggf. zzgl. Versand. Verfügbar, Lieferzeit ca. 3-4 Werktage.",
       "shipping_policy_html": "zzgl. <a href=\"{{ link }}\">Versandkosten</a>",
       "view_in_space": "In Ihrem Bereich ansehen",
       "view_in_space_label": "Ansicht in Ihrem Raum“ lädt den Artikel im Augmented-Reality-Fenster",
