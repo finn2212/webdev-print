@@ -40,10 +40,9 @@
       "blocks": {
         "info": {
           "type": "info",
-          "disabled": true,
           "settings": {
-            "caption": "Janoschs Herbstliebe",
-            "title": "10% Rabatt auf alle Drucke!",
+            "caption": "10% Rabatt auf alle Drucke mit",
+            "title": "Rabattcode »Weihnachtsbär«!",
             "link": "",
             "link_type": "_self",
             "icon": "giftbox"
