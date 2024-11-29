@@ -76,11 +76,11 @@
         "card_zjNe6Y": {
           "type": "card",
           "settings": {
-            "image": "shopify://shop_images/311_Kachel.webp",
+            "image": "shopify://shop_images/318_Kachel.webp",
             "caption": "Personalisierbarer Druck ab € 29,90",
-            "title": "Liebhaben",
+            "title": "Schlaf gut!",
             "subtitle": "Formate ab 30 x 40 cm erhältlich",
-            "link": "shopify://products/liebhaben",
+            "link": "shopify://products/schlaf-gut",
             "open_in_new_window": false,
             "button_label": "",
             "color_background_main": "rgba(0,0,0,0)",
@@ -206,18 +206,15 @@
       "blocks": {
         "price_RhkrLm": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "title_XQFWwQ": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "quick_buy_Dh8ANN": {
           "type": "quick_buy",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -287,18 +284,15 @@
       "blocks": {
         "price_bk8phP": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "title_HtqqRx": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "quick_buy_nQwwDR": {
           "type": "quick_buy",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -443,18 +437,15 @@
       "blocks": {
         "price_pzP7xz": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "title_BPKN9y": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "quick_buy_XJB3a7": {
           "type": "quick_buy",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -483,18 +474,15 @@
       "blocks": {
         "price_XXhQtE": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "title_pmcJKt": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "quick_buy_KFfEXg": {
           "type": "quick_buy",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
