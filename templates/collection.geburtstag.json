@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "banner": {
@@ -25,11 +25,11 @@
         "card_9W3Taj": {
           "type": "card",
           "settings": {
-            "image": "shopify:\/\/shop_images\/264_test.webp",
+            "image": "shopify://shop_images/264_test.webp",
             "caption": "",
             "title": "Sonnenuntergang",
             "subtitle": "",
-            "link": "shopify:\/\/products\/sonnenuntergang",
+            "link": "shopify://products/sonnenuntergang",
             "open_in_new_window": false,
             "button_label": "",
             "color_background_main": "rgba(0,0,0,0)",
@@ -45,11 +45,11 @@
         "card_E4BUh4": {
           "type": "card",
           "settings": {
-            "image": "shopify:\/\/shop_images\/311_Kachel.webp",
+            "image": "shopify://shop_images/318_Kachel_02.webp",
             "caption": "",
-            "title": "Liebhaben",
+            "title": "Schlaf gut!",
             "subtitle": "",
-            "link": "shopify:\/\/products\/liebhaben",
+            "link": "shopify://products/schlaf-gut",
             "open_in_new_window": false,
             "button_label": "",
             "color_background_main": "rgba(0,0,0,0)",
@@ -65,11 +65,11 @@
         "card_AhKrgM": {
           "type": "card",
           "settings": {
-            "image": "shopify:\/\/shop_images\/262_Kachel.webp",
+            "image": "shopify://shop_images/262_Kachel.webp",
             "caption": "",
             "title": "Eine Blume für dich",
             "subtitle": "",
-            "link": "shopify:\/\/products\/eine-blume-fur-dich",
+            "link": "shopify://products/eine-blume-fur-dich",
             "open_in_new_window": false,
             "button_label": "",
             "color_background_main": "rgba(0,0,0,0)",
@@ -112,18 +112,15 @@
       "blocks": {
         "price": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "title": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "quick_buy": {
           "type": "quick_buy",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -132,7 +129,7 @@
         "quick_buy"
       ],
       "custom_css": [
-        ".item-font {font-family: \"Amatic SC\" !important; font-weight: 400 !important; font-style: normal !important; font-size: calc(26px \/ 60 * var(--base-headings-size) + 0px);}"
+        ".item-font {font-family: \"Amatic SC\" !important; font-weight: 400 !important; font-style: normal !important; font-size: calc(26px / 60 * var(--base-headings-size) + 0px);}"
       ],
       "settings": {
         "layout": "grid-4 grid-portable-3 grid-lap-2 grid-tiny-1",
