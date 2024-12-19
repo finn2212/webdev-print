@@ -40,10 +40,9 @@
       "blocks": {
         "info": {
           "type": "info",
-          "disabled": true,
           "settings": {
-            "caption": "Nur heute von 12–24 Uhr!",
-            "title": "20% Rabatt auf alle Prints!",
+            "caption": "19.12.2024",
+            "title": "Letzter Versandtag vor Weihnachten!",
             "link": "",
             "link_type": "_self",
             "icon": "giftbox"
