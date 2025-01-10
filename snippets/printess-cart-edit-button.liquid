@@ -18,6 +18,8 @@
   - startupBackgroundColor: {String} The background color for the startup screen
   - showSplitterGridSizeButton: {Boolean} Set to false to hide the Gridsize Button
   - additionalAttachParams: {Object} Additional startup params
+  - duplicateAndPersonalizeText: {String} Will show a duplicate & personalize link that enables the customer to open the current basket item, modify it and add it as a second
+  - graphQlToken: {String} The App Access Token for the Graphql Api
   Usage:
   {% render 'printess-cart-edit-button',
     item: item,
@@ -34,7 +36,9 @@
     showAlertOnTabClose: true,
     startupBackgroundColor: "#000000",
     showSplitterGridSizeButton: false,
-    additionalAttachParams: {}
+    additionalAttachParams: {},
+    duplicateAndPersonalizeText: "",
+    graphQlToken: ""
   %}
 {% endcomment %}
 
@@ -42,7 +46,7 @@
   <script id="printess_script_{{ item.key | replace: "-", "_" | replace: ":", "_" }}">
     function getPrintessEditor() {
       if(!getPrintessEditor.editor) {
-        getPrintessEditor.editor = typeof initPrintessShopifyEditor !== "undefined" ? initPrintessShopifyEditor({ displayProductName: !({{showProductName | json}} === false),
+        getPrintessEditor.editor = new PrintessShopifyCart({ displayProductName: !({{showProductName | json}} === false),
                                                                                                                   shopToken: "{{ shopToken }}",
                                                                                                                   "startupLogoUrl": "{{ startupLogoUrl }}",
                                                                                                                   "showStartupAnimation": {{ showStartupAnimation }},
@@ -50,17 +54,15 @@
                                                                                                                   shopMoneyFormat: "{{ shop.money_format }}",
                                                                                                                   "editorVersion": {{ editorVersion | json }},
                                                                                                                   "showAlertOnTabClose": {{showAlertOnTabClose | json}} === true,
-                                                                                                                  "startupBackgroundColor": "{{startupBackgroundColor}}" || "#000000"
-                                                                                                                }) : null;
+                                                                                                                  "startupBackgroundColor": "{{startupBackgroundColor}}" || "#000000",
+                                                                                                                  "graphQlToken": {{graphQlToken | json}} || ""
+                                                                                                                });
       }
-  
       return getPrintessEditor.editor;
     }
-  
-    function openPrintessEditor{{ item.key | replace: "-", "_" | replace: ":", "_" }}() {
+    function openPrintessEditor{{ item.key | replace: "-", "_" | replace: ":", "_" }}(keepOriginalBasketItem = false) {
       const basketItem = {{ item | json }};
       const basketItemProperties = {{item.properties | json}};
-  
       if(basketItemProperties) {
         basketItem.properties = {};
         basketItemProperties.forEach((prop) => {
@@ -71,79 +73,44 @@
           }
         });
       }
-  
+      if(basketItem.options_with_values) {
+        basketItem.options_with_values.forEach((x) => {
+          basketItem.properties[x.name] = x.value;
+        });
+      }
       const editor = getPrintessEditor();
-  
       if(!editor) {
         return;
       }
-  
-      editor.getProductByHandle(basketItem.handle).then((product) => {
-        const selectedVariant = product.variants ? product.variants.filter((x) => x.id == basketItem.variant_id) : [];
-        const optionLookup = {};
-  
-        if(product.options) {
-          product.options.forEach((option, index) => {
-            optionLookup[index] = option;
-          });
-        }
-  
-        if(selectedVariant && selectedVariant.length > 0 && selectedVariant[0].options) {
-          selectedVariant[0].options.forEach((option, index) => {
-            if(optionLookup.hasOwnProperty(index)) {
-              basketItem.properties[optionLookup[index]] = option;
-            }
-          });
-        }
-  
-        let attachParams = null;
-  
-        try {attachParams = JSON.parse({{ additionalAttachParams | json }});}catch(e){}
-  
-        const additionalProperties = {};
-        let addedAdditionalProperties = false;
-  
-  
-        {% if product.metafields.printess.ignoreDropshipBundling %}
-          additionalProperties["ignoreDropshipBundling"] = true;
-          addedAdditionalProperties = true;
-        {% endif %}
-  
-        {% if product.metafields.printess.dropshipBundlingId %}
-          additionalProperties["dropshipBundlingId"] = {{ product.metafields.printess.dropshipBundlingId | json }};
-          addedAdditionalProperties = true;
-        {% endif %}
-  
-        
-        const settings = {
-          templateNameOrSaveToken: basketItem.properties["_printessSaveToken"] || "",
-          product: product,
-          basketItemId: {{ item.key | json }},
-          productDefinitionId: basketItem.properties["_printessProductDefinitionId"] || "",
-          outputFormat: basketItem.properties["_printessOutputType"] || "",
-          outputDpi: basketItem.properties["_printessDpi"] || "",
-          basketItemOptions: basketItem.properties,
-          quantity: basketItem.quantity,
-          optionValueMappings: basketItem.properties["_printessOptionValueMappings"] || "",
-          legalText: {% if legalText != blank %}{{ legalText | json }}{% else %}""{% endif %},
-          theme: basketItem.properties["_printessTheme"] || {% if theme != blank %}"{{ theme }}"{% else %}""{%endif%},
-          additionalAttachParams: attachParams,
-          additionalLineItemProperties: addedAdditionalProperties ? additionalProperties : null
-          // ,onAddToBasket: function(saveToken, thumbnailUrl) {
-  
-          // },
-  
-          // onSave: function(saveToken, thumbnailUrl) {
-            
-          // }
-        };
-  
-        {% if showSplitterGridSizeButton != null and showSplitterGridSizeButton != blank %}settings["showSplitterGridSizeButton"] = {{showSplitterGridSizeButton | json}};{% endif %}
-        
-        editor.show(settings);
-      });
+      let attachParams = null;
+      try {attachParams = JSON.parse({{ additionalAttachParams | json }});}catch(e){}
+      
+      const settings = {
+        basketItemId: {{ item.key | json }},
+        basketItemOptions: basketItem.properties,
+        productId: basketItem.product_id,
+        quantity: basketItem.quantity,
+        legalText: {% if legalText != blank %}{{ legalText | json }}{% else %}""{% endif %},
+        theme: {% if theme != blank %}"{{ theme }}"{% else %}""{%endif%},
+        additionalAttachParams: attachParams,
+        keepOriginalBasketItem: keepOriginalBasketItem,
+        displayProductName: !({{showProductName | json}} === false),
+        /*,onAddToBasket: function(saveToken, thumbnailUrl) {
+          },
+          onSave: function(saveToken, thumbnailUrl) {
+          
+        }*/
+      };
+      {% if showSplitterGridSizeButton != null %}settings["showSplitterGridSizeButton"] = {{showSplitterGridSizeButton | json}};{% endif %}
+      
+      editor.show(settings);
     }
   </script>
   
-  <span style="margin-top: 5px;" onclick='showPrintessEditorFallback("{{ item.key | replace: "-", "_" | replace: ":", "_" }}")' id="printessCustomizeButton{{ item.key | replace: "-", "_" | replace: ":", "_" }}" class="{{ classes }}">{{ label | escape }}</span>
+  <span style="margin-top: 20px;" onclick='showPrintessEditorFallback("{{ item.key | replace: "-", "_" | replace: ":", "_" }}", 0)' id="printessCustomizeButton{{ item.key | replace: "-", "_" | replace: ":", "_" }}" class="{{ classes }}">{{ label | escape }}</span>
+  
+    {% if duplicateAndPersonalizeText != blank %}
+      <span style="margin-top: 20px;" onclick='showPrintessEditorFallback("{{ item.key | replace: "-", "_" | replace: ":", "_" }}", 0, true)' id="printessDuplicateButton{{ item.key | replace: "-", "_" | replace: ":", "_" }}" class="{{ classes }}">{{ duplicateAndPersonalizeText | escape }}</span>
+    {% endif %}
   {%  endif %}
+  
