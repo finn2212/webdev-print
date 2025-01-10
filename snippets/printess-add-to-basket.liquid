@@ -197,7 +197,9 @@
 </script>
 
 <button onclick='showPrintessEditorFallback({{ product.id | json }}, 0)' id="printessCustomizeButton{{ product.id | json }}" class="{{ buttonClasses }}" style="display:none; justify-content: center;">
-  {{ buttonLabel | escape }}
+  <span class="button__text">
+    {{ buttonLabel | escape }}
+  </span>
 </button>
 
 <script>
